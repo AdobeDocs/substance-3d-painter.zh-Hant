@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ![](../../assets/cm-ace.png)
 
-專案設定可在新專案視窗建立新專案[](../../getting-started/project-creation.md)時設定，或使用[專案設定](../../interface/project-configuration.md)視窗設定。
+專案設定可在新專案視窗建立新專案[&#128279;](../../getting-started/project-creation.md)時設定，或使用[專案設定](../../interface/project-configuration.md)視窗設定。
 
 >[!NOTE]
 >

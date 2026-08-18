@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/image2018-6-12-18-14-12.png)
 
-在 Substance 3D Painter 2 中引入，污漬工具與繪畫工具](https://support.allegorithmic.com/documentation/display/SPDOC/Paint+brush)共享相同類型的參數[。
+在 Substance 3D Painter 2 中引入，污漬工具與繪畫工具[&#128279;](https://support.allegorithmic.com/documentation/display/SPDOC/Paint+brush)共享相同類型的參數。
 
 ![](../../assets/smudge.gif)
 

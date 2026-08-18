@@ -38,7 +38,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
-> 也可以透過<b>視窗角落[](../../interface/viewport/viewport.md)的下拉選單</b>來切換視角模式。還有[快捷鍵](../settings/shortcuts.md)可以快速切換通道、網格貼圖，甚至回到材質模式。
+> 也可以透過<b>視窗角落[&#128279;](../../interface/viewport/viewport.md)的下拉選單</b>來切換視角模式。還有[快捷鍵](../settings/shortcuts.md)可以快速切換通道、網格貼圖，甚至回到材質模式。
 
 ## 顯示設定區塊
 

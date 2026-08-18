@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/sss-sarah.jpg){width="500px"}
 
->> 
+&#x200B;>> 
 
 （製作人員：士兵，[作者：里貝羅勒斯·里奧]（https://www.artstation.com/artwork/xNYDm 年）
 

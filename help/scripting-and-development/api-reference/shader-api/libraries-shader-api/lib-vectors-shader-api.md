@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## lib-vectors.glsl
 
-**公共函數：** computeLocalFrame ** getEyeVec ** tangentSpaceToWorldSpace ** worldSpaceToTangentSpace **
+**公共函數：** computeLocalFrame **&#x200B; getEyeVec &#x200B;** tangentSpaceToWorldSpace **&#x200B; worldSpaceToTangentSpace &#x200B;**
 
 從函式庫匯入
 

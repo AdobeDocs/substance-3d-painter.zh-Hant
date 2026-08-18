@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## lib-random.glsl
 
-**公共函數：** getBlueNoiseThreshold ** getBlueNoiseThreshold temporal ** fibonacci1D ** fibonacci2D ** fibonacci2D itheredTemporal **
+**公共函數：** getBlueNoiseThreshold **&#x200B; getBlueNoiseThreshold temporal &#x200B;** fibonacci1D **&#x200B; fibonacci2D &#x200B;** fibonacci2D itheredTemporal **
 
 從函式庫匯入
 
