@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 複製工具
 
-Clone 工具在 Substance 3D Painter 2 中引入，與繪畫工具](https://support.allegorithmic.com/documentation/display/SPDOC/Paint+brush)共享相同類型的參數[。顧名思義，複製工具允許你從一個點複製特定圖層或整個圖層堆疊的內容。
+Clone 工具在 Substance 3D Painter 2 中引入，與繪畫工具[&#128279;](https://support.allegorithmic.com/documentation/display/SPDOC/Paint+brush)共享相同類型的參數。顧名思義，複製工具允許你從一個點複製特定圖層或整個圖層堆疊的內容。
 
 ![](../../assets/clone-01.gif)
 

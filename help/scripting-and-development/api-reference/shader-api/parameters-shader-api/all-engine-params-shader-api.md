@@ -62,11 +62,11 @@ uniform SamplerSparse uniform_tex; // if TEXTURE_TAG_1 exists then TEXTURE_TAG_1
 
 **貼圖集通道**
 
-*頻道\_ambientocclusion*&#x200B;頻道\_anisotropyangle **&#x200B;頻道\_anisotropylevel頻道\_basecolor **&#x200B;頻道\_blendingmask ****&#x200B;頻道\_diffuse **&#x200B;頻道\_displacement **&#x200B;頻道\_emissive **&#x200B;頻道\_glossiness **&#x200B;頻道\_height_ior ****&#x200B;頻道\頻道\_metallic **&#x200B;頻道\_normal **&#x200B;頻道\_opacity頻道\_reflection **** *頻道\_roughness**頻道\_scattering**頻道\_specular**頻道\_specularlevel**頻道\_transmissive*
+*頻道\_ambientocclusion*&#x200B;頻道\_anisotropyangle **&#x200B;頻道\_anisotropylevel頻道\_basecolor &#x200B;**&#x200B;頻道\_blendingmask **&#x200B;**&#x200B;頻道\_diffuse **&#x200B;頻道\_displacement &#x200B;**&#x200B;頻道\_emissive **&#x200B;頻道\_glossiness &#x200B;**&#x200B;頻道\_height_ior **&#x200B;**&#x200B;頻道\頻道\_metallic **&#x200B;頻道\_normal &#x200B;**&#x200B;頻道\_opacity頻道\_reflection **&#x200B;**&#x200B;*頻道\_roughness&#x200B;**頻道\_scattering**&#x200B;頻道\_specular&#x200B;**頻道\_specularlevel**&#x200B;頻道\_transmissive*
 
 **使用者頻道**
 
-*頻道\_user0**頻道\_user1**頻道\_user2**頻道\_user3**頻道\_user4**頻道\_user5**頻道\_user6**頻道\_user7*
+*頻道\_user0&#x200B;**頻道\_user1**&#x200B;頻道\_user2&#x200B;**頻道\_user3**&#x200B;頻道\_user4&#x200B;**頻道\_user5**&#x200B;頻道\_user6**頻道\_user7*
 
 ### 網格貼圖
 

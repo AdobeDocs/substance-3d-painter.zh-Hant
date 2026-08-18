@@ -33,7 +33,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 > 輸出範本會以獨立檔案</b>形式儲存在磁碟<b>上，並可與其他 Substance 3D Painter 使用者分享。\
-> 你可以在 Substance 3D Painter 檔案](../pipeline-and-integration/resource-management/shelf-and-assets-location.md)的 [assets/export-presets 資料夾中找到你所建立自訂範本的本地檔案。
+> 你可以在 Substance 3D Painter 檔案[&#128279;](../pipeline-and-integration/resource-management/shelf-and-assets-location.md)的 assets/export-presets 資料夾中找到你所建立自訂範本的本地檔案。
 
 >[!NOTE]
 >

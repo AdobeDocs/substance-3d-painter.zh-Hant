@@ -12,7 +12,7 @@ ht-degree: 0%
 
 本期內容取自Jira史詩 `SBSFOUR-6267`。 腳本會擷取所有問題，過濾目標版本中已修正的問題，並輸出一個格式化的 markdown 檔案，準備提交。
 
----
+&#x200B;---
 
 ## 快速入門
 
@@ -25,12 +25,13 @@ ht-degree: 0%
    ```
    python fetch_known_issues.py
    ```
+
 4. 請查看輸出摘要——它會報告被檢取了多少期數、被排除了多少期
 5. 將產生 `known-issues.md` 的 複製到 `help/release-notes/known-issues.md`
 
 > 如果有任何缺失或意外的問題，請檢查 `raw_issues.json` Jira 在過濾前的回覆。
 
----
+&#x200B;---
 
 ## 一次性設置
 
@@ -64,7 +65,7 @@ OUTPUT_FILE=known-issues.md
 
 `TARGET_VERSION` 是你產生已知問題頁面的 Substance 3D Painter 版本。 它控制哪些固定問題被排除——詳見 [下方的過濾邏輯](#filtering-logic) 。
 
----
+&#x200B;---
 
 ## 儲存庫結構
 
@@ -78,7 +79,7 @@ OUTPUT_FILE=known-issues.md
 └── known-issues.md            # Generated output from last run — gitignored
 ```
 
----
+&#x200B;---
 
 ## Jira 參考
 
@@ -90,7 +91,7 @@ OUTPUT_FILE=known-issues.md
 
 所有已知議題必須與此史詩相關，才能出現在產生的文件中。 如果需要新增或移除某個問題，請在 Jira 中更新史詩，而不是手動編輯 markdown。
 
----
+&#x200B;---
 
 ## 劇本運作原理
 
@@ -153,7 +154,7 @@ OUTPUT_FILE=known-issues.md
 - 類別群組間的空白行
 - 最後有 `## Stability` 一段關於當機問題的章節
 
----
+&#x200B;---
 
 ## 過濾邏輯
 
@@ -165,7 +166,7 @@ OUTPUT_FILE=known-issues.md
 | `Fixed` | 是的 | 修正目標≤版本 | 沒有（已經寄出） |
 | `Fixed` | 是的 | 修正目標>版本 | 是的（修正會在未來版本中） |
 
----
+&#x200B;---
 
 ## 輸出格式
 
@@ -194,7 +195,7 @@ This page lists all the active known issues present in v12.0.3 of Substance 3D P
 
 **格式說明：** 類別標籤使用單一回溯勾標（single backtick）包裹—— `` `[Category]` `` 而非雙回標註。 舊有手動維護的文件包含雙回溯錯誤;腳本總是產生正確格式。
 
----
+&#x200B;---
 
 ## 疑難排解
 
@@ -203,7 +204,7 @@ This page lists all the active known issues present in v12.0.3 of Substance 3D P
 - 你的PAT可能已經過期或被撤銷——請在新 `https://jira.corp.adobe.com/secure/ViewProfile.jspa` 時產生新的PAT並更新你的 `.env`
 
 **`JIRA_PAT is not set`錯誤**
-- 確保你已經建立`.env``.env.example`並填寫了你的代幣檔案
+- 確保你已經建立`.env`&#x200B;`.env.example`並填寫了你的代幣檔案
 - 確認你是在目錄裡`scripts/known-issues-automation/`執行腳本，這樣`python-dotenv`才能找到檔案`.env`
 
 **輸出中缺少的問題**

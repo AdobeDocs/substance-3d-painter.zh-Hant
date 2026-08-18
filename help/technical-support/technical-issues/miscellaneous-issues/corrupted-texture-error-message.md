@@ -48,7 +48,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> * 在烘焙材質的外殼裡，別忘了也清空 Texture Set](../../../interface/texture-set/texture-set-settings.md) 視窗裡[的 Mesh Maps 欄位。
+> * 在烘焙材質的外殼裡，別忘了也清空 Texture Set[&#128279;](../../../interface/texture-set/texture-set-settings.md) 視窗裡的 Mesh Maps 欄位。
 > * 只在貼圖集設定中使用的烘焙，例如法線貼圖，也可能因此損壞。 如果錯誤依舊，也試著移除它們。
 
 ### 3 - 清理

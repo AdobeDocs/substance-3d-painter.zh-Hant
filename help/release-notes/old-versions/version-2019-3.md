@@ -115,7 +115,7 @@ ht-degree: 0%
 Substance Painter 現在會自動展開缺少 UV 座標的網格。 這樣就能匯入任何幾何體，並立即開始繪製。 我們的 UV 展開系統會為每個子網格產生一個 UV 島嶼，同時仍依照材質指派建立貼圖集。 此功能目前仍處於測試階段，未來版本將持續演進。 自動展開只會套用在不使用 UDIM 工作流程&#x200B;**的專案**&#x200B;上。
 
 * **自動紫外線展開**\
-  預設情況下，Substance Painter 會自動為缺少 UV 座標的網格產生 UV 座標。 這適用於專案建立和網格重新匯入。 不過，你可以進入[主設定](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html)，在&#x200B;**匯入選項**&#x200B;中關閉「啟用自動 UV 展開」****&#x200B;來關閉此行為。
+  預設情況下，Substance Painter 會自動為缺少 UV 座標的網格產生 UV 座標。 這適用於專案建立和網格重新匯入。 不過，你可以進入[主設定](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html)，在&#x200B;**匯入選項**&#x200B;中關閉「啟用自動 UV 展開」**&#x200B;**&#x200B;來關閉此行為。
 
   ![](../../assets/uv-unwrap-setting.png)
 * **UV 展開進度條**\
@@ -203,7 +203,7 @@ Substance Painter 現在會自動展開缺少 UV 座標的網格。 這樣就能
 
     ![](../../assets/icon-matfx-watercolor.png)
   * **MatFx 油畫顏料**\
-    受Emrecan Cubukcu](https://www.artstation.com/emrecancubukcu)研究啟[發，此濾鏡讀取輸入的色彩資訊，並根據各種參數轉換成筆觸。有多種預設可供選擇，方便嘗試不同的變化。 我們建議搭配烘焙光影環境&#x200B;**濾鏡，**&#x200B;或手動烘焙/繪製陰影，以最大化效果。
+    受Emrecan Cubukcu[&#128279;](https://www.artstation.com/emrecancubukcu)研究啟發，此濾鏡讀取輸入的色彩資訊，並根據各種參數轉換成筆觸。有多種預設可供選擇，方便嘗試不同的變化。 我們建議搭配烘焙光影環境&#x200B;**濾鏡，**&#x200B;或手動烘焙/繪製陰影，以最大化效果。
 
     ![](../../assets/icon-matfx-oil-paint.png)
 
@@ -215,7 +215,7 @@ Substance Painter 現在會自動展開缺少 UV 座標的網格。 這樣就能
 * **新的畫筆預設**
 
   * **102 個 Photoshop 筆刷預設**\
-    隨著 Photoshop 筆刷支援的推出，新增了一套預設來展示這個功能。 這些預設是從 Kyle T. Webster 在 Adobe 網站上](https://www.adobe.com/products/photoshop/brushes.html)提供的[套件中挑選出來的。
+    隨著 Photoshop 筆刷支援的推出，新增了一套預設來展示這個功能。 這些預設是從 Kyle T. Webster 在 Adobe 網站上[&#128279;](https://www.adobe.com/products/photoshop/brushes.html)提供的套件中挑選出來的。
 
     ![](../../assets/shelf-abr-demo.jpg){width="500px"}
   * **18 種新刷子預設**\

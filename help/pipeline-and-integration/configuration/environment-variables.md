@@ -24,11 +24,11 @@ ht-degree: 2%
 
 | 變數 | 說明 | 版本 |
 | --- | --- | --- |
-| **內容\_PAINTER\_LICENSE** | 價值：直接連接到授權檔案本身的路徑。允許 覆蓋授權檔案的預設位置。 舉例來說：如果授權檔案在 **H：/allegorithmic/licenses/substance\_painter.key**，變數資料應該是&#x200B;**「H：/allegorithmic/licenses/substance\_painter.key」。****注意：**  對於 3.x（2017.x）之前的版本，請使用 SUBSTANCE\_PAINTER\_2\_LICENSE。 | <ol data-preserve-html="true"><li data-preserve-html="true">1</li></ol> |
+| **內容\_PAINTER\_LICENSE** | 價值：直接連接到授權檔案本身的路徑。允許 覆蓋授權檔案的預設位置。 舉例來說：如果授權檔案在 **H：/allegorithmic/licenses/substance\_painter.key**，變數資料應該是&#x200B;**「H：/allegorithmic/licenses/substance\_painter.key」。**&#x200B;**注意：**  對於 3.x（2017.x）之前的版本，請使用 SUBSTANCE\_PAINTER\_2\_LICENSE。 | <ol data-preserve-html="true"><li data-preserve-html="true">1</li></ol> |
 | **阿勒_LICENSE\_IDLE\_DELAY** | 值：7200 指定多使用者配置時釋放授權席位的秒數。 預設是2小時（7200秒）。 | <ol data-preserve-html="true"><li data-preserve-html="true">1</li></ol> |
 | **ALG\_PAINTER\_SKIP\_CHECK\_FOR\_UPDATES** | 值 ：0 或 1（1 = 停用更新檢查）允許在應用程式啟動時跳過更新檢查。 關閉「What&#39;s new」面板。 | <ol data-preserve-html="true"><li data-preserve-html="true">2.2</li></ol> |
-| **實質_PAINTER\_SVT\_HARDWARE\_ACCELERATION** | 值：0 或 1（1 = 啟用）使用 GPU 上的稀疏功能。 如果 GPU 或作業系統不支援，該設定將被忽略。 關於相容硬體配置，請參閱文件：[稀疏虛擬貼圖](../../features/sparse-virtual-textures.md)此變數覆蓋設定視窗中[](../../interface/settings/settings.md)可用的參數。 | <ol data-preserve-html="true"><li data-preserve-html="true">3</li></ol> |
-| **內容\_PAINTER\_TEMP_LOCATION** | 值：直接路徑至資料夾定義 Substance Painter 應該寫入暫存檔案（包括 SVT 快取）的位置。此變數覆蓋設定視窗中[](../../interface/settings/settings.md)可用的參數。 | <ol data-preserve-html="true"><li data-preserve-html="true">3</li></ol> |
+| **實質_PAINTER\_SVT\_HARDWARE\_ACCELERATION** | 值：0 或 1（1 = 啟用）使用 GPU 上的稀疏功能。 如果 GPU 或作業系統不支援，該設定將被忽略。 關於相容硬體配置，請參閱文件：[稀疏虛擬貼圖](../../features/sparse-virtual-textures.md)此變數覆蓋設定視窗中[&#128279;](../../interface/settings/settings.md)可用的參數。 | <ol data-preserve-html="true"><li data-preserve-html="true">3</li></ol> |
+| **內容\_PAINTER\_TEMP_LOCATION** | 值：直接路徑至資料夾定義 Substance Painter 應該寫入暫存檔案（包括 SVT 快取）的位置。此變數覆蓋設定視窗中[&#128279;](../../interface/settings/settings.md)可用的參數。 | <ol data-preserve-html="true"><li data-preserve-html="true">3</li></ol> |
 | **內容\_PAINTER\_PREVIEWS\_MEMORY\_BUDGET** | 值：500 定義應用程式可用來載入並暫時儲存資產視窗預覽的記憶體（記憶體）量。 當預算達到上限時，舊預覽會被卸載。 這個值只控制資產視窗中預覽的顯示。數值以兆位元組為單位定義。 預設值是 500MB。 | <ol data-preserve-html="true"><li data-preserve-html="true">2</li></ol> |
 | **內容\_PAINTER\_PLUGINS\_PATH** | 額外 Python 外掛的位置。 | 6.1 |
 | **PYTHONPATH** | 額外的 Python 模組，以配合應用程式的 Python 整合來載入。 更多資訊請參見 [「載入外部 Python 模組](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/loading-external-python-modules-205363420.html)」。 | <ol data-preserve-html="true"><li data-preserve-html="true">1</li></ol> |

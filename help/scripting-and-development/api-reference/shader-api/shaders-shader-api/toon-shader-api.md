@@ -54,7 +54,7 @@ uniform SamplerSparse basecolor_tex;
 ```
 
 
-我們&#x200B;**會將網格曲率綁定****到均勻**&#x200B;曲率_tex ****。若無法提供曲率，則提供透明紋理。
+我們&#x200B;**會將網格曲率綁定**&#x200B;**到均勻**&#x200B;曲率_tex **&#x200B;**。若無法提供曲率，則提供透明紋理。
 
 ```
 //: param auto texture_curvature 

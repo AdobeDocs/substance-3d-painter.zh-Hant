@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 版本 7.2
 
-**Substance 3D Painter 7.2** 帶來了新的渲染功能，採用 Adobe Standard Material 工作流程，並新增跨 Substance 3D 應用程式](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)內容共享[方式，以及全新改造的資產視窗。
+**Substance 3D Painter 7.2** 帶來了新的渲染功能，採用 Adobe Standard Material 工作流程，並新增跨 Substance 3D 應用程式[&#128279;](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)內容共享方式，以及全新改造的資產視窗。
 
 上映日期： *2021年6月23日*
 

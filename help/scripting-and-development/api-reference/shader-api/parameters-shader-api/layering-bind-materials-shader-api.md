@@ -59,7 +59,7 @@ ht-degree: 0%
 ```
 
 
-要將素材的通道綁定到取樣器，請定義一個自動參數，包含素材的 ID 加上通道標籤（詳見 all-engine-params.glsl](all-engine-params-shader-api.md) 中的[可用通道）：
+要將素材的通道綁定到取樣器，請定義一個自動參數，包含素材的 ID 加上通道標籤（詳見 all-engine-params.glsl[&#128279;](all-engine-params-shader-api.md) 中的可用通道）：
 
 ```
 //: param auto Material1.channel_basecolor 

@@ -26,5 +26,5 @@ ht-degree: 0%
 
 以下是解決方法：
 
-* 對於&#x200B;**預設著色器**：請依照「更新著色器](../../../interface/shader-settings/updating-a-shader.md)」頁面的逐步步驟[操作。
+* 對於&#x200B;**預設著色器**：請依照「更新著色器[&#128279;](../../../interface/shader-settings/updating-a-shader.md)」頁面的逐步步驟操作。
 * 關於 **自訂著色器**：請查看日誌視窗中的錯誤訊息以及 [著色器 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 頁面。

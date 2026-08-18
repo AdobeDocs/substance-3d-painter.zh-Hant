@@ -114,11 +114,11 @@ ht-degree: 0%
 
 ![A列出並排展示的球體，展示不同的新材料](../assets/v90_banner_materials.jpg)
 
-這次發行我們決定對圖書館做些清理，因此調整了預設的基礎素材，讓它們對所有人都更有用。 這些素材由同一團隊製作，負責在 Substance 3D Assets](https://substance3d.adobe.com/assets) 上提供內容[。
+這次發行我們決定對圖書館做些清理，因此調整了預設的基礎素材，讓它們對所有人都更有用。 這些素材由同一團隊製作，負責在 Substance 3D Assets[&#128279;](https://substance3d.adobe.com/assets) 上提供內容。
 
 >[!NOTE]
 >
-> 被移除的內容可在 Substance 3D 社群資產](https://substance3d.adobe.com/community-assets?q=painter23update&u=painter23update)中取得[。
+> 被移除的內容可在 Substance 3D 社群資產[&#128279;](https://substance3d.adobe.com/community-assets?q=painter23update&u=painter23update)中取得。
 
 ## 教學課程
 

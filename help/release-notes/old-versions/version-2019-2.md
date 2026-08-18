@@ -53,7 +53,7 @@ ht-degree: 1%
 * **CPU 光線追蹤已改進**\
   CPU 上的光線追蹤計算速度現在比以前快了 2 到 3 倍。 所以即使你的 GPU 不支援 GPU 光線追蹤，整體效能還是會提升。
 * **GPU 光線追蹤支援 DXR 與 Optix**\
-  有了相容硬體，烘焙師現在能直接在 GPU 上計算，大幅縮短計算時間，尤其當啟用抗鋸齒並定義大量光線時。 DXR 是預設選項（若有），否則會使用 Optix。 你可以進入主設定](../../interface/settings/settings.md)並尋找「**烘焙選項**」來關閉 GPU 光線追蹤[：
+  有了相容硬體，烘焙師現在能直接在 GPU 上計算，大幅縮短計算時間，尤其當啟用抗鋸齒並定義大量光線時。 DXR 是預設選項（若有），否則會使用 Optix。 你可以進入主設定[&#128279;](../../interface/settings/settings.md)並尋找「**烘焙選項**」來關閉 GPU 光線追蹤：
 
   ![](../../assets/baking-options-v2.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 * **改良旋轉機械手**\
   過去旋轉操控器有點慢，導致旋轉有時變得繁瑣。 旋轉速度現在與攝影機和場景大小掛鉤。
 * **在高 DPI 螢幕上使用視窗降細的效能提升**\
-  在主設定](../../interface/settings/settings.md)中[現在有一個名為「Viewport Scaling」的新參數，值為「**None**」和「**Auto**」（預設值）。當 Substance Painter 偵測到螢幕使用 HDPI 縮放（例如 MacOS的 Retina 螢幕）時，會自動將視窗解析度除以 2。 這種行為避免了視窗繪製過大，並提升整體效能，且不會明顯損耗品質。
+  在主設定[&#128279;](../../interface/settings/settings.md)中現在有一個名為「Viewport Scaling」的新參數，值為「**None**」和「**Auto**」（預設值）。當 Substance Painter 偵測到螢幕使用 HDPI 縮放（例如 MacOS的 Retina 螢幕）時，會自動將視窗解析度除以 2。 這種行為避免了視窗繪製過大，並提升整體效能，且不會明顯損耗品質。
 
   ![](../../assets/settings-viewport-downscale.png)
 * **新的 Console 腳本外掛**\
