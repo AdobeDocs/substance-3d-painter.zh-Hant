@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../../assets/viewport-menu.png)
 
-視窗選單可用來更改視窗](https://substance3d.adobe.com/)的[顯示模式。
+視窗選單可用來更改視窗[&#128279;](https://substance3d.adobe.com/)的顯示模式。
 
 | 動作 | 說明 |
 | --- | --- |

@@ -53,4 +53,4 @@ ht-degree: 0%
 
 影像序列可以像其他資源一樣載入介面中的任何資源槽。 不過在某些情況下，它們可能需要額外的設定才能正確使用。
 
-在填充圖層（以及填充效果）中[，請確保投影模式設定為&#x200B;**填充（Match Each UV Tile），**&#x200B;以確保序列中的每個影像都被分配到貼圖集中的正確 [UV 圖塊](uv-tiles.md)。](../../painting/fill-projections/fill-projections.md)
+在填充圖層（以及填充效果）中[&#128279;](../../painting/fill-projections/fill-projections.md)，請確保投影模式設定為&#x200B;**填充（Match Each UV Tile），**&#x200B;以確保序列中的每個影像都被分配到貼圖集中的正確 [UV 圖塊](uv-tiles.md)。

@@ -28,7 +28,7 @@ ht-degree: 0%
 
 | 應用類型 | 啟動過程 |
 | --- | --- |
-| 創意雲端桌面 | 請參閱 HelpX 文件](https://helpx.adobe.com/download-install/using/download-creative-cloud-apps.html)中的[專屬頁面。若有任何問題， [Creative Cloud 的文件](https://helpx.adobe.com/creative-cloud/user-guide.html) 可能會提供更多解答。 |
+| 創意雲端桌面 | 請參閱 HelpX 文件[&#128279;](https://helpx.adobe.com/download-install/using/download-creative-cloud-apps.html)中的專屬頁面。若有任何問題， [Creative Cloud 的文件](https://helpx.adobe.com/creative-cloud/user-guide.html) 可能會提供更多解答。 |
 | 蒸汽 | 直接從你的 Steam 遊戲庫啟動產品。 |
 | Substance 3D 獨立版 | 請參考下方說明的啟動流程。 |
 

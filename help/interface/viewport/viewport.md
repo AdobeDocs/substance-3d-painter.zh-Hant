@@ -74,19 +74,19 @@ ht-degree: 1%
     <th><em>說明</em></th>
   </tr>
   <tr>
-    <td><strong>視窗模式</strong><br>！[](../../資產/viewport-viewmode.png）</td>
+    <td><strong>視窗模式</strong><br>！[&#128279;](../../資產/viewport-viewmode.png)</td>
     <td>這些設定控制視窗的佈局：<br><ul><li><strong>3D/2D</strong> （預設）：在視窗中同時顯示 3D 與 2D 視圖</li><li><strong>僅限</strong> 3D：最大化 3D 視圖並隱藏 2D 視圖。</li><li><strong>僅限</strong> 2D：最大化 2D 視圖並隱藏 3D 視圖。</li><li><strong>交換 3D/2D</strong>：交換視圖顯示的順序。 如果 3D 視角在左邊，選擇這個動作後就會在右邊。</li></ul></td>
   </tr>
   <tr>
-    <td><strong>視角模式</strong><br>！[](../../資產/viewport-camera-projection.png）</td>
+    <td><strong>視角模式</strong><br>！[&#128279;](../../資產/viewport-camera-projection.png)</td>
     <td>以下設定控制 3D 網格在 3D 視圖中的呈現方式：<br><ul><li><strong>透視視角</strong> （預設）：顯示3D網格，呈現人眼或相機所見的樣貌。</li><li><strong>正交視圖</strong>：顯示3D網格，因為每個方向測量的長度相同。</li></ul></td>
   </tr>
   <tr>
-    <td><strong>攝影機旋轉模式</strong><br>！[](../../資產/viewport-camera-axis.png）</td>
+    <td><strong>攝影機旋轉模式</strong><br>！[&#128279;](../../資產/viewport-camera-axis.png)</td>
     <td>這些設定控制視窗攝影機可以旋轉多少軸。<br><ul><li><strong>自由旋轉</strong>：相機在 X、Y 和 Z 軸上旋轉。</li><li><strong>受限旋轉</strong> （預設）：鏡頭只在X軸和Y軸旋轉（無滾轉）。</li></ul></td>
   </tr>
   <tr>
-    <td><strong>渲染模式</strong><br>！[](../../資產/viewport-rendering.png）</td>
+    <td><strong>渲染模式</strong><br>！[&#128279;](../../資產/viewport-rendering.png)</td>
     <td>切換到 <a href="../../features/iray-renderer/iray-renderer.md">渲染模式</a>。</td>
   </tr>
 </table>

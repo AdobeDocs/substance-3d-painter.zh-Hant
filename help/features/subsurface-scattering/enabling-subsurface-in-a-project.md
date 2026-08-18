@@ -35,7 +35,7 @@ ht-degree: 0%
 
 ## 2 - 全球地下設定
 
-在顯示設定](../../interface/display-settings/display-settings.md)（後期效果設定下方）啟用主要的次表面散射設定[：
+在顯示設定[&#128279;](../../interface/display-settings/display-settings.md)（後期效果設定下方）啟用主要的次表面散射設定：
 
 ![](../../assets/enable-subsurface.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 ![](../../assets/shader-parameters.png)
 
-在 Shader 設定](../../interface/shader-settings/shader-settings.md)視窗中[，預設著色器可以找到一個「**SSS 參數**」群組，裡面有兩個設定。\
+在 Shader 設定[&#128279;](../../interface/shader-settings/shader-settings.md)視窗中，預設著色器可以找到一個「**SSS 參數**」群組，裡面有兩個設定。\
 調整比例和顏色以符合目標材質。 關於這些設定的更多細節，請參見： [次表面參數](subsurface-parameters.md)
 
 ## 額外：啟用陰影

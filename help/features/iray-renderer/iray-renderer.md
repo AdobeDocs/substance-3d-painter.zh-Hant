@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/iray-mode.jpg){width="600px"}
 
-**Iray** 是由 Nvidia](http://www.nvidia.com/object/nvidia-iray.html) 開發[的 GPU 加速路徑追蹤渲染器。\
+**Iray** 是由 Nvidia[&#128279;](http://www.nvidia.com/object/nvidia-iray.html) 開發的 GPU 加速路徑追蹤渲染器。\
 透過 Iray，可以在場景中創造出極高的光照精度，且能以高解析度（高解析度）呈現。
 
 ## Iray 模式

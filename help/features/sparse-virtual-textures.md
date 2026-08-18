@@ -41,7 +41,7 @@ ht-degree: 0%
 | **Linux** | <ul data-preserve-html="true"><li data-preserve-html="true">Nvidia GeForce（驅動程式 410.73 或更高）</li><li data-preserve-html="true">Nvidia Quadro（驅動程式 410.73 或以上）</li><li data-preserve-html="true">AMD FirePro 與 Radeon Pro（驅動程式 18.9.3 或以上） <strong> &#42; </strong></li><li data-preserve-html="true">AMD Radeon（驅動程式 18.9.3 或更高版本）&#42;</li></ul> | <ul data-preserve-html="true"><li data-preserve-html="true">Intel GPU</li></ul> |
 
 
-* **\*** ：硬體加速預設已關閉，可在設定](../interface/settings/settings.md)中[手動啟用。
+* **\*** ：硬體加速預設已關閉，可在設定[&#128279;](../interface/settings/settings.md)中手動啟用。
 
 ## 為什麼 Substance 3D Painter 使用稀疏的虛擬貼圖？
 
@@ -68,7 +68,7 @@ SVT 的目標是預算視窗能佔用 GPU 記憶體，讓主引擎有更多空�
 
 要更新你的著色器：
 
-* 針對&#x200B;**預設 Substance 3D Painter 著色器**：請依照「更新著色器](../interface/shader-settings/updating-a-shader.md)」頁面的[步驟操作。
+* 針對&#x200B;**預設 Substance 3D Painter 著色器**：請依照「更新著色器[&#128279;](../interface/shader-settings/updating-a-shader.md)」頁面的步驟操作。
 * 關於  **自訂著色器**  ：請查看日誌中的錯誤訊息以及 [著色器 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 頁面。
 
 >[!WARNING]

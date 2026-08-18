@@ -28,7 +28,7 @@ ht-degree: 1%
 
 ![](../../assets/export-preset-list.png)
 
-預設清單顯示所有可用的輸出範本。 此清單包含預設輸出範本](../export-presets/default-presets.md)的集合[，以及你所建立的任何自訂範本。
+預設清單顯示所有可用的輸出範本。 此清單包含預設輸出範本[&#128279;](../export-presets/default-presets.md)的集合，以及你所建立的任何自訂範本。
 
 從此清單中，範本可以<b>被建立</b>、<b>重新命名</b>、<b>複製或</b><b>刪除</b>。
 
