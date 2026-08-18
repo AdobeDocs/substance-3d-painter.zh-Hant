@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用圖層堆疊來組織和管理多個材質繪圖圖層。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/post-processing.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用後製效果，以提升視窗渲染效果，並透過色彩調色與視覺效果。
 helpx_creative_field: ""

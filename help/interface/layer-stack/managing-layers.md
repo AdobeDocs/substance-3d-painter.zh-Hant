@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/managing-layers.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/managing-layers.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中管理圖層，以組織、重新排序並控制你的材質繪製工作流程。
 helpx_creative_field: ""

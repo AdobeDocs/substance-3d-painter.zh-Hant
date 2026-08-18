@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/importing-assets/adding-resources-via-the-import-window.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/content/importing-assets/adding-resources-via-the-import-window.html"
 breadcrumb-title: ''
 description: 學習如何透過 Substance 3D Painter 的匯入視窗新增資源，以擴充你的資產庫並使用外部檔案。
 helpx_creative_field: ""

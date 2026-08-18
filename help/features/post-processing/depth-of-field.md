@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/depth-of-field.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/post-processing/depth-of-field.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用景深後製，創造逼真的相機對焦模糊效果。
 helpx_creative_field: ""

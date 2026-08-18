@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/smart-materials-and-masks.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/smart-materials-and-masks.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用智慧材質與遮罩，創造能適應幾何形狀的程序化材質。
 helpx_creative_field: ""

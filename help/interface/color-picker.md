@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/color-picker.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/color-picker.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 中的色彩選擇器，從材質和材質中選擇顏色。
 helpx_creative_field: ""

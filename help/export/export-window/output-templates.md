@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-window/output-templates.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started/export/export-window/output-templates.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 匯出視窗中使用輸出模板來設定材質匯出格式和命名。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/filter.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/effects/filter.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用濾鏡效果來套用影像處理濾鏡和貼圖調整。
 helpx_creative_field: ""

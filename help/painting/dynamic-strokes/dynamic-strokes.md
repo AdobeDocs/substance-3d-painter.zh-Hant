@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/dynamic-strokes.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/dynamic-strokes.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用動態筆觸，創造出能根據繪畫速度與壓力調整的反應性筆觸。
 helpx_creative_field: ""

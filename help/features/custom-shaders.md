@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/custom-shaders.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/custom-shaders.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中建立並使用自訂著色器，以擴展材質渲染功能。
 helpx_creative_field: ""
@@ -36,4 +36,4 @@ Substance Painter 預設包含以下著色器：
 
 只要建立新的 **.glsl** 檔案，就能建立新的自訂著色器。
 
-提供詳細的 [著色器 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) ，並提供輔助功能以創造新效果並整合進現有工作流程。
+提供詳細的 [著色器 API](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) ，並提供輔助功能以創造新效果並整合進現有工作流程。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/main-menu/viewport-menu.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/main-menu/viewport-menu.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 中的視窗選單來存取視窗設定和顯示選項。
 helpx_creative_field: ""

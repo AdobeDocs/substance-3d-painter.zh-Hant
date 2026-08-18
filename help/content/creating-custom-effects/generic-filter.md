@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/creating-custom-effects/generic-filter.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/content/creating-custom-effects/generic-filter.html"
 breadcrumb-title: ''
 description: 學習如何為 Substance 3D Painter 製作通用濾鏡效果，以套用自訂的影像處理與貼圖濾鏡。
 helpx_creative_field: ""

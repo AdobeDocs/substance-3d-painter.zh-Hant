@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/color-profile.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/post-processing/color-profile.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用色彩輪廓後製來套用色彩調色和 LUT 轉換。
 helpx_creative_field: ""
@@ -84,4 +84,4 @@ ociolutimage --generate --cubesize 64 --config nuke-default/config.ocio --colorc
 
 只要打開匯入視窗（或拖放 LUT 到書架上即可）。 在 Substance 3D Painter 匯入 LUT 材質時，務必將「  **colorlut**  」  **的使用**  分配到新的資源上。 否則資源在架子上就看不清楚。
 
-欲了解更多資訊，請參閱關於匯入新資源的文件： [透過匯入視窗新增資源](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-via-the-import-window-151584824.html)
+欲了解更多資訊，請參閱關於匯入新資源的文件： [透過匯入視窗新增資源](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/adding-content-via-the-import-window-151584824.html)

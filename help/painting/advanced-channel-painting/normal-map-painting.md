@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/advanced-channel-painting/normal-map-painting.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/advanced-channel-painting/normal-map-painting.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中直接繪製法線貼圖，為材質增添表面細節和深度。
 helpx_creative_field: ""
