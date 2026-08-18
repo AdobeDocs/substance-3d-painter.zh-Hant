@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started/export/creating-export-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/creating-export-presets.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中建立自訂輸出範本，以定義你自己的材質匯出配置。
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 > 輸出範本會以獨立檔案</b>形式儲存在磁碟<b>上，並可與其他 Substance 3D Painter 使用者分享。\
-> 你可以在 Substance 3D Painter 檔案[&#128279;](../pipeline-and-integration/resource-management/shelf-and-assets-location.md)的 assets/export-presets 資料夾中找到你所建立自訂範本的本地檔案。
+> 你可以在 Substance 3D Painter 檔案](../pipeline-and-integration/resource-management/shelf-and-assets-location.md)的 [assets/export-presets 資料夾中找到你所建立自訂範本的本地檔案。
 
 >[!NOTE]
 >
