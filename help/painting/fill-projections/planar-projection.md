@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/planar-projection.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/planar-projection.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 中使用平面投影，從平面投影貼圖，方便直接應用貼圖。
 helpx_creative_field: ""

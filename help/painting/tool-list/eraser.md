@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/eraser.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/eraser.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的橡皮擦工具，精確控制移除 3D 模型中的油漆和材質。
 helpx_creative_field: ""

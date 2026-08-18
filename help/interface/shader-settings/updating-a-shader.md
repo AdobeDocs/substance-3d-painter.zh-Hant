@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/shader-settings/updating-a-shader.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/shader-settings/updating-a-shader.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中更新自訂著色器，以套用著色器變更並重新載入著色器檔案。
 helpx_creative_field: ""

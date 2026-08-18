@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/creating-particles-presets.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/presets/creating-particles-presets.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中建立粒子筆刷預設，為你的工作流程加入動態材質繪製效果。
 helpx_creative_field: ""
@@ -26,6 +26,6 @@ ht-degree: 0%
 
 更多資訊請參閱專屬頁面：
 
-* [安裝粒子編輯器](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/installation-of-the-editor-67403780.html)
-* [粒子編輯器概述](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/overview-of-popcornfx-particle-editor-67796996.html)
+* [安裝粒子編輯器](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/installation-of-the-editor-67403780.html)
+* [粒子編輯器概述](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/overview-of-popcornfx-particle-editor-67796996.html)
 * [建立新的粒子腳本](creating-a-new-particle-script.md)

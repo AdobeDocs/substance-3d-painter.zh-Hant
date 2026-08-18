@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/photoshop-brush-parameters-compatibility.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/photoshop-brush-parameters-compatibility.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 匯入 ABR 筆刷預設時，了解 Photoshop 筆刷參數的相容性。
 helpx_creative_field: ""
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 ## 參數
 
-想了解更多這些參數的功能，請參閱官方  [Photoshop 文件](https://helpx.adobe.com/photoshop/using/creating-modifying-brushes.html)  。
+想了解更多這些參數的功能，請參閱官方  [Photoshop 文件](https://helpx.adobe.com/tw/photoshop/using/creating-modifying-brushes.html)  。
 
 並非所有 Photoshop 筆刷參數都支援。 請參閱圖例以了解以下所述每個參數的狀態：
 

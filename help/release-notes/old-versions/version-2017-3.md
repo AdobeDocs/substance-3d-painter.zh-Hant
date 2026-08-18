@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2017-3.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2017-3.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Painter 2017.3 版本的發布說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ![](../../assets/adobe-dimension-meetmat.jpg)
 
-本版本新增的匯出器之一是支援 Adobe Standard Material，該資料可與 Adobe Dimension（前稱 Adobe Project Felix）一起使用。 我們允許你一鍵匯出場景網格及其材質，匯入 Project Felix。 要存取它，只需在匯出貼圖視窗中選擇「**Adobe Standard Material**」。 更多資訊請參見： [http://www.adobe.com/products/dimension.html](https://www.adobe.com/products/dimension.html)
+本版本新增的匯出器之一是支援 Adobe Standard Material，該資料可與 Adobe Dimension（前稱 Adobe Project Felix）一起使用。 我們允許你一鍵匯出場景網格及其材質，匯入 Project Felix。 要存取它，只需在匯出貼圖視窗中選擇「**Adobe Standard Material**」。 更多資訊請參見： [http://www.adobe.com/tw/products/dimension.html](https://www.adobe.com/tw/products/dimension.html)
 
 你也可以看看我們關於這件事的部落格文章： <https://www.allegorithmic.com/blog/new-dimension-substance-ecosystem>
 

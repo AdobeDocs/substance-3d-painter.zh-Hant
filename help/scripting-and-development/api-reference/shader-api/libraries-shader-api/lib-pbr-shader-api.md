@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-pbr-shader-api.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-pbr-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 Lib PBR 著色器 API 參考，以便在自訂著色器中建立物理基礎的渲染材質。
 helpx_creative_field: ""

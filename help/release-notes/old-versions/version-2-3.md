@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2-3.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2-3.html"
 breadcrumb-title: ''
 description: 查看 Substance 3D Painter 2.3 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""

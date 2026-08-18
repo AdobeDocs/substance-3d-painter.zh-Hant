@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/fill-match-per-uv-tile.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/fill-match-per-uv-tile.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 中使用 UV 圖塊的填充匹配，將紋理圖案在 UV 圖塊間匹配，實現無縫平鋪。
 helpx_creative_field: ""

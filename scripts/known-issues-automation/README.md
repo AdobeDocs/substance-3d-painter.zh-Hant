@@ -8,7 +8,7 @@ ht-degree: 0%
 # 已知問題產生器 — Substance 3D Painter
 
 自動化產生已知問題的 Substance 3D Painter 降價文件，發佈於：
-`https://helpx.adobe.com/substance-3d-painter/release-notes/know-issues.html`
+`https://helpx.adobe.com/tw/substance-3d-painter/release-notes/know-issues.html`
 
 本期內容取自Jira史詩 `SBSFOUR-6267`。 腳本會擷取所有問題，過濾目標版本中已修正的問題，並輸出一個格式化的 markdown 檔案，準備提交。
 
@@ -172,7 +172,7 @@ OUTPUT_FILE=known-issues.md
 
 ```markdown
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/know-issues.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/know-issues.html"
 ...
 ---
 
