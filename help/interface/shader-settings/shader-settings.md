@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/shader-settings.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/shader-settings.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定著色器設定，以自訂材質渲染與視覺外觀。
 helpx_creative_field: ""

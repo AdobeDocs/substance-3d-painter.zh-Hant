@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/send-to.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/send-to.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 中的「傳送至」功能，將專案與資產轉移到其他 Substance 3D 應用程式。
 helpx_creative_field: ""

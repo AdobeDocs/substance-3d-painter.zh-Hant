@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface.html"
 breadcrumb-title: ''
 description: 了解 Substance 3D Painter 介面，以理解面板、選單與工具，以實現高效的材質繪製工作流程。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/main-menu/file-menu.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/main-menu/file-menu.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 的檔案選單來管理專案、匯入資產並匯出貼圖。
 helpx_creative_field: ""

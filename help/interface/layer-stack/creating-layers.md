@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/creating-layers.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/creating-layers.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中建立新圖層，以建立多層繪圖的複雜貼圖。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/substance-3d-assets.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/substance-3d-assets.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中存取並使用 Substance 3D 資產，以瀏覽並匯入 3D 模型與材質。
 helpx_creative_field: ""

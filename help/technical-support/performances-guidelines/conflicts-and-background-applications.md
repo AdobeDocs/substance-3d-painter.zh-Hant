@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/performances-guidelines/conflicts-and-background-applications.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/performances-guidelines/conflicts-and-background-applications.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中辨識並解決與背景應用程式的衝突，以達到最佳效能。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/spherical-projection.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/spherical-projection.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 中使用球面投影，從球體投影貼圖，將貼圖包裹在物件周圍。
 helpx_creative_field: ""

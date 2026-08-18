@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/miscellaneous/sliders.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/miscellaneous/sliders.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用滑桿，精確調整數值與參數。
 helpx_creative_field: ""

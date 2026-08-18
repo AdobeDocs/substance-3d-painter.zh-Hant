@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/compare-mask.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/effects/compare-mask.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 Compare Mask 效果，根據貼圖比較操作來建立遮罩。
 helpx_creative_field: ""

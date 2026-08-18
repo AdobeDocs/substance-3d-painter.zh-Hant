@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/layer-instancing.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/layer-instancing.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用圖層實例化，以有效地在多個貼圖集間重複使用圖層。
 helpx_creative_field: ""

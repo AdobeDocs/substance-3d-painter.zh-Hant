@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/photoshop-brush-presets-abr.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/presets/photoshop-brush-presets-abr.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 Photoshop 筆刷預設（ABR 檔案），來善用你現有的筆刷收藏。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/exporting-brush-presets-from-photoshop.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/exporting-brush-presets-from-photoshop.html"
 breadcrumb-title: ''
 description: 學習如何將 Photoshop 的筆刷預設匯出成 ABR 檔案，用於 Substance 3D Painter 的材質繪製工作流程。
 helpx_creative_field: ""

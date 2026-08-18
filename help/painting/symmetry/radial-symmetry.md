@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/symmetry/radial-symmetry.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/symmetry/radial-symmetry.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 中使用放射對稱，圍繞中心點對稱繪製，創造圓形圖案。
 helpx_creative_field: ""
