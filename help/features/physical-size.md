@@ -28,9 +28,9 @@ ht-degree: 2%
 
 欲了解更多資訊，請參閱：
 
-* <b>填充投影中的[物理尺寸</b>參數](../painting/fill-projections/fill-projections.md)
-* <b>視窗設定中的[網格</b>參數](../interface/display-settings/viewport-settings.md)
-* <b>在著色器設定中[，根據物理尺寸</b>的位移](../interface/shader-settings/shader-settings.md)
+* <b>填充投影中的</b>[物理尺寸參數](../painting/fill-projections/fill-projections.md)
+* <b>視窗設定中的</b>[網格參數](../interface/display-settings/viewport-settings.md)
+* <b>在著色器設定中</b>[，根據物理尺寸的位移](../interface/shader-settings/shader-settings.md)
 
 >[!NOTE]
 >
