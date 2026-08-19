@@ -10,7 +10,7 @@ helpx_tags: ""
 title: 球面投影
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+source-git-commit: 7e24e45387178db5efa813e64e4b86ac2ae2e5aa
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 | 背景設定 | 說明 |
 | --- | --- |
-| **過濾** | 控制材質或材質的過濾方式。 這個設定會影響重複使用時的材質外觀。 在高縮放值下，使用不同於預設的過濾方式，可能會產生更漂亮的效果。 目前可用的設定：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>雙線性 |HQ</strong> （預設）：進階雙線性濾波，嘗試在鋪磚值較高時提升紋理品質。</li><li data-preserve-html="true"><strong>雙線性 |銳利</strong>：簡單的雙線性濾波，稍微平滑紋理，但盡量保留細節。</li><li data-preserve-html="true"><strong>最近</strong>：無濾波，若雙線性濾波結果模糊且破壞細節，則有用。 可能會在貼圖中引入鋸齒。</li></ul> |
+| **過濾** | 控制材質或材質的過濾方式。 這個設定會影響重複使用時的材質外觀。 在高縮放值下，使用不同於預設的過濾方式，可能會產生更漂亮的效果。 目前可用的設定：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>雙線性 `\|` HQ</strong> （預設）：進階雙線性過濾，嘗試在鋪磚值較高時提升貼圖品質。</li><li data-preserve-html="true"><strong>雙線 `\|` 性銳利</strong>：簡單的雙線性濾波，稍微平滑紋理，但盡量保留細節。</li><li data-preserve-html="true"><strong>最近</strong>：無濾波，若雙線性濾波結果模糊且破壞細節，則有用。 可能會在貼圖中引入鋸齒。</li></ul> |
 | **UV 包裹** | 控制貼圖在投影中的重複。 可能的數值包括：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>沒有</strong>：質地不會重複。 材質外的部分是黑色或透明的。</li><li data-preserve-html="true"><strong>橫向重複</strong>：質地只會橫向重複。</li><li data-preserve-html="true"><strong>垂直重複</strong>：紋理只會垂直重複。</li><li data-preserve-html="true"><strong>重複</strong> （預設）：材質在兩個軸上重複。</li></ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/spherical-repeat.jpg" width="500px"/></div> |
 | **形狀裁切** | 定義投影材質是否應該在投影區域外可見。 可能的數值包括：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>裁切成形</strong>的投影：投影被限制在投影區域內。</li><li data-preserve-html="true"><strong>投影延伸至外部形狀</strong> （預設：投影範圍會延伸至投影區域之外。</li></ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r3-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/spherical-shape-crop.jpg" width="500px"/></div> |
 
