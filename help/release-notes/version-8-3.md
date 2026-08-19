@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/version-8-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/version-8-3.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Painter 8.3 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 舊的烘焙視窗已被專用模式取代，並新增多項功能，特別是像是籠子顯示和錯誤匹配等視窗視覺化功能。
 
 * **存取與切換模式**\
-  烘焙現在成為一個全新的獨立模式，除了應用程式既有的繪畫和渲染模式之外。 要進入烘焙模式，只要使用情境工具列中的小可頌圖示即可。 切換模式也可透過模式選單或鍵盤快捷鍵切換。 要回到另一個模式，只要使用該模式的專用圖示（另外，**貼圖集設定[&#128279;](../interface/texture-set/texture-set-settings.md)中的烘焙網格地圖**&#x200B;按鈕仍可進入新模式）。
+  烘焙現在成為一個全新的獨立模式，除了應用程式既有的繪畫和渲染模式之外。 要進入烘焙模式，只要使用情境工具列中的小可頌圖示即可。 切換模式也可透過模式選單或鍵盤快捷鍵切換。 要回到另一個模式，只要使用該模式的專用圖示（另外，**貼圖集設定](../interface/texture-set/texture-set-settings.md)中的[烘焙網格地圖**&#x200B;按鈕仍可進入新模式）。
 
   ![](../assets/baking-mode-switch-menu.png)
 
@@ -104,7 +104,7 @@ ht-degree: 0%
 
 ![](../assets/banner-usd.jpg)
 
-此新版本新增了通用場景描述（USD）[&#128279;](https://graphics.pixar.com/usd/release/intro.html)檔案格式的支援。現在可以啟動 Painter 專案，使用 USD 格式匯出網格和材質，讓跨應用程式的工作流程更一致。
+此新版本新增了通用場景描述（USD）](https://graphics.pixar.com/usd/release/intro.html)檔案格式的支援[。現在可以啟動 Painter 專案，使用 USD 格式匯出網格和材質，讓跨應用程式的工作流程更一致。
 
 * **匯入帶有變體、蒙皮和特定幀數的 USD 檔案**\
   在建立專案或重新匯入網格時，可以使用 USD 檔案格式。 USD 檔案常為複雜的場景，因此也提供示波器與變體選擇器，僅匯入檔案的子集。

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/release-notes/all-changes.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/release-notes/all-changes.html'
 breadcrumb-title: ''
 description: 檢視 Substance 3D Painter 版本的所有變更與更新，以追蹤功能隨時間的演進與改進。
 helpx_creative_field: ''
@@ -123,7 +123,7 @@ ht-degree: 0%
 * [自動籠]當高多邊形檔案路徑無效時，負載無限
 * [Linux][Windows]顏色選擇器有時會完全全黑或不出現
 * [多邊形填充工具]此工具無法支援非 PBR
-* &lbrack;[油漆] 刪除底色通道不會刪除之前塗過的顏色
+* [[油漆] 刪除底色通道不會刪除之前塗過的顏色
 * [美元]著色器實例並非全部正確偵測
 * [內容]僅考慮輸入/輸出節點的首次使用情況
 * [著色器]環境遮蔽會用不同的材質集混合方式套用兩次
