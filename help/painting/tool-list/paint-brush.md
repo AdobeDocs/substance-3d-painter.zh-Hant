@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/paint-brush.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/paint-brush.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的 Paint Brush 工具，直接將貼圖繪製到可自訂的 3D 模型上。
 helpx_creative_field: ""
@@ -10,7 +10,7 @@ helpx_tags: ""
 title: 畫筆
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+source-git-commit: c20714f4cef21ccca0cdcd45dcdfd5ca6f4b96f2
 workflow-type: tm+mt
 source-wordcount: '1308'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 畫筆
 
-Paint 工具是 Substance 3D Painter 預設的工具，用來在 3D 網格上套用顏色和材質屬性。 它有特定的參數，可以透過屬性[&#128279;](../../interface/properties.md)來編輯。
+Paint 工具是 Substance 3D Painter 預設的工具，用來在 3D 網格上套用顏色和材質屬性。 它有特定的參數，可以透過屬性](../../interface/properties.md)來編輯[。
 
 繪畫工具透過各種行為和設定模擬筆觸，營造在 3D 網格上繪畫的感覺。
 
@@ -44,7 +44,7 @@ Paint 工具是 Substance 3D Painter 預設的工具，用來在 3D 網格上套
 
 ![](../../assets/brush-preview.png)
 
-屬性的頂端[&#128279;](../../interface/properties.md)是筆刷和材質預覽。它們可以用來快速瀏覽目前工具的設定狀況。
+屬性的頂端[](../../interface/properties.md)是筆刷和材質預覽。它們可以用來快速瀏覽目前工具的設定狀況。
 
 | *名稱* | *描述* |
 | --- | --- |
@@ -76,7 +76,7 @@ Paint 工具是 Substance 3D Painter 預設的工具，用來在 3D 網格上套
 | **流動抖動** | 在筆觸內套用每個印章的隨機流動值。 值為 0 表示無隨機性，值為 1 則表示完全隨機性。 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r8-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/brush-flow.png"/></div> |
 | **角度抖動** | 在筆觸內，每個印章都隨機加一個額外的旋轉角度。 值為 0 表示無隨機性，值為 1 則表示完全隨機性。 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r9-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/brush-rotation.png"/></div> |
 | **位置抖動** | 在筆觸內對每個印章施加隨機位置偏移。 值為 0 表示無隨機性，值為 1 則表示完全隨機性。 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table1_row-r10-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/brush-position.png"/></div> |
-| **路線** | 決定筆觸內的印章如何投影/定向於 3D 網格表面。 可用數值如下：<ul data-preserve-html="true"><li data-preserve-html="true"><strong> 相機 </strong> ：將郵票朝向觀景窗視角</li><li data-preserve-html="true"><strong> 切線 |繞線（預設）： </strong> 將印章朝向與 3D 網格表面對齊。 郵票也會被變形以符合表面。</li><li data-preserve-html="true"><strong> 切線 |平面 </strong> ：將印章朝向與 3D 網格表面對齊。 印章會因為邊框離 3D 網格表面太遠而逐漸淡出。 </li><li data-preserve-html="true"><strong> UV </strong> ：根據 3D 網格 UV 來定位印章。</li></ul> |
+| **路線** | 決定筆觸內的印章如何投影/定向於 3D 網格表面。 可用數值如下：<ul data-preserve-html="true"><li data-preserve-html="true"><strong> 相機 </strong> ：將郵票朝向觀景窗視角</li><li data-preserve-html="true"><strong> 切線 `\|` 繞線（預設）： </strong> 將印章朝向與 3D 網格表面對齊。 郵票也會被變形以符合表面。</li><li data-preserve-html="true"><strong> 切線 `\|` 平面 </strong> ：將印章方向調整至與 3D 網格表面對齊。 印章會因為邊框離 3D 網格表面太遠而逐漸淡出。 </li><li data-preserve-html="true"><strong> UV </strong> ：根據 3D 網格 UV 來定位印章。</li></ul> |
 | **背面剔除** | 允許忽略 3D 網格中與印章不對齊的表面。 為了計算應忽略 3D 網格的哪些部分，繪畫引擎會查看 3D 網格表面的法線，並將其角度與定義值進行比較。 |
 | **尺寸空間** | 計算筆刷大小的相對空間控制。 可能的值有：<ul data-preserve-html="true"><li data-preserve-html="true"><strong> 物件（預設）： </strong> 畫筆大小會與 3D 網格大小同步。 移動視窗中的攝影機會影響大小，以維持相對於 3D 網格的大小。</li><li data-preserve-html="true"><strong> 視窗 </strong> ：筆刷大小與視窗連結。 調整介面大小會影響筆刷大小。 移動鏡頭不會有任何影響。</li><li data-preserve-html="true"><strong> 材質 </strong> ：筆刷大小與 2D 視窗縮放層級相關聯。</li></ul> |
 
@@ -98,8 +98,8 @@ Alpha 是灰階遮罩，覆蓋在筆觸內的每個印章上。 它可以是 Sub
 
 預設情況下，物理屬性不可用，但可透過兩種方式啟用：
 
-* 只要在工具列[&#128279;](../../interface/toolbars.md)裡把工具切換到「實體」（或透過鍵盤快捷鍵）。
-* 在資產[&#128279;](../../interface/assets/assets.md)視窗點擊粒子筆刷預設。
+* 只要在工具列](../../interface/toolbars.md)裡把工具切換到「實體[」（或透過鍵盤快捷鍵）。
+* 在資產](../../interface/assets/assets.md)視窗點擊粒子筆刷預設[。
 
 ## 模板
 
@@ -133,7 +133,7 @@ Alpha 是灰階遮罩，覆蓋在筆觸內的每個印章上。 它可以是 Sub
 
 ![](../../assets/material.png)
 
-材料由多個通道組成，每個通道都保留特定的特性。 通道列表依賴於紋理集設定[&#128279;](../../interface/texture-set/texture-set-settings.md)中定義的通道。
+材料由多個通道組成，每個通道都保留特定的特性。 通道列表依賴於紋理集設定](../../interface/texture-set/texture-set-settings.md)中[定義的通道。
 
 Material  **模式**  按鈕是載入 Substance 檔案或預設的簡單方式，可以快速指派和編輯多個頻道。
 

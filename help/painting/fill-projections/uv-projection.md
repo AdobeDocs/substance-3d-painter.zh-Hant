@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/uv-projection.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/uv-projection.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 中使用 UV 投影，根據 UV 座標投影貼圖，進行精確的貼圖擺放。
 helpx_creative_field: ""
@@ -10,7 +10,7 @@ helpx_tags: ""
 title: 紫外線投影
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+source-git-commit: 2903c7fdf6a9fe0da149b61fa9064033bb88926a
 workflow-type: tm+mt
 source-wordcount: '788'
 ht-degree: 1%
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 | *背景設定* | *描述* |
 | --- | --- |
-| **過濾** | 控制材質或材質的過濾方式。 這些設定會影響重複使用時的材質外觀。 在高縮放值下，使用與預設不同的過濾方法可能會產生更佳的效果。 目前可用的設定：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>雙線性 |HQ </strong>：（預設）進階雙線性過濾，嘗試在平鋪值較高時提升紋理品質。</li><li data-preserve-html="true"><strong>雙線性 |銳利 </strong>：簡單的雙線性濾波，稍微平滑紋理，但嘗試保留細節。</li><li data-preserve-html="true"><strong>最近 </strong>值：無濾波，當雙線性濾波產生模糊結果且破壞細節時，這很有用。 可能會在貼圖中引入鋸齒。</li></ul> |
+| **過濾** | 控制材質或材質的過濾方式。 這些設定會影響重複使用時的材質外觀。 在高縮放值下，使用與預設不同的過濾方法可能會產生更佳的效果。 目前可用的設定：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>雙線性 `\|` HQ </strong>：（預設）進階雙線性過濾，嘗試在平鋪值較高時提升紋理品質。</li><li data-preserve-html="true"><strong>雙線 `\|` 性銳利 </strong>：簡單的雙線性濾波，稍微平滑紋理，但嘗試保留細節。</li><li data-preserve-html="true"><strong>最近 </strong>值：無濾波，當雙線性濾波產生模糊結果且破壞細節時，這很有用。 可能會在貼圖中引入鋸齒。</li></ul> |
 | **UV 包裹** | 控制投影的材質/影像在投影形狀內應該如何重複。 可能的數值包括：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>無</strong> ：投影沒有重複。</li><li data-preserve-html="true"><strong>水平</strong> 重複：只水平重複。</li><li data-preserve-html="true"><strong>垂直重複</strong> ：只垂直重複。</li><li data-preserve-html="true"><strong>重複</strong> （預設）：橫向和垂直重複。</li></ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/2d-repeat.jpg" width="500px"/></div> |
 
 ### UV 轉換
@@ -39,7 +39,7 @@ UV 轉換設定控制投影內的材質/材質。
 
 ## 情境工具列
 
-視窗頂端的情境工具列[&#128279;](../../interface/toolbars.md)提供多種設定與工具，以控制操作手與投影：
+視窗頂端的情境工具列](../../interface/toolbars.md)提供[多種設定與工具，以控制操作手與投影：
 
 | 聖像 | 名稱 | 說明 |
 | --- | --- | --- |

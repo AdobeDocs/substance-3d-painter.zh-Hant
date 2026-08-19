@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/warp-projection.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/warp-projection.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 中使用扭曲投影來投影帶有變形效果的貼圖，進行創意貼圖繪製。
 helpx_creative_field: ""
@@ -10,7 +10,7 @@ helpx_tags: ""
 title: 曲速投影
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+source-git-commit: 5ab9709e1630071fddf0db0f03a292e92b84b31f
 workflow-type: tm+mt
 source-wordcount: '1859'
 ht-degree: 1%
@@ -41,7 +41,7 @@ ht-degree: 1%
 
 | 背景設定 | 說明 |
 | --- | --- |
-| **過濾** | 控制材質或材質的過濾方式。 這個設定會影響重複使用時的材質外觀。 在高縮放值下，使用不同於預設的過濾方式，可能會產生更漂亮的效果。 目前可用的設定：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>雙線性 |HQ</strong> （預設）：進階雙線性濾波，嘗試在鋪磚值較高時提升紋理品質。</li><li data-preserve-html="true"><strong>雙線性 |銳利</strong>：簡單的雙線性濾波，稍微平滑紋理，但盡量保留細節。</li><li data-preserve-html="true"><strong>最近</strong>：無濾波，若雙線性濾波結果模糊且破壞細節，則有用。 可能會在貼圖中引入鋸齒。</li></ul> |
+| **過濾** | 控制材質或材質的過濾方式。 這個設定會影響重複使用時的材質外觀。 在高縮放值下，使用不同於預設的過濾方式，可能會產生更漂亮的效果。 目前可用的設定：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>雙線性 `\|` HQ</strong> （預設）：進階雙線性過濾，嘗試在鋪磚值較高時提升貼圖品質。</li><li data-preserve-html="true"><strong>雙線 `\|` 性銳利</strong>：簡單的雙線性濾波，稍微平滑紋理，但盡量保留細節。</li><li data-preserve-html="true"><strong>最近</strong>：無濾波，若雙線性濾波結果模糊且破壞細節，則有用。 可能會在貼圖中引入鋸齒。</li></ul> |
 | **UV 包裹** | 控制貼圖在投影中的重複。 可能的數值包括：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>沒有</strong>：質地不會重複。 材質外的部分是黑色或透明的。</li><li data-preserve-html="true"><strong>橫向重複</strong>：質地只會橫向重複。</li><li data-preserve-html="true"><strong>垂直重複</strong>：紋理只會垂直重複。</li><li data-preserve-html="true"><strong>重複</strong> （預設）：材質在兩個軸上重複。</li></ul> |
 | **形狀裁剪** | 定義投影材質是否應該在投影區域外可見。 可能的數值包括：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>裁切成形</strong>的投影：投影被限制在投影區域內。</li><li data-preserve-html="true"><strong>投影延伸至外部形狀</strong> （預設：投影範圍會延伸至投影區域之外。</li></ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r3-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/warp-extend.jpg" width="500px"/></div> |
 | **投影深度** | 控制投影沿 Z 軸延伸的距離。 這個設定有助於在網格點或投影平面太遠時抵達網格表面。綠色箭頭表示投影在格子上各點的方向與距離。 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r4-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/warp-depth.gif"/></div> **警示：** 高價值會嚴重影響效能。 建議盡量保持這個參數的低點。 |
@@ -65,7 +65,7 @@ UV 轉換設定控制投影內的材質/材質。
 
 ## 情境工具列
 
-從位於視窗頂端的情境工具列[&#128279;](../../interface/toolbars.md)可使用多項設定與工具，這些工具提供對操作手與投影的控制：
+從位於視窗頂端的情境工具列](../../interface/toolbars.md)可使用[多項設定與工具，這些工具提供對操作手與投影的控制：
 
 | 聖像 | 名稱 | 說明 |
 | --- | --- | --- |
@@ -108,7 +108,7 @@ UV 轉換設定控制投影內的材質/材質。
 
 >[!NOTE]
 >
-> 提供鍵盤快捷鍵，可快速切換 **變換（Transform warp** ）與 **編輯（Edit）頂點**。 請參考捷徑頁面的&#x200B;**切換轉速版模式**&#x200B;[。](../../interface/settings/shortcuts.md)
+> 提供鍵盤快捷鍵，可快速切換 **變換（Transform warp** ）與 **編輯（Edit）頂點**。 請參考捷徑頁面的&#x200B;**切換轉速版模式**[。](../../interface/settings/shortcuts.md)
 
 ### 點選
 
