@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/version-10-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/version-10-1.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Painter 10.1 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -131,7 +131,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> * Python 外掛在更新到 Qt6 後可能需要更新。 詳情[&#128279;](https://adobedocs.github.io/painter-python-api/guides/qt6-migration/)請參閱此頁面。
+> * Python 外掛在更新到 Qt6 後可能需要更新。 詳情](https://adobedocs.github.io/painter-python-api/guides/qt6-migration/)請參閱[此頁面。
 > * <b></b>JavaScript 外掛現已移至使用者文件目錄內的子資料夾。現有的外掛將不再出現在應用程式中，因為需要手動移入該資料夾。
 > * 在 Steam/Ubuntu 上，需要系統函式庫才能讓 Painter 正常運作。 啟動應用程式前，請確定已安裝 libxcb 游標。
 

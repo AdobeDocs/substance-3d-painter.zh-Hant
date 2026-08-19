@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2019-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2019-1.html"
 breadcrumb-title: ''
 description: 請檢視 Substance 3D Painter 2019.1 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 郵票索引還有另外兩個參數：
 
-* **郵票起始**：從開始&#x200B;*（從 0 開始索引）或*&#x200B;從隨機索引&#x200B;*（選擇 0 與由&#x200B;**印花循環數**&#x200B;定義的最大值*&#x200B;之間的隨機位置）。
+* **郵票起始**：從開始&#x200B;*（從 0 開始索引）或*&#x200B;從隨機索引&#x200B;*（選擇 0 與由&#x200B;**印花循環數**定義的最大值*&#x200B;之間的隨機位置）。
 * **印花循環計數** ：此參數定義將產生的物質變化總量。 為了優化效能，此參數作為極限。 Substance Painter 用它來回收已生成的素材，而不是創造新的東西。
 
 你只要瀏覽書架，看看現在旁邊的新圖示，就能找到與此新功能相容的資源：

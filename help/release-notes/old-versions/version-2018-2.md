@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2018-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2018-2.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Painter 2018.2 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ![](../../assets/changelog-sss.jpg)
 
-**現在即時視窗和** Iray 渲染器&#x200B;**都支援**&#x200B;**次表面散射**。\
+**現在即時視窗和** Iray 渲染器&#x200B;**都支援****次表面散射**。\
 次表面散射是一種光在穿透物體或表面時產生的機制。 與金屬表面反射不同，部分光線被材料吸收後 **散射到內部**。 現實生活中許多材料都有表面下散射，例如表皮或蠟。
 
 我們的Subsurface效果實作與其他遊戲引擎的即時實作以及其他離線渲染器非常接近。 這讓製作散射貼圖以用於其他應用變得非常簡單。
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 要在專案中加入次表面散射，請遵循以下幾個步驟：
 
-1. 進入&#x200B;**顯示設定**&#x200B;視窗，**啟用**&#x200B;**次表面散射**&#x200B;設定。
+1. 進入&#x200B;**顯示設定**&#x200B;視窗，**啟用****次表面散射**&#x200B;設定。
 1. 在目前的貼圖集中新增一個「**散射**」通道
 1. 在新通道中使用填充層或 **白色** 油漆，讓 **視窗中顯示** 次表面效果。
 
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 為了支援即時視窗&#x200B;**中的次表面散射，專案中的著色器**&#x200B;必須更新&#x200B;**&#x200B;**。\
+> 為了支援即時視窗&#x200B;**中的次表面散射，專案中的著色器**&#x200B;必須更新&#x200B;****。\
 > 關於自訂著色器，請參閱說明選單中的文件&#x200B;**，了解著色器 API** 中有哪些變更&#x200B;**。**
 
 ### 填充層操作手
@@ -61,8 +61,8 @@ ht-degree: 0%
 
 使用&#x200B;**UV投影**&#x200B;時，操作手會出現在2D視圖&#x200B;**中**：
 
-* 點擊&#x200B;**操作手在**&#x200B;外側會&#x200B;**&#x200B;**&#x200B;旋轉它。
-* 點擊&#x200B;**邊**&#x200B;框的方格&#x200B;**可以**&#x200B;**調整**&#x200B;大小。
+* 點擊&#x200B;**操作手在**&#x200B;外側會&#x200B;****&#x200B;旋轉它。
+* 點擊&#x200B;**邊**&#x200B;框的方格&#x200B;**可以****調整**&#x200B;大小。
 * 點擊 **操作手內** 側即可 **翻譯** 。
 * 用 **CTRL** 來影響對稱&#x200B;**的多角**。
 * 使用 **SHIFT** 來 **約束** 變換（平移、旋轉或縮放）。\
@@ -121,7 +121,7 @@ ht-degree: 0%
 1. 將專案中包含攝影機的網格匯出在同一檔案中（支援的格式如 FBX、Alembic 或 glTF）
 1. 在新專案視窗（或[專案設定](../../interface/project-configuration.md)）中選擇「匯入攝影機」設定[。](../../getting-started/project-creation.md)\
    ![](../../assets/new-project-cameras.png)
-1. 在視窗的下拉選單或使用顯示設定[&#128279;](../../interface/display-settings/camera-settings.md)中的設定切換到想要的相機。\
+1. 在視窗的下拉選單或使用顯示設定](../../interface/display-settings/camera-settings.md)中的設定[切換到想要的相機。\
    ![](../../assets/cmaera-select-viewport.png)
 
 顯示設定視窗中的相機設定已擴展以控制相機屬性。\
@@ -129,7 +129,7 @@ ht-degree: 0%
 
 ![](../../assets/camera-properties-2.png)
 
-攝影機框架（及其門）也被考慮進去，使得玩家能從非常特定的視角觀看和繪製。 框架與門會顯示在 3D 視窗上，其不透明度可透過&#x200B;**&#x200B;**&#x200B;[顯示設定](../../interface/display-settings/camera-settings.md)視窗的視窗中控制：
+攝影機框架（及其門）也被考慮進去，使得玩家能從非常特定的視角觀看和繪製。 框架與門會顯示在 3D 視窗上，其不透明度可透過&#x200B;****[顯示設定](../../interface/display-settings/camera-settings.md)視窗的視窗中控制：
 
 ![](../../assets/camera-gate.png)
 
@@ -169,7 +169,7 @@ Substance Painter 內的 Substance 整合功能因期待已久的需求而有所
   此功能提供更清晰的參數清單與情境設定，整體上讓材質與濾鏡更易使用。\
   更多細節請參閱 [Substance Designer文件](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)。\
   ![](../../assets/visible-if.gif)
-* **Substance 預設** Substance 預設是一種簡單的方式，可以提供進階的調整和材質變化。 Substance Source[&#128279;](https://source.allegorithmic.com) 上有很多資料都有預設，建議你試試看！\
+* **Substance 預設** Substance 預設是一種簡單的方式，可以提供進階的調整和材質變化。 Substance Source](https://source.allegorithmic.com) 上[有很多資料都有預設，建議你試試看！\
   若 Substance 檔案包含一個或多個預設，參數列表中會新增下拉選單。 選擇要套用哪個預設來更新參數。\
   ![](../../assets/presets.png)
 * **物質屬性**\
@@ -190,7 +190,7 @@ Substance Painter 內的 Substance 整合功能因期待已久的需求而有所
 
 （2018年9月25日發行）
 
-**&#x200B;**&#x200B;修正：**&#x200B;**
+****修正：****
 
 * [2D 視圖] 2D 視圖在建立新專案時，有些網格會出現問題
 * [撞擊聲]從紫外線投影切換到三平面投影會導致崩潰
