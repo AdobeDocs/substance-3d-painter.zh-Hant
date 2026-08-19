@@ -114,11 +114,11 @@ ht-degree: 0%
 
 ![A列出並排展示的球體，展示不同的新材料](../assets/v90_banner_materials.jpg)
 
-這次發行我們決定對圖書館做些清理，因此調整了預設的基礎素材，讓它們對所有人都更有用。 這些素材由同一團隊製作，負責在 Substance 3D Assets](https://substance3d.adobe.com/assets) 上提供內容[。
+這次發行我們決定對圖書館做些清理，因此調整了預設的基礎素材，讓它們對所有人都更有用。 這些素材由同一團隊製作，負責在 Substance 3D Assets[&#128279;](https://substance3d.adobe.com/assets) 上提供內容。
 
 >[!NOTE]
 >
-> 被移除的內容可在 Substance 3D 社群資產](https://substance3d.adobe.com/community-assets?q=painter23update&u=painter23update)中取得[。
+> 被移除的內容可在 Substance 3D 社群資產[&#128279;](https://substance3d.adobe.com/community-assets?q=painter23update&u=painter23update)中取得。
 
 ## 教學課程
 
@@ -167,9 +167,9 @@ ht-degree: 0%
 * [動態筆劃]新增動態筆劃的距離屬性
 * [動態筆劃]為動態筆劃加入大小與間距特性
 * [動態筆劃]新增動態筆劃的起始/中間/結尾屬性
-* [Python][美元]揭露 USD 格式的專案設定參數
-* [Python][USD]為 USD 格式揭露專案建立參數
-* [匯出][美元]在匯出的 USD 檔案中新增專案路徑資訊
+* [Python]&#x200B;[美元]揭露 USD 格式的專案設定參數
+* [Python]&#x200B;[USD]為 USD 格式揭露專案建立參數
+* [匯出]&#x200B;[美元]在匯出的 USD 檔案中新增專案路徑資訊
 * [GLTF]在重新載入 GLTF 檔案時，更新函式庫中的貼圖
 * [著色器]減少不同方向的 UV 島的接縫偽影
 * [引擎]Substance 引擎版本 9.0 更新
