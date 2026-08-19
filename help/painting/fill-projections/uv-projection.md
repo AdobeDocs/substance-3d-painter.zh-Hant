@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/uv-projection.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/uv-projection.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 中使用 UV 投影，根據 UV 座標投影貼圖，進行精確的貼圖擺放。
 helpx_creative_field: ""

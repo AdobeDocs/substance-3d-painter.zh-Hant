@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/paint-brush.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/paint-brush.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的 Paint Brush 工具，直接將貼圖繪製到可自訂的 3D 模型上。
 helpx_creative_field: ""
