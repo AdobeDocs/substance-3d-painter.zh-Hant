@@ -19,6 +19,6 @@ ht-degree: 0%
 
 >[!TIP]
 >
-> 關於如何依名稱匹配資產的資訊可在 Bakers 文件[&#128279;](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/features/matching-by-name)中找到。
+> 關於如何依名稱匹配資產的資訊可在 Bakers 文件[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/substance-3d/bakers/features/matching-by-name)中找到。
 
 ![](../../assets/baking/baking-log-panel.png)

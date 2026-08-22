@@ -37,4 +37,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 想更了解烘焙的知識，可以參考專門的 [烘焙說明](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)。
+> 想更了解烘焙的知識，可以參考專門的 [烘焙說明](https://experienceleague.adobe.com/zh-hant/docs/substance-3d/bakers/home)。
