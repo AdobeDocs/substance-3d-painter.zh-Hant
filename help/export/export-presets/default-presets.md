@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 其他未列入的軟體也可能支援（例如  **Octane**）。 更多資訊 [請參閱生態系統與外](https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/home)掛程式。
+> 其他未列入的軟體也可能支援（例如  **Octane**）。 更多資訊 [請參閱生態系統與外](https://experienceleague.adobe.com/zh-hant/docs/substance-3d/ecosystem/home)掛程式。
 
 | *預設* | *描述* |
 | --- | --- |
