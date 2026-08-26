@@ -27,7 +27,7 @@ ht-degree: 0%
 * `[Baking]` MES 重新進口後，UV 接縫就不會出現了
 * `[Baking]` 帶有某些設定的網格狀雜訊
 * `[Baking]` 環境遮蔽 忽略網格名稱的背面無法運作
-* `[Baking]``[AMD]`在使用高多邊形網格烘焙時，裝置會遺失
+* `[Baking]`&#x200B;`[AMD]`在使用高多邊形網格烘焙時，裝置會遺失
 
 * `[Substance]` 資源中多次拼寫錯誤
 * `[Substance]` 空白區破壞可見性條件
@@ -43,13 +43,13 @@ ht-degree: 0%
 * `[Color Management]` 在 Linux 上使用 ACE 進行 HDR 色彩空間轉換會產生壓縮色彩
 
 * `[Shelf]` 如果資源被放在有特定名稱的資料夾裡，就會被錯誤使用。
-* `[Shelf]``[Substance]`使用者資料未被考慮在架子縮圖產生時
+* `[Shelf]`&#x200B;`[Substance]`使用者資料未被考慮在架子縮圖產生時
 
 * `[Shader]` 「camera_vp_matrix_inverse」參數未被識別
 * `[Shader]` user0 通道在特定著色器下永遠無法被讀取為 sRGB
 
-* `[Scripting]``[Javascript]` 在輸出函式中指定抖動參數時出現「Disbaled」的錯字
-* `[Scripting]``[Python]` substance_painter.project 模組中的各種錯字
+* `[Scripting]`&#x200B;`[Javascript]` 在輸出函式中指定抖動參數時出現「Disbaled」的錯字
+* `[Scripting]`&#x200B;`[Python]` substance_painter.project 模組中的各種錯字
 
 * `[USD]` 有些情況下是錯誤的 USDA 分配
 * `[USD]` 匯出的美元幾何體會沿著 UV 邊界滑動
@@ -66,14 +66,14 @@ ht-degree: 0%
 * `[3D View]` 模板對複製物體無效
 * `[Resource updater]` 書架上同名的不同資源會被當作一個資源讀取
 * `[Sample]` 預覽範例中的壞掉相機
-* `[Instancing]``[Projection]`在平面程序中選擇一個實例時，會在另一個貼圖集合上選擇另一個平面程序
+* `[Instancing]`&#x200B;`[Projection]`在平面程序中選擇一個實例時，會在另一個貼圖集合上選擇另一個平面程序
 * `[Slider]` 當游標離開視窗時，數值輸入會被取消選擇
 * `[Anchor point]` 複製貼上 Mask 內容時的引用失效
 * `[Mesh export]` 不要考慮新的材質集名稱
 * `[Anchor Points]` 在發電機中使用時顏色錯誤
 * `[Bakers]` ID Map Baker 不考慮 3ds Max 2021 實體資料
 * `[UV Tiles]` 沒有針對特定網格重疊的 UV 空間錯誤訊息
-* `[GLTF]``[Crash]`建立壓縮 gltf 檔案的專案會導致當機
+* `[GLTF]`&#x200B;`[Crash]`建立壓縮 gltf 檔案的專案會導致當機
 * `[UV Tile sequence]` 位置圖沒有正確匯入
 * `[UVTiles]` 高度組合遮罩不會用 UV Tile 遮罩重新整理
 * `[Import]` 無法匯入帶有「nan」值的obj檔案
@@ -88,7 +88,7 @@ ht-degree: 0%
 * `[Color management]` 當圖塊 1001 遺失時，找不到色彩空間
 * `[Export mesh]` 位移未匯出特定 UV 圖塊
 * `[RedHat]` 色彩選擇器問題
-* `[Regression]``[UI]`右鍵選單在高清螢幕上太小了
+* `[Regression]`&#x200B;`[UI]`右鍵選單在高清螢幕上太小了
 * `[Resources]` 匯入的網格貼圖會被自動更新忽略
 * `[User Channels]` 色彩混合空間預覽錯誤
 * `[Mask]` 切換到烘焙模式後，幾何選擇仍然有效
