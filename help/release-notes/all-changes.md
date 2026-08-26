@@ -11,9 +11,9 @@ title: 所有變動
 user-guide-description: ''
 user-guide-title: ''
 hold: false
-source-git-commit: 77c68a586777b200c4d814928c5e93a752e1d355
+source-git-commit: 9bb3d9d70fb00c8817a11c2938292aa337279b74
 workflow-type: tm+mt
-source-wordcount: '33932'
+source-wordcount: '33992'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,24 @@ ht-degree: 0%
 > 欲查看可能影響 Painter 的已知問題，請參閱 [專門的文件頁面](known-issues.md)。
 
 ## 版本 12
+
+### 12.1.3
+
+上映日期： **2026/08/26**
+
+摘要： **小規模發行**
+
+**補充：**
+
+* 更新 Substance 引擎至 9.4.6 版本
+
+**修正：**
+
+* [灰階選拔] 器 換工具後拾取器會保持開啟
+* [傾斜烘焙] 在塗裝和復原時，偏差校正會斷裂
+* [投影工具] 視窗互動被投影工具阻擋
+* [動態筆觸] 筆刷屬性中缺少動態筆觸參數
+* 匯出到網路已經無法再運作了
 
 ### 12.1.2
 
