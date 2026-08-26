@@ -1,18 +1,18 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/release-notes/know-issues.html'
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/know-issues.html"
 breadcrumb-title: ''
 description: 檢視 Substance 3D Painter 已知的問題，以掌握最新版本的限制與解決方法。
-helpx_creative_field: ''
+helpx_creative_field: ""
 helpx_description: Substance 3D Painter
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
 title: 已知問題
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: c95676d7a6269addb3a0b42ab671a649a93caa10
+source-git-commit: 50df3a58ec4719d302999421774a1c67ce3e0ef1
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '848'
 ht-degree: 0%
 
 ---
@@ -20,36 +20,39 @@ ht-degree: 0%
 
 # 已知問題
 
-本頁列出 Substance 3D Painter v12.1.0 中所有已知的活躍問題：
-
-* `[Engine]` 使用 Smart Materials 時，若材質集沒有圖塊 1001，則會出現錯誤
-* `[Engine]` 用克隆工具在正常通道中繪製顏色移位錯誤
-* `[Engine]` 幾何遮罩在 UV 邊界與實例圖層會顯示雜訊
-* `[Engine]` UV 填充「3D 空間鄰居」模式在細三角形上效果不佳
-* `[Engine]` 錨點結果不會在遮罩和色彩通道之間渲染
+本頁列出 Substance 3D Painter v12.1.3 中所有已知的活躍問題：
 
 * `[Baking]` 簡單方塊上的AO錯誤
 * `[Baking]` 以姓名匹配後綴的解釋是錯誤的
 * `[Baking]` MES 重新進口後，UV 接縫就不會出現了
 * `[Baking]` 帶有某些設定的網格狀雜訊
+* `[Baking]` 環境遮蔽 忽略網格名稱的背面無法運作
+* `[Baking]``[AMD]`在使用高多邊形網格烘焙時，裝置會遺失
 
 * `[Substance]` 資源中多次拼寫錯誤
 * `[Substance]` 空白區破壞可見性條件
 * `[Substance]` 某些材質的預設載入時間太慢
 * `[Substance]` 無法以混合用途匯入資源
 
+* `[Engine]` 使用 Smart Materials 時，若材質集沒有圖塊 1001，則會出現錯誤
+* `[Engine]` 用克隆工具在正常通道中繪製顏色移位錯誤
+* `[Engine]` 幾何遮罩在 UV 邊界與實例圖層會顯示雜訊
+
 * `[Color Management]` 與未用於遮罩的產生器不相容的綁定
 * `[Color Management]` 濾波器輸出未被妥善考慮
 * `[Color Management]` 在 Linux 上使用 ACE 進行 HDR 色彩空間轉換會產生壓縮色彩
 
 * `[Shelf]` 如果資源被放在有特定名稱的資料夾裡，就會被錯誤使用。
-* `[Shelf]`&#x200B;`[Substance]`用戶資料未被納入架上縮圖生成。
+* `[Shelf]``[Substance]`使用者資料未被考慮在架子縮圖產生時
 
 * `[Shader]` 「camera_vp_matrix_inverse」參數未被識別
 * `[Shader]` user0 通道在特定著色器下永遠無法被讀取為 sRGB
 
-* `[Scripting]`&#x200B;`[Javascript]` 在輸出函式中指定抖動參數時出現「Disbaled」的錯字
-* `[Scripting]`&#x200B;`[Python]` substance_painter.project 模組中的各種錯字
+* `[Scripting]``[Javascript]` 在輸出函式中指定抖動參數時出現「Disbaled」的錯字
+* `[Scripting]``[Python]` substance_painter.project 模組中的各種錯字
+
+* `[USD]` 有些情況下是錯誤的 USDA 分配
+* `[USD]` 匯出的美元幾何體會沿著 UV 邊界滑動
 
 * `[Single Channel View]` 在 Painter 版本更新後，專案儲存在基礎色彩檢視中看起來變暗了
 * `[Single Channel View]` 在 Painter 版本更新後，專案儲存在基礎色彩檢視中看起來變暗了
@@ -63,14 +66,14 @@ ht-degree: 0%
 * `[3D View]` 模板對複製物體無效
 * `[Resource updater]` 書架上同名的不同資源會被當作一個資源讀取
 * `[Sample]` 預覽範例中的壞掉相機
-* `[Instancing]`&#x200B;`[Projection]`在平面程序中選擇一個實例時，會在另一個貼圖集合上選擇另一個平面程序
+* `[Instancing]``[Projection]`在平面程序中選擇一個實例時，會在另一個貼圖集合上選擇另一個平面程序
 * `[Slider]` 當游標離開視窗時，數值輸入會被取消選擇
 * `[Anchor point]` 複製貼上 Mask 內容時的引用失效
 * `[Mesh export]` 不要考慮新的材質集名稱
 * `[Anchor Points]` 在發電機中使用時顏色錯誤
 * `[Bakers]` ID Map Baker 不考慮 3ds Max 2021 實體資料
 * `[UV Tiles]` 沒有針對特定網格重疊的 UV 空間錯誤訊息
-* `[GLTF]`&#x200B;`[Crash]`建立壓縮 gltf 檔案的專案會導致當機
+* `[GLTF]``[Crash]`建立壓縮 gltf 檔案的專案會導致當機
 * `[UV Tile sequence]` 位置圖沒有正確匯入
 * `[UVTiles]` 高度組合遮罩不會用 UV Tile 遮罩重新整理
 * `[Import]` 無法匯入帶有「nan」值的obj檔案
@@ -85,21 +88,16 @@ ht-degree: 0%
 * `[Color management]` 當圖塊 1001 遺失時，找不到色彩空間
 * `[Export mesh]` 位移未匯出特定 UV 圖塊
 * `[RedHat]` 色彩選擇器問題
-* `[Regression]`&#x200B;`[UI]`右鍵選單在高清螢幕上太小了
+* `[Regression]``[UI]`右鍵選單在高清螢幕上太小了
 * `[Resources]` 匯入的網格貼圖會被自動更新忽略
 * `[User Channels]` 色彩混合空間預覽錯誤
 * `[Mask]` 切換到烘焙模式後，幾何選擇仍然有效
 * `[Sonoma]` 圖示不會出現在選單中
 * `[Path]` 高度混合多條路徑會導致雜訊
-* `[USD]` 有些情況下是錯誤的 USDA 分配
 * `[Polygon Fill]` 更改基底色的色彩空間不會更新色彩選擇器
-* `[Paint Skew]` 切換到繪畫模式後，繪圖斜向中選取的工具仍保持選取
-* `[Color Picker]` 換工具後，撥片器仍保持開啟
 * `[UV Padding]` 在匯出時將貼圖從 4k 升頻到 8k 時出現的瑕疵
-* `[Baking Common Settings]` 籠子距離設定不會更新籠子線框和著色器視覺化
-* `[Send to Photoshop]` 無法匯出圖層遮罩
-* `[Skew Baking]` 在上色和解除時，傾斜修正會斷裂
-* `[Projection Tool]` 投影工具阻擋了視窗互動
+* `[Performances]` Painter 會搶走 VRAM 的使用
+* `[Generator]` 將「use texture」設為false並不會讓材質輸入被停用
 * 非正方形資源在刷子通道槽中使用時會被拉伸
 * 未能解碼實質內容
 * 非完美疊加的紫外線可能會產生瑕疵
@@ -117,8 +115,9 @@ ht-degree: 0%
 * PSD 檔案透明度的問題
 * 從上下文工具列修改的筆刷參數不會出現在歷史紀錄中
 * 如果你這次已經刪除並重新建立匯出預設，就無法重新命名或刪除它
-* 有些情況下，投影工具預覽的頻道映射無法運作。
-* 開啟和保存某些專案可能會比平常花更長時間。
+* 在某些情況下，頻道映射無法用於投影工具預覽
+* 在編輯 3D 投影時儲存視窗會凍結
+* 材質分層解析度太低
 
 ## 穩定性
 
@@ -130,7 +129,3 @@ ht-degree: 0%
 * `[Crash]` 裝置在烘焙時遺失後回到繪畫模式
 * `[Crash]` 取消地圖後退出畫家 匯出
 * `[Crash]` 匯出帶有相機名稱中特殊符號的網格
-* `[Crash]` 在遮罩檢視模式下刪除頻道會導致當機
-* `[Crash]` 某些物質在製造時可能導致崩潰
-* `[Crash]` 烘焙模式下重新匯入網格
-* `[Crash]` 重新裝填多個網格可能會導致當機
