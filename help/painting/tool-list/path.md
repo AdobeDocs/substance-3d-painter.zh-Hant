@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-painter/painting/tool-list/path.html'
+helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/path.html'
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的路徑工具來建立和編輯路徑，進行精準的貼圖繪製與筆觸放置。
 helpx_creative_field: ''
