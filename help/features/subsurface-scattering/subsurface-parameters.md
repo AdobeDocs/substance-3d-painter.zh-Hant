@@ -21,7 +21,7 @@ ht-degree: 0%
 # 地下參數
 
 Substance 3D Painter 的即時地下實作是一種螢幕空間下的地下散射效果。 控制它的參數詳見本頁。\
-目前的實作基於PIXAR](http://graphics.pixar.com/library/ApproxBSSRDF/)發表的「高效次表面散射的近似反射率剖面」方法[。
+目前的實作基於PIXAR[&#128279;](http://graphics.pixar.com/library/ApproxBSSRDF/)發表的「高效次表面散射的近似反射率剖面」方法。
 
 基於這些參數的材料範例，請參見： [次表面材料類型](subsurface-material-type.md)。
 
@@ -29,7 +29,7 @@ Substance 3D Painter 的即時地下實作是一種螢幕空間下的地下散�
 
 ![](../../assets/shader-parameters.png)
 
-在著色器設定](../../interface/shader-settings/shader-settings.md)視窗中可取得[。
+在著色器設定[&#128279;](../../interface/shader-settings/shader-settings.md)視窗中可取得。
 
 | *背景設定* | *描述* |
 | --- | --- |
@@ -42,11 +42,11 @@ Substance 3D Painter 的即時地下實作是一種螢幕空間下的地下散�
 
 ![](../../assets/display-settings-1.png)
 
-可在顯示設定](../../interface/display-settings/display-settings.md)視窗中取得[。
+可在顯示設定[&#128279;](../../interface/display-settings/display-settings.md)視窗中取得。
 
 >[!NOTE]
 >
-> 此參數&#x200B;**僅影響****地下散射效應的即時**&#x200B;版本。
+> 此參數&#x200B;**僅影響**&#x200B;**地下散射效應的即時**&#x200B;版本。
 
 | *背景設定* | *描述* |
 | --- | --- |

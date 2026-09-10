@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## lib-pbr-aniso.glsl
 
-**Public Functions：** *normal\_distrib* *G1**visibility**cook\_torrance\_contrib* *importanceSampleGGX**probabilityGGX* *pbrComputeSpecularAnisotropic*
+**Public Functions：** *normal\_distrib* *G1&#x200B;**visibility**&#x200B;cook\_torrance\_contrib* *importanceSampleGGX**probabilityGGX* *pbrComputeSpecularAnisotropic*
 
 從函式庫匯入
 

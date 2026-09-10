@@ -94,7 +94,7 @@ ht-degree: 1%
 
 ![](../../assets/export-output-maps.png)
 
-本區列出所有將根據目前匯出預設產生的材質。 它會顯示材質名稱範本、檔案格式與位元深度，若啟用色彩管理](../../features/color-management/color-management.md)則[會顯示色彩空間。
+本區列出所有將根據目前匯出預設產生的材質。 它會顯示材質名稱範本、檔案格式與位元深度，若啟用色彩管理[&#128279;](../../features/color-management/color-management.md)則會顯示色彩空間。
 
 此區段允許您停用特定檔案的匯出，或覆蓋 <b>檔案格式</b> 與 <b>位元深度</b>。
 

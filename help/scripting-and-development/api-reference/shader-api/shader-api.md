@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Substance Painter 使用著色器在即時視口中渲染材質。 也可以寫自訂著色器來實作新行為，或讓視埠匹配其他渲染器。
 
-Substance Painter 的其他著色器可以在 Substance Share](https://share.allegorithmic.com/libraries?by_category_type_id=6) 找到[。
+Substance Painter 的其他著色器可以在 Substance Share[&#128279;](https://share.allegorithmic.com/libraries?by_category_type_id=6) 找到。
 
 >[!NOTE]
 >

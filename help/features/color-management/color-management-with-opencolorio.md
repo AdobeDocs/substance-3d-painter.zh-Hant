@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ![](../../assets/project-settings-3.png)
 
-專案設定可在新專案視窗建立新專案[](../../getting-started/project-creation.md)時設定，或使用[專案設定](../../interface/project-configuration.md)視窗設定。
+專案設定可在新專案視窗建立新專案[&#128279;](../../getting-started/project-creation.md)時設定，或使用[專案設定](../../interface/project-configuration.md)視窗設定。
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 | 角色名稱 | 說明 |
 | --- | --- |
-| **內容\_3d\_painter\_standard\_srgb** | 指定與標準 sRGB](https://en.wikipedia.org/wiki/SRGB) 相符[的色彩空間（IEC 61966-2-1：1999）。 |
+| **內容\_3d\_painter\_standard\_srgb** | 指定與標準 sRGB[&#128279;](https://en.wikipedia.org/wiki/SRGB) 相符的色彩空間（IEC 61966-2-1：1999）。 |
 | **實質_3d\_painter\_bitmap\_import\_8bit** | 用 Role 來指定匯入 8 位元影像所使用的色彩空間。 |
 | **內容\_3d\_painter\_bitmap\_import\_16bit** | 用 Role 指定匯入 16 位元影像所使用的色彩空間。 |
 | **實質_3d\_painter\_bitmap\_import_floating** | 用 Role 指定匯入 HDR 影像所使用的色彩空間。 |

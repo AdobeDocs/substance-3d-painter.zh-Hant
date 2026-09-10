@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## lib-defines.glsl
 
-**公開常數：***M\_PI**M\_2PI**M\_INV\_PI* *M\_INV\_LOG2* *M\_GOLDEN_RATIO*
+**公開常數：***M\_PI&#x200B;**M\_2PI**&#x200B;M\_INV\_PI* *M\_INV\_LOG2* *M\_GOLDEN_RATIO*
 
 一些有用的常數
 

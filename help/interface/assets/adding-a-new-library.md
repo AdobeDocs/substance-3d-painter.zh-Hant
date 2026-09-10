@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 新增函式庫
 
-如果你想將匯入位置改成非 Documents 資料夾，或是硬碟上已有資源集合想在 Painter 中開放，也可以新增一個函式庫位置。你可以透過設定選單管理函式庫，但請注意 **使用此選單不需開啟** 任何專案。 一旦你在 Painter 新增一個函式庫，它會自動建立和預設資產位置相同的（空）資料夾（*Alpha、**Colorluts*、*效果*&#x200B;等）。將資產放入特定資料夾會賦予它們相同的使用頻率（你可以在這裡](../../content/importing-assets/adding-content-on-the-hard-drive.md)了解更多[）。舉例來說，如果你想看到自訂的灰階圖片出現在 Painter UI 的 Alpha 類別下，你就必須把這些圖片放到 *alphas* 資料夾裡。
+如果你想將匯入位置改成非 Documents 資料夾，或是硬碟上已有資源集合想在 Painter 中開放，也可以新增一個函式庫位置。你可以透過設定選單管理函式庫，但請注意 **使用此選單不需開啟** 任何專案。 一旦你在 Painter 新增一個函式庫，它會自動建立和預設資產位置相同的（空）資料夾（*Alpha、**Colorluts*、*效果*&#x200B;等）。將資產放入特定資料夾會賦予它們相同的使用頻率（你可以在這裡[&#128279;](../../content/importing-assets/adding-content-on-the-hard-drive.md)了解更多）。舉例來說，如果你想看到自訂的灰階圖片出現在 Painter UI 的 Alpha 類別下，你就必須把這些圖片放到 *alphas* 資料夾裡。
 
 新增函式庫 -
 

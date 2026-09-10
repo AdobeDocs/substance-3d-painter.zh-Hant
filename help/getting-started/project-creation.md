@@ -37,7 +37,7 @@ ht-degree: 0%
 | *參數* | *描述* |
 | --- | --- |
 | **檔案** | 點選「選擇」按鈕以指定要載入的 3D 模型檔案。 [支援的檔案格式清單可在此查閱。](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/ecosystem/import-and-export-formats) |
-| **範本** | 指定一個範本，定義專案的預設設定。 範本包含以下參數：<ul data-preserve-html="true"> <li data-preserve-html="true">材質集設定。</li> <li data-preserve-html="true">顯示設定。</li> <li data-preserve-html="true">烘焙設定。</li> <li data-preserve-html="true">著色器資源（包括附加的貼圖）。</li> <li data-preserve-html="true">環境地圖檔案。</li> </ul>  **注意：**&#x200B;模板是 <b>\*.spt</b> 檔案，透過檔案選單](../interface/main-menu/file-menu.md)從現有專案[建立，並儲存在 Assets 資料夾中，方便團隊成員分享。 |
+| **範本** | 指定一個範本，定義專案的預設設定。 範本包含以下參數：<ul data-preserve-html="true"> <li data-preserve-html="true">材質集設定。</li> <li data-preserve-html="true">顯示設定。</li> <li data-preserve-html="true">烘焙設定。</li> <li data-preserve-html="true">著色器資源（包括附加的貼圖）。</li> <li data-preserve-html="true">環境地圖檔案。</li> </ul>  **注意：**&#x200B;模板是 <b>\*.spt</b> 檔案，透過檔案選單[&#128279;](../interface/main-menu/file-menu.md)從現有專案建立，並儲存在 Assets 資料夾中，方便團隊成員分享。 |
 | <b>解決方法</b> | 為每個材質集定義專案的預設材質解析度。 在應用程式內操作時，解析度最高可達 4K（4096x4096 像素），匯出時則可達 8K（8192x8192 像素）。 解析度可以在之後隨時透過 [材質集設定](../interface/texture-set/texture-set-settings.md)來更改。  **注意：**  8K 匯出至少需要 GPU 有 2.5GB VRam 才能使用。 |
 
 ### 檔案類型專屬設定
@@ -78,7 +78,7 @@ ht-degree: 0%
 
 ### 匯入烘焙地圖
 
-使用<b>新增</b>按鈕將貼圖檔案載入為網格貼圖，並自動在貼圖集設定](../interface/texture-set/texture-set-settings.md)中[指派。必須遵循特定的命名規則，才能自動將網格貼圖分配到其貼圖集。 網格貼圖也可以直接在應用程式內部烘焙;詳見烘焙文件。
+使用<b>新增</b>按鈕將貼圖檔案載入為網格貼圖，並自動在貼圖集設定[&#128279;](../interface/texture-set/texture-set-settings.md)中指派。必須遵循特定的命名規則，才能自動將網格貼圖分配到其貼圖集。 網格貼圖也可以直接在應用程式內部烘焙;詳見烘焙文件。
 
 命名慣例：<b> TextureSetName\_MeshMapName</b>
 

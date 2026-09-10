@@ -24,7 +24,7 @@ ht-degree: 0%
 
 此檔案提供有用的功能，確保稀疏紋理取樣的正確性（ARB\_sparse\_texture）。 允許只取樣顯示記憶體中實際存在的部分紋理。
 
-**Public Functions：** getSparseCoord ** getSparseCoordLod0 ** textureSparseQueryLod ** textureSparse **
+**Public Functions：** getSparseCoord **&#x200B; getSparseCoordLod0 &#x200B;** textureSparseQueryLod **&#x200B; textureSparse &#x200B;**
 
 **公共結構：***SamplerSparse* *SparseCoord*
 

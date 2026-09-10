@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # 地下材料類型
 
-本頁列出了可透過 Subsurface 散射功能創造的各種材質類型，以及如何配置 Substance 3D Painter 來製作這些材質。 每種材料都有一個刻度和顏色，可以在地下參數](subsurface-parameters.md)中[設定。
+本頁列出了可透過 Subsurface 散射功能創造的各種材質類型，以及如何配置 Substance 3D Painter 來製作這些材質。 每種材料都有一個刻度和顏色，可以在地下參數[&#128279;](subsurface-parameters.md)中設定。
 
 >[!NOTE]
 >

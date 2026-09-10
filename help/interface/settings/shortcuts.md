@@ -26,7 +26,7 @@ ht-degree: 4%
 
 ## 捷徑概述
 
-想快速了解所有可用的捷徑，請參考我們教學](https://helpx.adobe.com/substance-3d/unlisted/tutorials/courses/substance-3d-painter-keyboard-shortcuts.html)中的圖表[。
+想快速了解所有可用的捷徑，請參考我們教學[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/tutorials/courses/substance-3d-painter-keyboard-shortcuts.html)中的圖表。
 
 ## 如何更改捷徑
 
@@ -74,8 +74,8 @@ ht-degree: 4%
 | **選擇克隆工具（相對來源）** | 6 | 6 |  |
 | **選擇克隆工具（絕對來源）** | Ctrl+6 | ⌘+6 |  |
 | **烘焙網格貼圖** | Ctrl+Shift+B | ⌘+Shift+B | 打開烘焙設定視窗。 |
-| **增加刀具尺寸** | **&amp;rbrack;** | **&amp;rbrack;** | 把畫筆的尺寸調大，方便上色工具使用。 |
-| **縮小刀具尺寸** | **&amp;lbrack;** | **&amp;lbrack;** | 縮小畫筆的尺寸，方便上色工具使用。 |
+| **增加刀具尺寸** | **&rbrack;** | **&rbrack;** | 把畫筆的尺寸調大，方便上色工具使用。 |
+| **縮小刀具尺寸** | **&lbrack;** | **&lbrack;** | 縮小畫筆的尺寸，方便上色工具使用。 |
 | **反轉灰階工具** | X | X | 如果繪製工具是在遮罩上，請將目前的灰階值反轉。 |
 | **撥片彈奏材料** | P | P | 啟用材料選擇工具。 |
 | **懶鼠** | D | D | 啟用目前工具的懶滑鼠行為。 |
@@ -127,7 +127,7 @@ ht-degree: 4%
 
 有些捷徑可能&#x200B;**只有在**&#x200B;滑鼠位於&#x200B;**特定視窗上方才有效**。
 
-範例：複製貼上&#x200B;**需要滑鼠在**&#x200B;圖層堆疊&#x200B;**上**&#x200B;方。****
+範例：複製貼上&#x200B;**需要滑鼠在**&#x200B;圖層堆疊&#x200B;**上**&#x200B;方。**&#x200B;**
 
 | *行動* | *捷徑（Windows）* | *捷徑（MacOS）* | 說明 |
 | --- | --- | --- | --- |

@@ -27,7 +27,7 @@ Painter 會從底部到頂部計算圖層堆疊。 所以，如果你對堆疊�
 +++使用幾何遮罩
 幾何遮罩是你最好的優化工具。 只要能隔離網格的某個部分來處理，就用遮罩圖層或資料夾來處理。 幾何遮罩透過 UDIM 或網格部分隔離，避免處理遮罩內的區域，提升效能。 額外好處是，你也可以在視窗中視覺上將這些部分隔離出來，方便貼圖。
 
-你可以[透過這個教學](https://www.youtube.com/watch?v=TGASuIGSUns)[或參考文件](../../interface/layer-stack/geometry-mask.md)來進一步了解幾何遮罩。
+你可以[透過這個教學](https://www.youtube.com/watch?v=TGASuIGSUns) [或參考文件](../../interface/layer-stack/geometry-mask.md)來進一步了解幾何遮罩。
 
 +++
 

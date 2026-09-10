@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Substance 3D Painter 預設會將 High-DPI/Retina 螢幕的視窗解析度降細以提升效能。
 
-這種行為可以在主要設定](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html)中透過更改&#x200B;**視窗縮放**&#x200B;參數來改變[。
+這種行為可以在主要設定[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html)中透過更改&#x200B;**視窗縮放**&#x200B;參數來改變。
 
 ## 紋理過濾
 

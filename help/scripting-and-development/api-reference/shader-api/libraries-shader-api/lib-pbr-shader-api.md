@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## lib-pbr.glsl
 
-**公開功能：** normal\_distrib ** fresnel ** G1 ** 可視&#x200B;**&#x200B;性地平線 漸移&#x200B;** pbr ComputeDiffuse ** pbr ComputeSpecular ** pbrComputeBRDF **
+**公開功能：** normal\_distrib **&#x200B; fresnel &#x200B;** G1 **&#x200B; 可視&#x200B;**&#x200B;性地平線 漸移&#x200B;**&#x200B; pbr ComputeDiffuse &#x200B;** pbr ComputeSpecular **&#x200B; pbrComputeBRDF &#x200B;**
 
 環境圖中的 miplevel 數量。
 
