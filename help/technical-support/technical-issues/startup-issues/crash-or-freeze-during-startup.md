@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/startup-issues/crash-or-freeze-during-startup.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/startup-issues/crash-or-freeze-during-startup.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 啟動時修復當機與凍結，以穩定啟動應用程式。
 helpx_creative_field: ""
@@ -41,7 +41,7 @@ ht-degree: 0%
 * 外部應用程式正在產生衝突，請參見 [軟體衝突](software-conflicts.md) 以了解是哪種衝突。
 * 應用程式的部分視窗是在另一台螢幕上開啟的。 將介面恢復為預設配置後，應用程式可正常啟動：
   1. 打開登錄檔編輯器（**從開始選單 regedit** ）
-  1. 前往應用程式偏好設定（參見： [偏好設定與應用程式資料位置](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)）
+  1. 前往應用程式偏好設定（參見： [偏好設定與應用程式資料位置](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)）
   1. 展開 **Adobe Substance 3D Painter** 鍵
   1. 選擇 **Main 視窗 2018** 鍵並刪除它
   1. 重新啟動應用程式

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/sparse-virtual-textures.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/sparse-virtual-textures.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用稀疏虛擬貼圖，以高效處理超高解析度貼圖。
 helpx_creative_field: ""
@@ -41,7 +41,7 @@ ht-degree: 0%
 | **Linux** | <ul data-preserve-html="true"><li data-preserve-html="true">Nvidia GeForce（驅動程式 410.73 或更高）</li><li data-preserve-html="true">Nvidia Quadro（驅動程式 410.73 或以上）</li><li data-preserve-html="true">AMD FirePro 與 Radeon Pro（驅動程式 18.9.3 或以上） <strong> &#42; </strong></li><li data-preserve-html="true">AMD Radeon（驅動程式 18.9.3 或更高版本）&#42;</li></ul> | <ul data-preserve-html="true"><li data-preserve-html="true">Intel GPU</li></ul> |
 
 
-* **\*** ：硬體加速預設已關閉，可在設定[&#128279;](../interface/settings/settings.md)中手動啟用。
+* **\*** ：硬體加速預設已關閉，可在設定](../interface/settings/settings.md)中[手動啟用。
 
 ## 為什麼 Substance 3D Painter 使用稀疏的虛擬貼圖？
 
@@ -60,7 +60,7 @@ SVT 的目標是預算視窗能佔用 GPU 記憶體，讓主引擎有更多空�
 ![](../assets/settings-temp.png)
 
 當系統記憶體（RAM）不足以儲存 SVT 快取時，Substance 3D Painter 會切換到電腦硬碟來儲存快取。\
-此快取的位置預設位於作業系統暫存檔案資料夾中。 此位置可透過應用程式的主要設定更改，詳見 [一般偏好設定](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/general-71008262.html) 。
+此快取的位置預設位於作業系統暫存檔案資料夾中。 此位置可透過應用程式的主要設定更改，詳見 [一般偏好設定](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html) 。
 
 ## 著色器相容性
 
@@ -68,8 +68,8 @@ SVT 的目標是預算視窗能佔用 GPU 記憶體，讓主引擎有更多空�
 
 要更新你的著色器：
 
-* 針對&#x200B;**預設 Substance 3D Painter 著色器**：請依照「更新著色器[&#128279;](../interface/shader-settings/updating-a-shader.md)」頁面的步驟操作。
-* 關於  **自訂著色器**  ：請查看日誌中的錯誤訊息以及 [著色器 API](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 頁面。
+* 針對&#x200B;**預設 Substance 3D Painter 著色器**：請依照「更新著色器](../interface/shader-settings/updating-a-shader.md)」頁面的[步驟操作。
+* 關於  **自訂著色器**  ：請查看日誌中的錯誤訊息以及 [著色器 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 頁面。
 
 >[!WARNING]
 >

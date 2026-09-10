@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/content/creating-custom-effects/mesh-based-input.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/creating-custom-effects/mesh-based-input.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 的自訂效果中使用基於網格的輸入，來創造幾何感知的貼圖效果。
 helpx_creative_field: ""

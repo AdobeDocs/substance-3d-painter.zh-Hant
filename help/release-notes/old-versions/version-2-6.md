@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2-6.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2-6.html"
 breadcrumb-title: ''
 description: 查看 Substance 3D Painter 2.6 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -48,11 +48,11 @@ Substance Painter 的腳本 API 已改進，新增功能，允許 **以其他版
 ![](../../assets/texture-set-rename-description.png)
 
 現在可以直接在 Substance Painter 中更改材質集的名稱。 重新命名材質集會影響匯出到光碟上的材質名稱（視所使用的匯出預設而定）。\
-要重新命名材質集，只需雙擊其名稱即可修改，或使用右鍵開啟右鍵選單。 也可以加入自訂描述，提供更多關於貼圖集功能的資訊。 這在做 [UDIM 專案](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)時非常有幫助。 使用「**設定**」按鈕來設定描述在列表中的顯示方式。
+要重新命名材質集，只需雙擊其名稱即可修改，或使用右鍵開啟右鍵選單。 也可以加入自訂描述，提供更多關於貼圖集功能的資訊。 這在做 [UDIM 專案](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)時非常有幫助。 使用「**設定**」按鈕來設定描述在列表中的顯示方式。
 
 ![](../../assets/reasign-texture-set.png)
 
-貼圖集現在可以重新分配到不同的網格材質。 這表示你可以&#x200B;**恢復**&#x200B;先前因網格缺失而停用的貼圖集，甚至&#x200B;**&#x200B;**&#x200B;交換材質集。只要在貼圖集清單視窗中點選新的「**設定**」按鈕，然後點選「**重新分配貼圖集**」條目即可。 它會開啟一個專門管理材質集及其與網格材質連結的新視窗。 管理可以透過拖放&#x200B;**材質集名稱到你想要的位置來完成**。
+貼圖集現在可以重新分配到不同的網格材質。 這表示你可以&#x200B;**恢復**&#x200B;先前因網格缺失而停用的貼圖集，甚至&#x200B;****&#x200B;交換材質集。只要在貼圖集清單視窗中點選新的「**設定**」按鈕，然後點選「**重新分配貼圖集**」條目即可。 它會開啟一個專門管理材質集及其與網格材質連結的新視窗。 管理可以透過拖放&#x200B;**材質集名稱到你想要的位置來完成**。
 
 ## 教學
 

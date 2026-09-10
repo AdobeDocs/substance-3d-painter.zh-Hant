@@ -24,4 +24,4 @@ ht-degree: 0%
 > 1. 更改常見設定 **的輸出大小**。
 > 1. **烘焙** 法線貼圖。
 
-在文件[&#128279;](../../baking/mesh-map-settings.md)的烘焙區，有完整&#x200B;**清單可以在通用設定**&#x200B;和&#x200B;[**網格貼圖設定面板**](mesh-map-settings.md)中找到。
+在文件](../../baking/mesh-map-settings.md)的烘焙區，有完整&#x200B;**清單可以在通用設定**&#x200B;和&#x200B;[**網格貼圖設定面板**](mesh-map-settings.md)[中找到。

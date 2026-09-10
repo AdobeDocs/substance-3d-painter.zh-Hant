@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/content/creating-custom-effects/mesh-map.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/creating-custom-effects/mesh-map.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 的自訂特效中使用網格貼圖，以存取基於幾何的貼圖資訊。
 helpx_creative_field: ""

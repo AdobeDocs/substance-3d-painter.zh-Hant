@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/project-issues/preserve-brush-strokes-setting-stays-disabled.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/project-issues/preserve-brush-strokes-setting-stays-disabled.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中修正「保留筆觸」設定一直被停用，以正確保留筆觸。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 保留筆觸設定仍被關閉
 
-由於 Substance 3D Painter 1.5 引入的一個不幸錯誤（1.7 部分修正），部分專案遺失了與網格相關的元資料。 因此，這個錯誤使得專案設定[&#128279;](../../../interface/project-configuration.md)視窗中的「保留網格筆劃位置」設定被禁用。
+由於 Substance 3D Painter 1.5 引入的一個不幸錯誤（1.7 部分修正），部分專案遺失了與網格相關的元資料。 因此，這個錯誤使得專案設定](../../../interface/project-configuration.md)視窗中的「保留網格筆劃位置」[設定被禁用。
 
 要解決這個問題，需要遵循一些具體步驟：
 

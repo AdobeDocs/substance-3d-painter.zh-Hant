@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/effects/compare-mask.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/compare-mask.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 Compare Mask 效果，根據貼圖比較操作來建立遮罩。
 helpx_creative_field: ""
@@ -28,11 +28,11 @@ ht-degree: 0%
 
 | 背景設定 | 說明 |
 | --- | --- |
-| **頻道** | 用來比較來源和目標的通道，以建立遮罩。 這個 LIS 是根據 Texture Set 設定[&#128279;](../../interface/texture-set/texture-set-settings.md)中可用的通道來決定的。 |
+| **頻道** | 用來比較來源和目標的通道，以建立遮罩。 這個 LIS 是根據 Texture Set 設定](../../interface/texture-set/texture-set-settings.md)中[可用的通道來決定的。 |
 | **比較** | 這裡有三個參數可用來選擇遮罩的計算方式。 中間的下拉選單定義比較運算（小於、在公差範圍內、大於）。 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/compare-mode.png"/></div> 來源模式與目標模式分別為：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>下方</strong> 圖層：考慮目前層以下所有圖層的扁平版本。</li><li data-preserve-html="true"><strong>此層</strong> ：僅考慮此層。</li><li data-preserve-html="true"><strong>此遮罩</strong> ：考慮遮罩現有的內容（例如填充效果或生成器效果已存在）。</li><li data-preserve-html="true"><strong>常數</strong> ：均勻值。</li></ul>操作方式如下：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>小於</strong> ：如果來源（左下拉選單）的值低於目標（右下拉選單），遮罩中會輸出白色值。</li><li data-preserve-html="true"><strong>在容差</strong> 範圍內：如果來源（左下拉選單）的值與目標（右下拉選單）相近，遮罩中會輸出白色值。</li><li data-preserve-html="true"><strong>大於：</strong> 如果來源（左下拉選單）的值高於目標（右下拉選單），遮罩中會輸出白色值。</li></ul> |
 | **恆定** | 當比較設定設為「常數」時，可以比較的值。 |
 | **硬度** | 控制所產生遮罩比較的平滑度與硬度。 |
-| **來源通道直方圖** | 提供來源與目標的直方圖視圖。 知道它們是否有重疊或完全沒有重疊很有用（如果沒有重疊，遮罩會是空的）。關於直方圖的更多運作資訊，請參見： [層級](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/atomic-nodes/levels)。 |
+| **來源通道直方圖** | 提供來源與目標的直方圖視圖。 知道它們是否有重疊或完全沒有重疊很有用（如果沒有重疊，遮罩會是空的）。關於直方圖的更多運作資訊，請參見： [層級](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/atomic-nodes/levels)。 |
 
 >[!NOTE]
 >

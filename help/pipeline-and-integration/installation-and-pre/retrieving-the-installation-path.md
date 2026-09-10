@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/installation-and-preferences/retrieving-the-installation-path.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/installation-and-preferences/retrieving-the-installation-path.html"
 breadcrumb-title: ''
 description: 學習如何取得 Substance 3D Painter 的安裝路徑，用於腳本撰寫與管線整合。
 helpx_creative_field: ""
@@ -27,7 +27,7 @@ ht-degree: 1%
 ### 創意雲端桌面
 
 1. 開啟 Windows 登錄檔編輯器（**regedit**）。
-1. 請前往登錄檔鍵：**&#x200B; HKEY\_LOCAL\_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\**
+1. 請前往登錄檔鍵：** HKEY\_LOCAL\_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\**
 1. 打開名為 **Adobe Substance 3D 的子鍵Painter.exe**
 1. 該金鑰的值包含應用程式執行檔安裝地點的路徑
 

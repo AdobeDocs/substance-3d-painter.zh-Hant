@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/viewport/2d-view.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/viewport/2d-view.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 2D 視圖，在 UV 空間中檢視和編輯貼圖，進行精準的貼圖繪製。
 helpx_creative_field: ""

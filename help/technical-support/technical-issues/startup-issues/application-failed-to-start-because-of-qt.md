@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/startup-issues/application-failed-to-start-because-of-qt.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/startup-issues/application-failed-to-start-because-of-qt.html"
 breadcrumb-title: ''
 description: 學習如何修復因 Qt 框架問題導致的 Substance 3D Painter 啟動失敗，以正確啟動應用程式。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 啟動應用程式時可能會跳出以下錯誤訊息：
 
-&#x200B;>> 
+>> 
 
 此應用程式無法啟動，因為無法初始化任何 Qt 平台外掛。 重新安裝應用程式可能會解決這個問題。
 

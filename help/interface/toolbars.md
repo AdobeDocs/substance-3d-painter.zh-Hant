@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/toolbars.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/toolbars.html"
 breadcrumb-title: ''
 description: 學習如何使用並自訂 Substance 3D Painter 的工具列，以有效存取工具與功能。
 helpx_creative_field: ""
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 **工具列**&#x200B;預設位於主介面左上角。它列出了 [所有可用來為當前開啟專案的 3D 網格貼圖的繪畫工具](../painting/painting.md) 。 這些工具只有在選擇繪圖層時才能使用。
 
-有些工具還有第二種模式叫做「物理」，可以實現粒子繪畫。 也可以點擊資產[&#128279;](assets/assets.md)視窗中的粒子筆刷預設來進入粒子繪畫。
+有些工具還有第二種模式叫做「物理」，可以實現粒子繪畫。 也可以點擊資產](assets/assets.md)視窗中的[粒子筆刷預設來進入粒子繪畫。
 
 此工具列只能垂直停靠在主介面的左側或右側。
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ![](../assets/contextual-toolbar.png){width="450px"}
 
-情境工具列是一個工具列，內容會根據目前選擇的工具或其他被修改的屬性而有所變動。 工具列左側可以更換，但右側是固定的，並列出修改視窗[&#128279;](viewport/viewport.md)顯示的快捷鍵。
+情境工具列是一個工具列，內容會根據目前選擇的工具或其他被修改的屬性而有所變動。 工具列左側可以更換，但右側是固定的，並列出修改視窗](viewport/viewport.md)顯示[的快捷鍵。
 
 此工具列可列出以下元素的屬性：
 

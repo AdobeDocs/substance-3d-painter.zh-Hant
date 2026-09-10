@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/presets/creating-particles-presets/creating-a-new-particle-script.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/creating-particles-presets/creating-a-new-particle-script.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中建立新的粒子腳本，以定義自訂的粒子筆刷行為與效果。
 helpx_creative_field: ""
@@ -58,7 +58,7 @@ PopcornFX 只支援  **FBX**  ，記得匯出你的網格時要用這個格式�
 
 現在，複製  **「\_Receiver**   **」（**  在「Particles」資料夾裡），用這個建立你自己的接收器。
 
-打開它，至於發射器，請用你的模型在「Layer\_Model」中替換假網格。 我們修改了螢幕上顯示的網格&#x200B;**&#x200B;**，但同時也需要修改&#x200B;**粒子所使用的網格**&#x200B;**。**&#x200B;**&#x200B;**      
+打開它，至於發射器，請用你的模型在「Layer\_Model」中替換假網格。 我們修改了螢幕上顯示的網格&#x200B;****，但同時也需要修改&#x200B;**粒子所使用的網格****。******      
 
 要做到這點，在「粒子樹狀檢視」視窗中，點選「  **形狀**  」，應該位於：「粒子效果 => Spawner => Layer\_1 => Samplers => 網格」。
 

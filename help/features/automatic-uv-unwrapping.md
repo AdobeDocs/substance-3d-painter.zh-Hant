@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/automatic-uv-unwrapping.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/automatic-uv-unwrapping.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用自動 UV 展開，自動生成 3D 模型的 UV 佈局。
 helpx_creative_field: ""

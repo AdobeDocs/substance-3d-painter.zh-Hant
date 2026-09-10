@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/ribbon-tool.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/ribbon-tool.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的 Ribbon 工具，沿著路徑繪製類似緞帶的筆觸，進行裝飾性材質繪製。
 helpx_creative_field: ""

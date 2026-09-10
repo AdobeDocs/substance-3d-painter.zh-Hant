@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/version-8-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/version-8-2.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Painter 8.2 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -97,7 +97,7 @@ ht-degree: 0%
 
 ![](../assets/env-align-lighting2.gif)
 
-顯示設定[&#128279;](../interface/display-settings/environment-settings.md)中的新設定允許將環境貼圖與相機對齊，從而調整光線角度並照亮 3D 模型下方的部分。
+顯示設定](../interface/display-settings/environment-settings.md)中的[新設定允許將環境貼圖與相機對齊，從而調整光線角度並照亮 3D 模型下方的部分。
 
 要使用此新設定，請到 [顯示設定](../interface/display-settings/environment-settings.md) 並更改 **環境對齊** 設定：
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ![](../assets/banner-favorite.png)
 
-資產視窗新增[&#128279;](../interface/assets/assets.md)了動作，使資源管理更為便利。
+資產視窗新增[](../interface/assets/assets.md)了動作，使資源管理更為便利。
 
 * **快速找到它們的熱門資源**\
   在資產視窗中右鍵點擊任何資源，將它收藏（或取消收藏）。 最愛的資源總是在搜尋查詢中排在第一位，角落會有一個小星星標籤，讓它們更突出且易於取得。 還新增了專門的搜尋查詢，讓你輕鬆瀏覽所有喜愛的資源。
@@ -134,7 +134,7 @@ ht-degree: 0%
   ![](../assets/whats-new-4.jpg){width="400px"}
 
 * **快速重新匯入 3D 模型的新動作**\
-  新增了鍵盤快捷鍵（**預設為 CTRL+SHIFT+R** ），可快速重新匯入目前專案的 3D 模型。 這讓資產的迭代變得更簡單、更快速。 若找不到原始檔案，日誌中會顯示錯誤訊息。 編輯選單也新增&#x200B;**&#x200B;**&#x200B;了一個動作。
+  新增了鍵盤快捷鍵（**預設為 CTRL+SHIFT+R** ），可快速重新匯入目前專案的 3D 模型。 這讓資產的迭代變得更簡單、更快速。 若找不到原始檔案，日誌中會顯示錯誤訊息。 編輯選單也新增&#x200B;****&#x200B;了一個動作。
 
   ![](../assets/reimport-mesh.png)
 
@@ -303,7 +303,7 @@ Python API 新增了多項功能。 欲了解更多詳情，請參閱應用程�
 * 使用 16k EXR 時會當機
 * [撞擊聲]Ctrl Z 刪除著色器實例後
 * [Iray]IoR 對某些著色器被封鎖在 1
-* [Win]&#x200B;[烘焙聲]有些高多邊形無法載入
+* [Win][烘焙聲]有些高多邊形無法載入
 * [色彩管理]在 UI 中出現錯誤的色彩空間名稱，並搭配濾鏡
 * [Python]由匯入函式回傳的資源物件沒有型別
 

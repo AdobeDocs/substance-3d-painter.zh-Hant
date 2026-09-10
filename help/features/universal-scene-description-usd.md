@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/universal-scene-description-usd.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/universal-scene-description-usd.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中操作通用場景描述（USD）檔案，以實現現代管線整合。
 helpx_creative_field: ""

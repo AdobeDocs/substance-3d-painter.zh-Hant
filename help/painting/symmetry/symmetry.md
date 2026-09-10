@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/symmetry.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/symmetry.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用對稱工具，創造平衡且鏡像的材質繪製效果。
 helpx_creative_field: ""

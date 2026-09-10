@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/assets/advanced-search-queries.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/assets/advanced-search-queries.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中建立進階搜尋查詢，利用複雜的搜尋條件尋找特定素材。
 helpx_creative_field: ""
@@ -61,7 +61,7 @@ ht-degree: 0%
 * **搜尋行為**  ：
   * 為了篩選特定用法，請在搜尋中加入特定  **關鍵字**  ，例如：「  **images**  ambient」
   * 若要新增多個請求，請使用逗號 “  **，**  ”，例如：「cobalt  **，**  gold」（如果使用逗號，搜尋只會顯示同時符合兩個關鍵字的資源）
-  * 要搜尋確切姓名，請使用驚嘆號「！」 最後，舉例：  **DI！**  （會回傳髒土&#x200B;**但不會**&#x200B;回傳&#x200B;**&#x200B;**&#x200B;滴落，關鍵字會關閉模糊匹配）
+  * 要搜尋確切姓名，請使用驚嘆號「！」 最後，舉例：  **DI！**  （會回傳髒土&#x200B;**但不會**&#x200B;回傳&#x200B;****&#x200B;滴落，關鍵字會關閉模糊匹配）
   * 要排除某個模式，請使用連字號 “  **-**  ”，例如 ：  **u:image n：-normal**  （會回傳不含「normal」的圖片）
 * **匹配功能（模式後綴）：**
   * **預設**  ：近似匹配（模糊）

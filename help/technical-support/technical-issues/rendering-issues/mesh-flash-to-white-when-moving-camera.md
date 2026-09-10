@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/rendering-issues/mesh-flash-to-white-when-moving-camera.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/rendering-issues/mesh-flash-to-white-when-moving-camera.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 視口中移動攝影機時，修正網格閃爍成白色的問題，以穩定渲染。
 helpx_creative_field: ""
@@ -26,5 +26,5 @@ ht-degree: 0%
 
 要消除白色閃爍，只需&#x200B;**更新**&#x200B;專案著色器&#x200B;**：**
 
-* 對於&#x200B;**預設著色器**：請依照「更新著色器[&#128279;](../../../interface/shader-settings/updating-a-shader.md)」頁面的逐步步驟操作。
-* 自訂 **著色器**&#x200B;方面：請查看日誌中的錯誤訊息以及 [著色器 API](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 頁面。
+* 對於&#x200B;**預設著色器**：請依照「更新著色器](../../../interface/shader-settings/updating-a-shader.md)」頁面的逐步步驟[操作。
+* 自訂 **著色器**&#x200B;方面：請查看日誌中的錯誤訊息以及 [著色器 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 頁面。

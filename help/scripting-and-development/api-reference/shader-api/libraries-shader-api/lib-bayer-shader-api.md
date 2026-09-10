@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-bayer-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-bayer-shader-api.html"
 breadcrumb-title: ''
 description: 請取得 Lib Bayer 著色器 API 參考，以 Substance 3D Painter 在自訂著色器中建立 Bayer 抖動圖案。
 helpx_creative_field: ""

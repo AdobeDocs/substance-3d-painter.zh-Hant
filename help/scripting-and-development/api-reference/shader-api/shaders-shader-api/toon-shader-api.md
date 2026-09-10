@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/toon-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/toon-shader-api.html"
 breadcrumb-title: ''
 description: 取得 Substance 3D Painter 的 Toon 著色器 API 參考，以創造自訂的卡通風格渲染效果。
 helpx_creative_field: ""
@@ -54,7 +54,7 @@ uniform SamplerSparse basecolor_tex;
 ```
 
 
-我們&#x200B;**會將網格曲率綁定**&#x200B;**到均勻**&#x200B;曲率_tex **&#x200B;**。若無法提供曲率，則提供透明紋理。
+我們&#x200B;**會將網格曲率綁定****到均勻**&#x200B;曲率_tex ****。若無法提供曲率，則提供透明紋理。
 
 ```
 //: param auto texture_curvature 

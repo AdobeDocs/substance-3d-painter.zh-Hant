@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/auto-update.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/auto-update.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用自動資源更新，保持資源庫的同步與最新。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../assets/banner_autoupdate.jpg)
 
-自動資源更新，或稱<b>自動更新</b>，是資產視窗[&#128279;](../interface/assets/assets.md)中的一項功能，允許在有新版本可用時重新載入並更新資源。此過程可在介面中自動觸發、手動觸發，或透過 Python 腳本執行。
+自動資源更新，或稱<b>自動更新</b>，是資產視窗](../interface/assets/assets.md)中的一項功能[，允許在有新版本可用時重新載入並更新資源。此過程可在介面中自動觸發、手動觸發，或透過 Python 腳本執行。
 
 ![](../assets/auto_update_menu.png)
 

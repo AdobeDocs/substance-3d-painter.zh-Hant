@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/resource-management/adding-resource-paths-by-editing-preferences-manually.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/resource-management/adding-resource-paths-by-editing-preferences-manually.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中手動新增資源路徑，透過編輯偏好設定來擴充你的書架資源庫。
 helpx_creative_field: ""

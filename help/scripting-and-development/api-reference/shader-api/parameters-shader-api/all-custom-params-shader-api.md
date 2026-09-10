@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-custom-params-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-custom-params-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 All Custom Params shader API 參考，以定義並控制自訂著色器參數。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 自訂參數取樣著色器
 
-**請注意，所有自訂調整至少需要預設&#x200B;**&#x200B;值。**
+**請注意，所有自訂調整至少需要預設&#x200B;**值。**
 
 透過加入 *群組* 值來分組參數。
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/interface/main-menu/mode-menu.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/main-menu/mode-menu.html'
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 中的模式選單，切換不同的應用程式模式與工作流程。
 helpx_creative_field: ''

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/projection.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/projection.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的投影工具，將 2D 影像投射到 3D 表面，進行貼圖繪製工作流程。
 helpx_creative_field: ""

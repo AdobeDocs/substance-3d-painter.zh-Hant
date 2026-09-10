@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/smudge-tool.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/smudge-tool.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的 Smudge 工具來混合和暈染筆觸，創造平滑的材質過渡。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/image2018-6-12-18-14-12.png)
 
-在 Substance 3D Painter 2 中引入，污漬工具與繪畫工具[&#128279;](https://support.allegorithmic.com/documentation/display/SPDOC/Paint+brush)共享相同類型的參數。
+在 Substance 3D Painter 2 中引入，污漬工具與繪畫工具](https://support.allegorithmic.com/documentation/display/SPDOC/Paint+brush)共享相同類型的參數[。
 
 ![](../../assets/smudge.gif)
 

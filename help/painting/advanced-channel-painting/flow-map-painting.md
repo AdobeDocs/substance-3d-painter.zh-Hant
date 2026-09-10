@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/advanced-channel-painting/flow-map-painting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/advanced-channel-painting/flow-map-painting.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中繪製流圖，以控制材質流動方向與各向異性效果。
 helpx_creative_field: ""

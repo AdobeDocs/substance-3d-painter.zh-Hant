@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用圖層堆疊來組織和管理多個材質繪圖圖層。
 helpx_creative_field: ""
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 圖層堆疊的左上角下拉選單控制圖層堆疊的檢視模式。 由於一層可以涵蓋多個通道，因此無法同時顯示所有這些屬性。 因此，檢視模式可以用來定義目前的顯示上下文。 使用此下拉選單時，可以指定圖層縮圖中顯示哪些通道，並控制該通道的混合模式與透明度。
 
-這個下拉選單中的列表是根據貼圖集設定[&#128279;](../texture-set/texture-set-settings.md)中可用的頻道列表。
+這個下拉選單中的列表是根據貼圖集設定](../texture-set/texture-set-settings.md)中可用的[頻道列表。
 
 ## 動作
 
@@ -72,6 +72,6 @@ ht-degree: 0%
 | 建立遮罩 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/icon-mask.png"/></div> | 打開面具動作選單，裡面包含以下項目：<ul data-preserve-html="true"><li data-preserve-html="true">加白色遮罩</li><li data-preserve-html="true">加上黑色遮罩</li><li data-preserve-html="true">新增點陣遮罩</li><li data-preserve-html="true">加入遮罩並選擇顏色</li><li data-preserve-html="true">加上遮罩與高度組合</li></ul> |
 | 建立新的繪畫圖層 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r3-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/image2020-9-30-11-52-41.png"/></div> | 在目前選取的圖層上方建立一個新的 Paint 圖層。 |
 | 建立新的填充圖層 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r4-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/image2020-9-30-12-0-49.png"/></div> | 在目前選取的圖層上方建立一個新的 [填充圖層](../../painting/fill-projections/fill-projections.md) 。 |
-| 新增智慧材料 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r5-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/icon-smartmat.png"/></div> | 在目前選取的圖層上方插入一個新的智慧材質。點擊此按鈕會開啟一個迷你書架，瀏覽目前[&#128279;](../../interface/assets/assets.md)資產中可用的智慧材料清單。 |
+| 新增智慧材料 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r5-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/icon-smartmat.png"/></div> | 在目前選取的圖層上方插入一個新的智慧材質。點擊此按鈕會開啟一個迷你書架，瀏覽目前[](../../interface/assets/assets.md)資產中可用的智慧材料清單。 |
 | 新增資料夾 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r6-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/image2020-9-30-12-1-13.png"/></div> | 在目前選取的圖層上方建立一個新的空資料夾。 |
 | 刪除圖層 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r7-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/icon-trash.png"/></div> | 刪除目前選取的項目（圖層、資料夾或效果）。 |

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/exporting-a-dxdiag.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/exporting-a-dxdiag.html"
 breadcrumb-title: ''
 description: 學習如何從 Substance 3D Painter for Windows 的故障排除與支援中匯出 DXDiag 系統資訊。
 helpx_creative_field: ""

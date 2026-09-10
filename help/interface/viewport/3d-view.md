@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/viewport/3d-view.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/viewport/3d-view.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 3D 視圖，在材質繪製時視覺化並與你的 3D 模型互動。
 helpx_creative_field: ""
@@ -42,7 +42,7 @@ ht-degree: 1%
 
 預設情況下，視窗顯示模式設為材質以顯示環境光照。 下拉選單可切換顯示模式為單獨模式，分別隔離通道與網格貼圖。
 
-這些光照可以透過顯示設定[&#128279;](../display-settings/display-settings.md)以及其他渲染設定來控制[。光照方向也可以透過鍵盤快捷鍵](../settings/shortcuts.md)調整。
+這些光照可以透過顯示設定](../display-settings/display-settings.md)以及其他渲染設定來控制[。光照方向也可以透過鍵盤快捷鍵](../settings/shortcuts.md)調整[。
 
 ## 軸心國
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/assets-or-shelf-previews-are-empty.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/assets-or-shelf-previews-are-empty.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中修復空的資產和書架預覽，以恢復縮圖顯示功能。
 helpx_creative_field: ""

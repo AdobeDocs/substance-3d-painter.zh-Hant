@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/viewport-issues/viewports-and-textures-are-blurry-or-lack-sharpness.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/viewport-issues/viewports-and-textures-are-blurry-or-lack-sharpness.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中修正模糊的視窗與材質，以確保畫面銳利清晰。
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Substance 3D Painter 預設會將 High-DPI/Retina 螢幕的視窗解析度降細以提升效能。
 
-這種行為可以在主要設定[&#128279;](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/general-71008262.html)中透過更改&#x200B;**視窗縮放**&#x200B;參數來改變。
+這種行為可以在主要設定](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html)中透過更改&#x200B;**視窗縮放**&#x200B;參數來改變[。
 
 ## 紋理過濾
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes.html"
 breadcrumb-title: ''
 description: 取得 Substance 3D Painter 的發行說明，隨時掌握各版本的新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -29,4 +29,4 @@ ht-degree: 5%
 * [最新測試版](beta.md)
 * [已知問題](known-issues.md)
 
-想了解自軟體初版以來發生的所有事情，請參考「所有變更[&#128279;](all-changes.md)」頁面。
+想了解自軟體初版以來發生的所有事情，請參考「所有變更](all-changes.md)」頁面[。

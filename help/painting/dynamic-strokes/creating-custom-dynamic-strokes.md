@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/dynamic-strokes/creating-custom-dynamic-strokes.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/dynamic-strokes/creating-custom-dynamic-strokes.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中創造自訂動態筆觸，以設計獨特的筆觸行為與效果。
 helpx_creative_field: ""
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 從零開始創建新的動態筆劃可能很困難。 利用現有資源、微調，然後儲存成新的預設，這已經是個不錯的起點。
 
-在 Shelf 上找到適合你需求的資源，然後看看我們的預設[&#128279;](../presets/presets.md)頁面。
+在 Shelf 上找到適合你需求的資源，然後看看我們的預設[](../presets/presets.md)頁面。
 
 ## 為動態筆劃建立自訂 Substance 檔案
 

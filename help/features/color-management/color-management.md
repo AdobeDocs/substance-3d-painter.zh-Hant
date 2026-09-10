@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/color-management.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/color-management.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定色彩管理，確保整個工作流程的色彩準確度一致。
 helpx_creative_field: ""
@@ -114,7 +114,7 @@ ht-degree: 0%
 
 主要的匯出設定是由專案設定（見上文）所驅動。
 
-在匯出材質[&#128279;](../../export/export.md)視窗中，有一個關鍵字可以用來附加檔案名稱中每個材質所使用的色彩空間：**$colorSpace**。
+在匯出材質](../../export/export.md)視窗中[，有一個關鍵字可以用來附加檔案名稱中每個材質所使用的色彩空間：**$colorSpace**。
 
 <table>
 <tr style="border: 0;">
@@ -137,7 +137,7 @@ ht-degree: 0%
 
 ### 改變資源的色彩空間
 
-在屬性視窗[&#128279;](../../interface/properties.md)內，是否可以覆寫特定資源的色彩空間（目前該資源的使用位置）。
+在屬性視窗](../../interface/properties.md)內[，是否可以覆寫特定資源的色彩空間（目前該資源的使用位置）。
 
 要做到這點，請展開色彩空間區塊，並使用下拉選單指定新的色彩空間：
 

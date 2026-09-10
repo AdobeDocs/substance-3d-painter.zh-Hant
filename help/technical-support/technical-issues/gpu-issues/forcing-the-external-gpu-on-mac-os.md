@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/gpu-issues/forcing-the-external-gpu-on-mac-os.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/forcing-the-external-gpu-on-mac-os.html"
 breadcrumb-title: ''
 description: 學習如何強制 Substance 3D Painter 在 macOS 上使用外接 GPU，以提升渲染效能。
 helpx_creative_field: ""
@@ -27,7 +27,7 @@ ht-degree: 0%
 啟用它：
 
 1. 如果 Substance 3D Painter 已經在運行，請關閉它。
-1. 在 Finder 中選擇 Substance 3D Painter，可以在 Applications **資料夾中找到**&#x200B;**。
+1. 在 Finder 中選擇 Substance 3D Painter，可以在 Applications **資料夾中找到****。
 1. 按下 **Command-I** 或右鍵點擊 **Substance 3D Painter** 應用程式，選擇 **「取得資訊**」。
 1. 在新視窗中，啟用「偏好外接顯示卡&#x200B;**」這個設定**。
 1. 重新啟動 Substance 3D Painter。

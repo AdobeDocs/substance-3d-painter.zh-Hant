@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/vector-graphic-svg.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用向量圖形（SVG 和 AI 檔案）來為貼圖添加可縮放的向量藝術作品。
 helpx_creative_field: ""
@@ -27,7 +27,7 @@ ht-degree: 0%
 * 欲了解更多關於 SVG 檔案的資訊，請參閱 [此頁面](https://www.adobe.com/creativecloud/file-types/image/vector/svg-file.html)。
 * 欲了解更多關於 AI 檔案的資訊，請參閱 [此頁面](https://www.adobe.com/ie/creativecloud/file-types/image/vector/ai-file.html)。
 
-SVG 和 AI 檔案在圖層堆疊[&#128279;](../interface/layer-stack/layer-stack.md)中使用時（視所選設定而定）會自動轉換成像素影像。這是一個非破壞性的過程，改變解析度或更新原始檔案會相應地更新最終結果。
+SVG 和 AI 檔案在圖層堆疊](../interface/layer-stack/layer-stack.md)中使用[時（視所選設定而定）會自動轉換成像素影像。這是一個非破壞性的過程，改變解析度或更新原始檔案會相應地更新最終結果。
 
 ## 屬性
 

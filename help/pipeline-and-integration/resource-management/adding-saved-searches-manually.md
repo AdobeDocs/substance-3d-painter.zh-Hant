@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/resource-management/adding-saved-searches-manually.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/resource-management/adding-saved-searches-manually.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中手動新增已儲存的搜尋，以快速存取常用資源篩選器。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/iray-renderer/viewer-and-mdl-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/iray-renderer/viewer-and-mdl-settings.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定 Iray 渲染器的檢視器和 MDL 設定，以自訂材質渲染。
 helpx_creative_field: ""
@@ -83,7 +83,7 @@ MDL 的參數會顯示在檢視器設定的底部。 以下是預設 MDL（與 P
 > 要載入自訂 MDL，需要自訂的 glsl 著色器。\
 >  在著色器中，可以加入一些 metadat 來指定 mdl 路徑：
 > 
-> &#x200B;- 宣告 iray mdl 材質以配合此著色器使用。 ： metadata { //： “mdl”：“mdl：:alg::materials::p hysically\_metallic\_roughness：:p hysically\_metallic\_roughness” //： }
+> - 宣告 iray mdl 材質以配合此著色器使用。 ： metadata { //： “mdl”：“mdl：:alg::materials::p hysically\_metallic\_roughness：:p hysically\_metallic\_roughness” //： }
 > 
 > * **MDL**  ：定義用於著色器的 Iray MDL 材質。 路徑語法如下：  *mdl：:folder1::folder2:：mdl\_filename：：material\_name*  其中  *folder1：:folder2:：mdl\_filename*  是你架子  *mdl*  資料夾內通往 mdl 檔案的路徑，而  *：：material\_name*  是該 mdl 檔案中宣告的材質名稱。 （例如：「MDL」：「MDL：:alg::materials::p hysically\_metallic\_roughness：:p hysically\_metallic\_roughness」）
 

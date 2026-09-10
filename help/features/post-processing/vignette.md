@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/post-processing/vignette.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/vignette.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 vignette 後製效果，為視窗邊緣添加暗化效果。
 helpx_creative_field: ""

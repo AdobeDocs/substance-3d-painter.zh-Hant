@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/geometry-mask.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/geometry-mask.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用幾何遮罩，根據網格幾何和表面屬性來遮罩圖層。
 helpx_creative_field: ""

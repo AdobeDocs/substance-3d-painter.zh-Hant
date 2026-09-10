@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/baking/baking-visualization-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/baking/baking-visualization-settings.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定烘焙視覺化設定，以預覽和除錯網格貼圖烘焙結果。
 helpx_creative_field: ""

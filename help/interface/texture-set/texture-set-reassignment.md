@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/texture-set/texture-set-reassignment.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/texture-set/texture-set-reassignment.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中重新指派貼圖集，以重新組織網格指派和貼圖貼圖。
 helpx_creative_field: ""

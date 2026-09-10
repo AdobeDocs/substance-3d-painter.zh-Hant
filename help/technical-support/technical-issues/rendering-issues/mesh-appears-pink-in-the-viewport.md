@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/rendering-issues/mesh-appears-pink-in-the-viewport.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/rendering-issues/mesh-appears-pink-in-the-viewport.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 視角中修正粉紅色網格外觀，以恢復正確的材質渲染。
 helpx_creative_field: ""
@@ -26,5 +26,5 @@ ht-degree: 0%
 
 以下是解決方法：
 
-* 對於&#x200B;**預設著色器**：請依照「更新著色器[&#128279;](../../../interface/shader-settings/updating-a-shader.md)」頁面的逐步步驟操作。
-* 關於 **自訂著色器**：請查看日誌視窗中的錯誤訊息以及 [著色器 API](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 頁面。
+* 對於&#x200B;**預設著色器**：請依照「更新著色器](../../../interface/shader-settings/updating-a-shader.md)」頁面的逐步步驟[操作。
+* 關於 **自訂著色器**：請查看日誌視窗中的錯誤訊息以及 [著色器 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 頁面。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/rendering-issues/artifacts-and-glitches-on-mac-os-with-custom-gpus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/rendering-issues/artifacts-and-glitches-on-mac-os-with-custom-gpus.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中用自訂 GPU 修復 macOS 上渲染的瑕疵和故障，以達到穩定的效能。
 helpx_creative_field: ""
@@ -26,4 +26,4 @@ ht-degree: 0%
 
 若在 Mac OS 上運行自訂 GPU 並搭配自訂驅動程式時出現故障、當機甚至瑕疵，解決方法是刪除 **與該應用程式相關的正確清單** 檔案。
 
-要知道要移除哪個檔案，請參見： [偏好設定與應用程式資料位置](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)。
+要知道要移除哪個檔案，請參見： [偏好設定與應用程式資料位置](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/effects/levels.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/levels.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 Levels 效果來調整亮度、對比度和材質的色調範圍。
 helpx_creative_field: ""

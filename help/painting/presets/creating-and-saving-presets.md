@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/presets/creating-and-saving-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets/creating-and-saving-presets.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中建立並儲存筆刷預設，建立可重複使用的自訂繪畫工具庫。
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> [裝備 Path 工具](../tool-list/path.md)後，屬性面板[&#128279;](../../interface/properties.md)中會出現預設區塊，讓你能快速存取與路徑相關的預設。你也可以把路徑預設加入你的收藏。 在這裡了解更多管理你最喜愛 [路徑預設](../tool-list/path.md)的方法。
+> [裝備 Path 工具](../tool-list/path.md)後，屬性面板](../../interface/properties.md)中會出現[預設區塊，讓你能快速存取與路徑相關的預設。你也可以把路徑預設加入你的收藏。 在這裡了解更多管理你最喜愛 [路徑預設](../tool-list/path.md)的方法。
 
 ## 建立一個新的預設
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 
 ![](../../assets/update-preset.png)
 
-你可以根據屬性視窗中的當前值更新現有的預設。 在資產[&#128279;](../../interface/assets/assets.md)視窗中右鍵點擊該資產，選擇「從目前工具更新」即可更新預設。
+你可以根據屬性視窗中的當前值更新現有的預設。 在資產](../../interface/assets/assets.md)視窗中右鍵點擊該資產[，選擇「從目前工具更新」即可更新預設。

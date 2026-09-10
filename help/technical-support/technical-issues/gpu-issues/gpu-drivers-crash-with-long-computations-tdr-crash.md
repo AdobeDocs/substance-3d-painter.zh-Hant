@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中修復 GPU 驅動程式在長時間計算時當機，以防止 TDR 逾時錯誤。
 helpx_creative_field: ""
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 為了防止任何渲染或 GPU 運算 **導致系統**&#x200B;當機，Windows 作業系統 **會在渲染超過幾秒時終止 GPU 驅動** 程式。 當驅動程式死亡時，使用該驅動程式的應用程式會自動當機。 無法知道渲染任務或計算所需時間（視 GPU、驅動程式、作業系統、網格大小、貼圖大小等而定），因此無法限制電腦處理量，避免應用程式層級的當機。
 
-在 Windows 上，有一個&#x200B;**登錄**&#x200B;**檔金鑰**&#x200B;會指定作業系統應該等待多久才會終止 GPU 驅動程式。應用程式無權直接修改此設定，此程序必須手動完成（見下文）。
+在 Windows 上，有一個&#x200B;**登錄****檔金鑰**&#x200B;會指定作業系統應該等待多久才會終止 GPU 驅動程式。應用程式無權直接修改此設定，此程序必須手動完成（見下文）。
 
 欲了解更多資訊，請參閱官方文件： <https://docs.microsoft.com/en-us/windows-hardware/drivers/display/tdr-registry-keys>。
 
@@ -139,7 +139,7 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Windows 登錄檔編輯器中的 TDR 鍵 - Windows 登錄檔編輯器中的最終](../../../assets/registry-example.png "TDR 鍵 - 最終"){zoomable="yes"}
 
-**關閉** 登錄編輯器。 **&#x200B;**&#x200B;重新啟動電腦時，請先選擇「開始&#x200B;**」再**「**重新啟動**」。
+**關閉** 登錄編輯器。 ****&#x200B;重新啟動電腦時，請先選擇「開始&#x200B;**」再**「**重新啟動**」。
 
 TdrValue 只會在電腦啟動時查看，因此強制刷新需要重新啟動。
 
@@ -149,5 +149,5 @@ TdrValue 只會在電腦啟動時查看，因此強制刷新需要重新啟動�
 
 有兩種方法可以將TDR回復預設值：
 
-* 按照上述步驟，將 TdrDelay 設為 2 秒&#x200B;**，TdrDdiDelay**&#x200B;**設為** 5 秒&#x200B;**。**&#x200B;**&#x200B;**
+* 按照上述步驟，將 TdrDelay 設為 2 秒&#x200B;**，TdrDdiDelay****設為** 5 秒&#x200B;**。******
 * 或者 **從登錄檔條目中移除** **TdrDelay** 和 **TdrDdiDelay** 金鑰。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/uv-projection.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/uv-projection.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 中使用 UV 投影，根據 UV 座標投影貼圖，進行精確的貼圖擺放。
 helpx_creative_field: ""
@@ -35,11 +35,11 @@ ht-degree: 1%
 
 UV 轉換設定控制投影內的材質/材質。
 
-<table data-preserve-html="true" style="width: 100.0%;"><colgroup> <col style="width: 40.0%;"/> <col style="width: 20.0%;"/> <col style="width: 40.0%;"/> </colgroup><tbody><tr><th>音階模式</th><th>背景設定</th><th>說明</th></tr><tr><td><p><strong>平鋪</strong> （預設）<strong> <br/></strong></p><p>允許手動設定當前材質的重複數量。</p></td><td><strong>鋪磚</strong></td><td>控制材質重複次數。</td></tr><tr><td rowspan="2"><br/><br/></td><td colspan="1"><strong>旋轉</strong></td><td colspan="1">控制貼圖投影到網格上的角度。</td></tr><tr><td colspan="1"><strong>偏移</strong></td><td colspan="1">控制點從材質投影的位置。 預設值代表貼圖中心位於網格 UV 的中心。</td></tr><tr><th colspan="1"><br/></th><th colspan="1"><br/></th><th colspan="1"><br/></th></tr><tr><td rowspan="4"><p><strong>實際大小</strong></p><p>根據網格大小和嵌入的物理尺寸自動調整貼圖。 它使用寬度與長度（X 和 Y 的測量）來計算正確的物理尺寸。 Z 測量未被考慮。</p><p>（更多資訊請參閱專門的[文件頁面]（https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/features/physical-size））</p></td><td><strong>自訂尺寸</strong></td><td><p>啟用後，允許手動輸入實體大小並覆蓋資產提供的尺寸。</p><p>若未偵測到物理大小，或同一層/效果中使用多個不同物理尺寸的資產，則會自動選擇。</p></td></tr><tr><td colspan="1"><strong>尺寸（公分）</strong></td><td colspan="1">嵌入的物理尺寸以公分表示。 你可以使用使用不同計量單位建立的網格檔案——它會保留正確的比例。 不過資產尺寸目前僅以公分顯示。</td></tr><tr><td colspan="1"><strong>旋轉</strong></td><td colspan="1">控制貼圖投影到網格上的角度。</td></tr><tr><td colspan="1"><strong>偏移</strong></td><td colspan="1"><p>控制點從材質投影的位置。 預設值代表貼圖中心位於網格 UV 的中心。</p></td></tr></tbody></table>
+<table data-preserve-html="true" style="width: 100.0%;"><colgroup> <col style="width: 40.0%;"/> <col style="width: 20.0%;"/> <col style="width: 40.0%;"/> </colgroup><tbody><tr><th>音階模式</th><th>背景設定</th><th>說明</th></tr><tr><td><p><strong>平鋪</strong> （預設）<strong> <br/></strong></p><p>允許手動設定當前材質的重複數量。</p></td><td><strong>鋪磚</strong></td><td>控制材質重複次數。</td></tr><tr><td rowspan="2"><br/><br/></td><td colspan="1"><strong>旋轉</strong></td><td colspan="1">控制貼圖投影到網格上的角度。</td></tr><tr><td colspan="1"><strong>偏移</strong></td><td colspan="1">控制點從材質投影的位置。 預設值代表貼圖中心位於網格 UV 的中心。</td></tr><tr><th colspan="1"><br/></th><th colspan="1"><br/></th><th colspan="1"><br/></th></tr><tr><td rowspan="4"><p><strong>實際大小</strong></p><p>根據網格大小和嵌入的物理尺寸自動調整貼圖。 它使用寬度與長度（X 和 Y 的測量）來計算正確的物理尺寸。 Z 測量未被考慮。</p><p>（更多資訊請參閱專門的[文件頁面]（https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/features/physical-size））</p></td><td><strong>自訂尺寸</strong></td><td><p>啟用後，允許手動輸入實體大小並覆蓋資產提供的尺寸。</p><p>若未偵測到物理大小，或同一層/效果中使用多個不同物理尺寸的資產，則會自動選擇。</p></td></tr><tr><td colspan="1"><strong>尺寸（公分）</strong></td><td colspan="1">嵌入的物理尺寸以公分表示。 你可以使用使用不同計量單位建立的網格檔案——它會保留正確的比例。 不過資產尺寸目前僅以公分顯示。</td></tr><tr><td colspan="1"><strong>旋轉</strong></td><td colspan="1">控制貼圖投影到網格上的角度。</td></tr><tr><td colspan="1"><strong>偏移</strong></td><td colspan="1"><p>控制點從材質投影的位置。 預設值代表貼圖中心位於網格 UV 的中心。</p></td></tr></tbody></table>
 
 ## 情境工具列
 
-視窗頂端的情境工具列[&#128279;](../../interface/toolbars.md)提供多種設定與工具，以控制操作手與投影：
+視窗頂端的情境工具列](../../interface/toolbars.md)提供[多種設定與工具，以控制操作手與投影：
 
 | 聖像 | 名稱 | 說明 |
 | --- | --- | --- |

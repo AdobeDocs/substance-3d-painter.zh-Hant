@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-normal-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-normal-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 Lib Normal shader API 參考，以便在自訂著色器中處理法線貼圖和表面法線。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## lib-normal.glsl
 
-**公開函式：**&#x200B;正常 混合&#x200B;**&#x200B;正常 混合 定向 &#x200B;** 正常&#x200B;**&#x200B;解包&#x200B;**&#x200B;從基礎 正常 **&#x200B; 正常 從正常&#x200B;**&#x200B;正常 從高度&#x200B;**&#x200B;取得 TSNormal &#x200B;**&#x200B;計算WSBase 正常&#x200B;**&#x200B;計算WSNormal &#x200B;**
+**公開函式：**&#x200B;正常 混合&#x200B;**&#x200B;正常 混合 定向 ** 正常&#x200B;**&#x200B;解包&#x200B;**&#x200B;從基礎 正常 ** 正常 從正常&#x200B;**&#x200B;正常 從高度&#x200B;**&#x200B;取得 TSNormal **&#x200B;計算WSBase 正常&#x200B;**&#x200B;計算WSNormal **
 
 從函式庫匯入
 

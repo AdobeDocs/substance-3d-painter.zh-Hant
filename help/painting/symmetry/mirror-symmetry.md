@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/symmetry/mirror-symmetry.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/symmetry/mirror-symmetry.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 中使用鏡像對稱，沿著軸線對稱繪製，以創造平衡的紋理。
 helpx_creative_field: ""

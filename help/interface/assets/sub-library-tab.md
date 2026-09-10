@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/assets/sub-library-tab.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/assets/sub-library-tab.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 的子函式庫分頁來組織和存取巢狀的資源庫。
 helpx_creative_field: ""

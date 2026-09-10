@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/interface/main-menu/help-menu.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/main-menu/help-menu.html'
 breadcrumb-title: ''
 description: 請進入 Substance 3D Painter 的說明選單，找到文件、教學及支援資源。
 helpx_creative_field: ''
@@ -29,12 +29,12 @@ ht-degree: 1%
 
 | 動作 | 說明 |
 | --- | --- |
-| 教學課程 | 官方相關教學[&#128279;](https://helpx.adobe.com/tw/substance-3d/unlisted/tutorials.html)連結。 |
-| 發行說明 | 發行[&#128279;](../../release-notes/all-changes.md)說明連結。 |
+| 教學課程 | 官方相關教學](https://helpx.adobe.com/substance-3d/unlisted/tutorials.html)連結[。 |
+| 發行說明 | 發行](../../release-notes/all-changes.md)說明連結[。 |
 | 文件 | 連結至此文件。 |
-| 捷徑列表 | 捷徑[&#128279;](../settings/shortcuts.md)文件連結。 |
+| 捷徑列表 | 捷徑](../settings/shortcuts.md)文件連結[。 |
 | 腳本文件 | 連結到各種腳本 API 的本地文件。 |
-| 論壇 | 申請[&#128279;](https://community.adobe.com/t5/substance-3d-painter/bd-p/substance-3d-painter)論壇連結。 |
+| 論壇 | 申請](https://community.adobe.com/t5/substance-3d-painter/bd-p/substance-3d-painter)論壇連結[。 |
 | 回報錯誤 | 打開錯誤回報視窗來傳送資訊。 |
 | 節目記錄 | 在預設的 TXT 檔案編輯器中開啟你目前 Painter 會話的日誌檔案。 |
 | 輸出日誌 | 匯出日誌檔，請求支援協助。 |

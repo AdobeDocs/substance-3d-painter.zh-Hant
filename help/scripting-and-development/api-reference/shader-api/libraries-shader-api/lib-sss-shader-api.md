@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sss-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sss-shader-api.html"
 breadcrumb-title: ''
 description: 請取得 Substance 3D Painter 的 Lib SSS shader API 參考，以便在自訂著色器中創造次表面散射效果。
 helpx_creative_field: ""

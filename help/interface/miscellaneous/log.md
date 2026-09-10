@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/interface/miscellaneous/log.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/miscellaneous/log.html'
 breadcrumb-title: ''
 description: 學習如何存取並使用 Substance 3D Painter 中的日誌視窗，以查看應用程式訊息與除錯資訊。
 helpx_creative_field: ''

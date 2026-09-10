@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started/system-requirements.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/system-requirements.html"
 breadcrumb-title: ''
 description: 請檢視 Substance 3D Painter 的系統需求，確保您的電腦符合硬體與軟體規格。
 helpx_creative_field: ""
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 <b>DXR</b> 也要求以下最低配置：
 
-* <b>Windows 10</b> 版本 1809，請參閱 [此頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d/bakers/features/gpu-raytracing) 以獲取更多資訊
+* <b>Windows 10</b> 版本 1809，請參閱 [此頁面](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/features/gpu-raytracing) 以獲取更多資訊
 * <b> 採用 Pascal 架構</b> 的 GPU（Nvidia GeForce 10XX）
 
 >[!TIP]
@@ -174,7 +174,7 @@ ht-degree: 0%
 
 ## 支援的 3Dconnexion SpaceMouse 模型
 
-以下是已在 Substance 3D Painter 8.1 版本<b>測試過的 3Dconnection 太空滑鼠[&#128279;](https://3dconnexion.com/us/spacemouse/)相容驅動版本列表。</b>
+以下是已在 Substance 3D Painter 8.1 版本<b>測試過的 3Dconnection 太空滑鼠](https://3dconnexion.com/us/spacemouse/)相容驅動版本[列表。</b>
 
 驅動版本適用於 <b>緊湊型</b>、 <b>專業</b> 版及 <b>企業</b> 版。
 

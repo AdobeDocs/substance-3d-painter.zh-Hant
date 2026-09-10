@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/uv-tiles.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/uv-tiles.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 UV 圖塊，來處理平鋪 UV 佈局和多重材質集。
 helpx_creative_field: ""
@@ -29,10 +29,10 @@ UV 磚塊是一種可以在材質集內，跨越多個 UV 範圍的多組材質�
 想了解更多 UV Tile 工作流程，請參閱以下頁面：
 
 * [使用 UV Tile 工作流程來建立](../../getting-started/project-creation.md) 專案。
-* 在 2D 視圖[&#128279;](../../interface/viewport/2d-view.md)中查看 UV 磚塊。
+* 在 2D 視圖](../../interface/viewport/2d-view.md)中查看 UV 磚[塊。
 * [用 UV Tile 遮罩](../../interface/layer-stack/geometry-mask.md) 來提升效能。
 * 匯入並使用 [影像序列](image-sequence.md)。
-* 在貼圖集設定[&#128279;](../../interface/texture-set/texture-set-settings.md)中調整每個 UV Tiles 的解析度。
+* 在貼圖集設定](../../interface/texture-set/texture-set-settings.md)中調整每個 UV Tiles [的解析度。
 
 >[!NOTE]
 >

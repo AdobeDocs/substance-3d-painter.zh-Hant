@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/project-issues/projects-are-really-big.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/project-issues/projects-are-really-big.html"
 breadcrumb-title: ''
 description: 學習如何縮小 Substance 3D Painter 專案檔案大小，以優化效能與儲存需求。
 helpx_creative_field: ""
@@ -47,9 +47,9 @@ Substance 3D Painter 專案可以非常龐大，且佔用大量磁碟空間。 �
 
 當專案中使用大量資源時，Substance 3D Painter 會複製它們。 例如，如果你用 alpha 來畫某樣東西。 如果你在 alpha 上色時刪除該圖層，Substance 3D Painter 不會自動移除該資源。
 
-要移除未使用的資源，請使用&#x200B;**檔案選單[&#128279;](https://substance3d.adobe.com/display/DRAFTPAINTER/File+menu)中的清理**&#x200B;操作。然後儲存專案（這會觸發實際移除該資源）。
+要移除未使用的資源，請使用&#x200B;**檔案選單](https://substance3d.adobe.com/display/DRAFTPAINTER/File+menu)中的[清理**&#x200B;操作。然後儲存專案（這會觸發實際移除該資源）。
 
-專案中仍在使用的資源無法移除。 這表示停用貼圖集仍能參考資源，並防止它們被刪除。 為了避免這種情況，請在貼圖集重新指派視窗[&#128279;](../../../interface/texture-set/texture-set-reassignment.md)中移除已停用的貼圖集。
+專案中仍在使用的資源無法移除。 這表示停用貼圖集仍能參考資源，並防止它們被刪除。 為了避免這種情況，請在貼圖集重新指派視窗](../../../interface/texture-set/texture-set-reassignment.md)中移除已停用的貼圖集[。
 
 ### 降低紋理集解析度
 
@@ -61,7 +61,7 @@ Substance 3D Painter 專案可以非常龐大，且佔用大量磁碟空間。 �
 
 大量以增量方式儲存專案檔案會讓檔案破碎。 雖然不是嚴重問題，但這可能會在專案檔案中產生空位，進而增加檔案大小。
 
-請使用檔案選單[&#128279;](../../../interface/main-menu/file-menu.md)中的「儲存並壓縮」功能重新儲存專案並移除浪費的空白空間。這個存檔動作會比一般存檔長，但能大幅減少檔案佔用空間。
+請使用檔案選單](../../../interface/main-menu/file-menu.md)中的[「儲存並壓縮」功能重新儲存專案並移除浪費的空白空間。這個存檔動作會比一般存檔長，但能大幅減少檔案佔用空間。
 
 ### 縮小烘焙的網格貼圖大小
 

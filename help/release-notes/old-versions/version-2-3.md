@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2-3.html"
 breadcrumb-title: ''
 description: 查看 Substance 3D Painter 2.3 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 **新增：**
 
-* [外掛]&#x200B;[Photoshop]允許指定要匯出哪些材質/堆疊/通道
+* [外掛][Photoshop]允許指定要匯出哪些材質/堆疊/通道
 * [腳本操作]函式名稱存在一些不一致之處
 
 **已修正：**

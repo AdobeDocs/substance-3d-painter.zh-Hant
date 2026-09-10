@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/shelf-issues/font-import.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/shelf-issues/font-import.html"
 breadcrumb-title: ''
 description: 學習如何修復 Substance 3D Painter 中字型檔案匯入問題，以成功匯入並使用字型資源。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 字型檔案無法匯入
 
-隨著文字資源[&#128279;](../../../painting/text-resource.md)的引入，字型檔案會在啟動時自動收集。字型檔案也可以手動匯入。
+隨著文字資源](../../../painting/text-resource.md)的引入[，字型檔案會在啟動時自動收集。字型檔案也可以手動匯入。
 
 在這些情況下，可能會出現幾個錯誤訊息：
 

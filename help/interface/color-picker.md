@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/color-picker.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/color-picker.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 中的色彩選擇器，從材質和材質中選擇顏色。
 helpx_creative_field: ""
@@ -42,11 +42,11 @@ ht-degree: 0%
 
 | 名稱與外觀 | 說明 |
 | --- | --- |
-| **顯示選擇器** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r1-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/display-selector.png" width="250px"/></div> | 允許選擇使用哪個顯示器來編輯顏色（光譜與滑桿）。 預設值與主視窗使用的顯示值相符。  **注意：**&#x200B;此設定僅在啟用色彩管理[&#128279;](../features/color-management/color-management.md)時使用。 |
-| **光譜** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/spectrum.png" width="250px"/></div> | 垂直滑桿是整體色調。 它允許選擇在漸層場中顯示的色調。選擇好一般陰影後，可以按住並拖曳斜面區域中的準星游標，選擇想要的顏色。  **注意：**&#x200B;啟用色彩管理[&#128279;](../features/color-management/color-management.md)時，目前顯示器的 HDR 色彩會被夾住（在工作色彩空間中）。這是為了避免色彩管理通道輸出 HDR 值。 |
+| **顯示選擇器** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r1-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/display-selector.png" width="250px"/></div> | 允許選擇使用哪個顯示器來編輯顏色（光譜與滑桿）。 預設值與主視窗使用的顯示值相符。  **注意：**&#x200B;此設定僅在啟用色彩管理](../features/color-management/color-management.md)時[使用。 |
+| **光譜** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/spectrum.png" width="250px"/></div> | 垂直滑桿是整體色調。 它允許選擇在漸層場中顯示的色調。選擇好一般陰影後，可以按住並拖曳斜面區域中的準星游標，選擇想要的顏色。  **注意：**&#x200B;啟用色彩管理](../features/color-management/color-management.md)時[，目前顯示器的 HDR 色彩會被夾住（在工作色彩空間中）。這是為了避免色彩管理通道輸出 HDR 值。 |
 | **現今與過去的顏色** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r3-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/color-preview-current.png"/></div> | 左側矩形表示顏色選擇器將輸出的最終顏色。右邊的矩形顯示前一個顏色（當顏色選擇器被打開時）。 你可以點擊它來還原之前的顏色，並讓它變成目前的顏色。 |
-| **十六進位域** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r4-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/hexa-field.png"/></div> | 十六進位欄位以十六進位值表示當前顏色。 RGB 元件以一對字母表示。例如 #FF0000 代表紅色。  **注意：**&#x200B;啟用色彩管理[&#128279;](../features/color-management/color-management.md)時，十六進位欄位始終在標準 sRGB 色彩空間中運作，方便跨軟體複製/貼上數值，無論專案目前使用何種顯示或工作空間。 |
-| **滴管** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r5-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/picker.png"/></div> | 吸管可以用來從外部來源中挑選顏色。 要使用它&#x200B;**&#x200B;**，點擊圖示再移動滑鼠，再複製想要的顏色。**注意：**  在視窗內選擇顏色時，可以使用 **Shift** 修改器直接選取目前已編輯的頻道。 這樣可以避免在原始材質與螢幕上顯示的顏色之間進行有損色彩轉換。 這也方便選擇顏色，而不必切換材質&#x200B;**&#x200B;**&#x200B;顯示模式。<div><img data-preserve-html="true" src="../assets/eyedropper-shift.png" width="150"/></div>  **注意：**  色彩欄位旁邊還設有吸管，可以快速選擇顏色，無需打開色彩選擇器。 <div><img data-preserve-html="true" height="83" src="../assets/eyedropper.jpg"/></div>  **注意：**  在 Mac OS 上，吸管可能無法在應用程式介面外選取顏色，原因是隱私設定的關係。 要解決此問題，請在以下區域為應用程式指派適當的權限： `System Preferences > Security & Privacy > Privacy > Screen Recording` |
+| **十六進位域** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r4-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/hexa-field.png"/></div> | 十六進位欄位以十六進位值表示當前顏色。 RGB 元件以一對字母表示。例如 #FF0000 代表紅色。  **注意：**&#x200B;啟用色彩管理](../features/color-management/color-management.md)時[，十六進位欄位始終在標準 sRGB 色彩空間中運作，方便跨軟體複製/貼上數值，無論專案目前使用何種顯示或工作空間。 |
+| **滴管** <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r5-column-c0_dynamic_grid_items_grid-cell_position-par_image" src="../assets/picker.png"/></div> | 吸管可以用來從外部來源中挑選顏色。 要使用它&#x200B;****，點擊圖示再移動滑鼠，再複製想要的顏色。**注意：**  在視窗內選擇顏色時，可以使用 **Shift** 修改器直接選取目前已編輯的頻道。 這樣可以避免在原始材質與螢幕上顯示的顏色之間進行有損色彩轉換。 這也方便選擇顏色，而不必切換材質&#x200B;****&#x200B;顯示模式。<div><img data-preserve-html="true" src="../assets/eyedropper-shift.png" width="150"/></div>  **注意：**  色彩欄位旁邊還設有吸管，可以快速選擇顏色，無需打開色彩選擇器。 <div><img data-preserve-html="true" height="83" src="../assets/eyedropper.jpg"/></div>  **注意：**  在 Mac OS 上，吸管可能無法在應用程式介面外選取顏色，原因是隱私設定的關係。 要解決此問題，請在以下區域為應用程式指派適當的權限： `System Preferences > Security & Privacy > Privacy > Screen Recording` |
 
 ### 色彩設定
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 色彩滑桿允許手動調整個別數值。
 
-滑桿可設定兩種模式，HSV **&#x200B;**&#x200B;或 **RGB**。要更改模式，請使用專用的下拉選單。
+滑桿可設定兩種模式，HSV **** 或 **RGB**。要更改模式，請使用專用的下拉選單。
 
 ![](../assets/slider-mode.png)
 
@@ -113,7 +113,7 @@ RGB 滑桿通常以 0-255 的數值來測量。 這可以透過關閉 **浮點�
 
 >[!NOTE]
 >
-> 此區塊僅在啟用色彩管理[&#128279;](../features/color-management/color-management.md)時使用。
+> 此區塊僅在啟用色彩管理](../features/color-management/color-management.md)時[使用。
 
 ## 色票
 
@@ -143,7 +143,7 @@ RGB 滑桿通常以 0-255 的數值來測量。 這可以透過關閉 **浮點�
 
 >[!NOTE]
 >
-> 啟用色彩管理[&#128279;](../features/color-management/color-management.md)時，顏色的顯示會根據目前選擇的顯示器進行調整。
+> 啟用色彩管理](../features/color-management/color-management.md)時[，顏色的顯示會根據目前選擇的顯示器進行調整。
 
 ### 試色設定
 

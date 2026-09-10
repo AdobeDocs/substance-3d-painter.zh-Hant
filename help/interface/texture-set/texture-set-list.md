@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/texture-set/texture-set-list.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/texture-set/texture-set-list.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 中的貼圖集清單，管理並組織專案中的多個貼圖集。
 helpx_creative_field: ""

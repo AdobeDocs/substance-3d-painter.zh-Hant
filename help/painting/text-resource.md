@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/text-resource.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/text-resource.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用文字資源，將文字和排版加入你的貼圖繪畫工作流程。
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 瀏覽字型
 
-要瀏覽可用的字型檔案，只需點擊資產視窗[&#128279;](../interface/assets/assets.md)中的字型過濾器（<b>T</b> 鍵）：
+要瀏覽可用的字型檔案，只需點擊資產視窗](../interface/assets/assets.md)中的[字型過濾器（<b>T</b> 鍵）：
 
 ![](../assets/v10_text_assets.png)
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ### 匯入字型
 
-字型可以手動匯入，或像一般資源一樣放入現有的 Painter 函式庫。 要做到這點，請[&#128279;](../content/importing-assets/import-drag-and-drop.md)參考匯入文件。
+字型可以手動匯入，或像一般資源一樣放入現有的 Painter 函式庫。 要做到這點，請](../content/importing-assets/import-drag-and-drop.md)參考[匯入文件。
 
 Painter 支援.ttf<b></b>字型與 <b>.otf</b> 字型格式。
 

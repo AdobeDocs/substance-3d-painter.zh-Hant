@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/resource-management/excluding-resources-in-a-resource-path.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/resource-management/excluding-resources-in-a-resource-path.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中排除特定資源，以改善書架組織。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 排除資源路徑中的資源
 
-本頁說明如何設定忽略檔案，指定在資產視窗爬取過程中[&#128279;](../../interface/assets/assets.md)會被忽略的資源和資料夾。這可以避免不必要的資源被展示。
+本頁說明如何設定忽略檔案，指定在資產視窗爬取過程中[](../../interface/assets/assets.md)會被忽略的資源和資料夾。這可以避免不必要的資源被展示。
 
 >[!NOTE]
 >

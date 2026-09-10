@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2-4.html"
 breadcrumb-title: ''
 description: 查看 Substance 3D Painter 2.4 版本的發布說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -38,9 +38,9 @@ ht-degree: 0%
 
 ![](../../assets/import-window-240.png)
 
-隨著書架的重製，我們也 **改善了資源匯入視窗**。 視窗現在更一致，可以用 **三種不同方式** 呼叫：透過檔案選單、書架視窗中的按鈕，或像之前一樣，將資源拖放到書架視窗中。 新視窗允許&#x200B;**你快速設定多個資源**&#x200B;的使用量&#x200B;**&#x200B;**，這表示你不必再先拖放資源到正確位置。我們也新增了自訂 **路徑** 以建立子資料夾的功能，以利用新的樹狀檢視功能。
+隨著書架的重製，我們也 **改善了資源匯入視窗**。 視窗現在更一致，可以用 **三種不同方式** 呼叫：透過檔案選單、書架視窗中的按鈕，或像之前一樣，將資源拖放到書架視窗中。 新視窗允許&#x200B;**你快速設定多個資源**&#x200B;的使用量&#x200B;****，這表示你不必再先拖放資源到正確位置。我們也新增了自訂 **路徑** 以建立子資料夾的功能，以利用新的樹狀檢視功能。
 
-更多細節請參閱文件中專門的部分： [透過匯入視窗新增資源](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/adding-content-via-the-import-window-151584824.html)
+更多細節請參閱文件中專門的部分： [透過匯入視窗新增資源](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-via-the-import-window-151584824.html)
 
 ### 新粒子預設
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/content/importing-assets/adding-content-on-the-hard-drive.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/importing-assets/adding-content-on-the-hard-drive.html"
 breadcrumb-title: ''
 description: 學習如何將硬碟內容加入 Substance 3D Painter，擴充本地檔案的資源庫。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 你可以透過將新內容直接放在硬碟的正確位置，為你的圖書館增添資源。
 
-預設會有一個使用者素材資料夾，你可以透過應用程式介面或手動放置新內容，加入新的資料夾。 此預設函式庫也用於建立新預設，如筆刷、工具、智慧材質等。欲了解更多資訊，請參閱預設[&#128279;](../../painting/presets/presets.md)文件。
+預設會有一個使用者素材資料夾，你可以透過應用程式介面或手動放置新內容，加入新的資料夾。 此預設函式庫也用於建立新預設，如筆刷、工具、智慧材質等。欲了解更多資訊，請參閱預設](../../painting/presets/presets.md)文件。[
 
 ## 資產要放在哪裡？
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 從 7.2.0 版本起，函式庫中可使用自訂資料夾與分類。 它們會在資產視窗中透過 [路徑](../../interface/assets/filter-by-path.md) 篩選或 [麵包屑](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/navigating-in-the-shelf-147095659.html)存取。
+> 從 7.2.0 版本起，函式庫中可使用自訂資料夾與分類。 它們會在資產視窗中透過 [路徑](../../interface/assets/filter-by-path.md) 篩選或 [麵包屑](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/navigating-in-the-shelf-147095659.html)存取。
 
 >[!WARNING]
 >

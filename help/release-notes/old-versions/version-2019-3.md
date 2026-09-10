@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2019-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2019-3.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Painter 2019.3 版本的發布說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 如果你沒有 ABR 檔案可以匯入，網路上有很多：
 
-* [Adobe 上的 Kyle 筆刷預設](https://www.adobe.com/tw/products/photoshop/brushes.html)
+* [Adobe 上的 Kyle 筆刷預設](https://www.adobe.com/products/photoshop/brushes.html)
 * [ArtStation 上的刷子預設](https://www.artstation.com/marketplace?q=photoshop%20brush&sort_by=trending)
 * [DeviantArt 上的筆刷預設](https://www.deviantart.com/search?q=photoshop%20brush)
 * [Cubebrush 上的刷子預設](https://cubebrush.co/marketplace?categories=354,57)
@@ -115,7 +115,7 @@ ht-degree: 0%
 Substance Painter 現在會自動展開缺少 UV 座標的網格。 這樣就能匯入任何幾何體，並立即開始繪製。 我們的 UV 展開系統會為每個子網格產生一個 UV 島嶼，同時仍依照材質指派建立貼圖集。 此功能目前仍處於測試階段，未來版本將持續演進。 自動展開只會套用在不使用 UDIM 工作流程&#x200B;**的專案**&#x200B;上。
 
 * **自動紫外線展開**\
-  預設情況下，Substance Painter 會自動為缺少 UV 座標的網格產生 UV 座標。 這適用於專案建立和網格重新匯入。 不過，你可以進入[主設定](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/general-71008262.html)，在&#x200B;**匯入選項**&#x200B;中關閉「啟用自動 UV 展開」**&#x200B;**&#x200B;來關閉此行為。
+  預設情況下，Substance Painter 會自動為缺少 UV 座標的網格產生 UV 座標。 這適用於專案建立和網格重新匯入。 不過，你可以進入[主設定](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html)，在&#x200B;**匯入選項**&#x200B;中關閉「啟用自動 UV 展開」****&#x200B;來關閉此行為。
 
   ![](../../assets/uv-unwrap-setting.png)
 * **UV 展開進度條**\
@@ -203,7 +203,7 @@ Substance Painter 現在會自動展開缺少 UV 座標的網格。 這樣就能
 
     ![](../../assets/icon-matfx-watercolor.png)
   * **MatFx 油畫顏料**\
-    受Emrecan Cubukcu[&#128279;](https://www.artstation.com/emrecancubukcu)研究啟發，此濾鏡讀取輸入的色彩資訊，並根據各種參數轉換成筆觸。有多種預設可供選擇，方便嘗試不同的變化。 我們建議搭配烘焙光影環境&#x200B;**濾鏡，**&#x200B;或手動烘焙/繪製陰影，以最大化效果。
+    受Emrecan Cubukcu](https://www.artstation.com/emrecancubukcu)研究啟[發，此濾鏡讀取輸入的色彩資訊，並根據各種參數轉換成筆觸。有多種預設可供選擇，方便嘗試不同的變化。 我們建議搭配烘焙光影環境&#x200B;**濾鏡，**&#x200B;或手動烘焙/繪製陰影，以最大化效果。
 
     ![](../../assets/icon-matfx-oil-paint.png)
 
@@ -215,7 +215,7 @@ Substance Painter 現在會自動展開缺少 UV 座標的網格。 這樣就能
 * **新的畫筆預設**
 
   * **102 個 Photoshop 筆刷預設**\
-    隨著 Photoshop 筆刷支援的推出，新增了一套預設來展示這個功能。 這些預設是從 Kyle T. Webster 在 Adobe 網站上[&#128279;](https://www.adobe.com/tw/products/photoshop/brushes.html)提供的套件中挑選出來的。
+    隨著 Photoshop 筆刷支援的推出，新增了一套預設來展示這個功能。 這些預設是從 Kyle T. Webster 在 Adobe 網站上](https://www.adobe.com/products/photoshop/brushes.html)提供的[套件中挑選出來的。
 
     ![](../../assets/shelf-abr-demo.jpg){width="500px"}
   * **18 種新刷子預設**\
@@ -299,7 +299,7 @@ Substance Painter 現在會自動展開缺少 UV 座標的網格。 這樣就能
 * [平板]移動滑桿時偵測不良
 * [捷徑]無法設定任何「Ctrl+Alt+MouseClick」的捷徑。
 * [書架]使用繪圖板時無法看到資源提示
-* [2D 視圖]&#x200B;[匯出]2D 視圖預設不考慮一般資訊
+* [2D 視圖][匯出]2D 視圖預設不考慮一般資訊
 * 用某些畫筆在 UV 對齊時會凍結
 * 在濾鏡下作畫會在持續的筆觸上產生假象
 * [視窗]重新匯入網格後，視窗中的貼圖快取錯誤
@@ -380,28 +380,28 @@ Substance Painter 現在會自動展開缺少 UV 座標的網格。 這樣就能
 * [UV 展開]Substance Painter 中當無 UV 存在或部分 UV 時，自動展開 UV
 * [紫外線展開]一個全域設定可啟動或關閉
 * [UV 展開]日誌檔報告版本
-* [UV 展開中]&#x200B;[使用者介面]顯示 UV 展開進度
+* [UV 展開中][使用者介面]顯示 UV 展開進度
 * [使用者介面]情境工具列新增設定以選擇筆刷預覽：完整預覽、筆刷輪廓與準星
 * [工具]alpha 區新增進階混合模式：除普通外，還要用 Lighten（最大）
 * [圖層堆疊]每層的 Gamma 修正選項，用於 alpha 或遮罩（右鍵選單）
-* [圖層堆疊]&#x200B;[使用者介面]當層 alpha 經過伽瑪校正時，請新增「i」圖示
-* [平板]&#x200B;[工具]以最小壓力來調整尺寸和流量
-* [繪圖板]&#x200B;[使用者介面]情境工具列新增設定，可選擇曲線壓力：線性、易入、易入易出
-* [平板]&#x200B;[使用者體驗]新增 Ctrl+Alt+點擊以捲動
+* [圖層堆疊][使用者介面]當層 alpha 經過伽瑪校正時，請新增「i」圖示
+* [平板][工具]以最小壓力來調整尺寸和流量
+* [繪圖板][使用者介面]情境工具列新增設定，可選擇曲線壓力：線性、易入、易入易出
+* [平板][使用者體驗]新增 Ctrl+Alt+點擊以捲動
 * 匯入 Photoshop 筆刷預設（ABR 格式）
 * [ABR]支撐形狀參數
 * [ABR]支撐形狀動力學參數
 * [ABR]支持傳輸參數
 * [ABR]支持散射參數
-* [ABR]&#x200B;[動態筆觸]支撐圓潤與翻轉
-* [ABR]&#x200B;[書架]在濾鏡編輯器中揭露刷子資料夾結構
-* [ABR]&#x200B;[書架]在縮圖中新增 Photoshop 圖示
-* [ABR]&#x200B;[書架]在 ABR 詳細縮圖中加入未支援參數清單
-* [工具]&#x200B;[動態筆劃]新的動態筆劃設定，用來控制產生多少隨機種子
-* [工具]&#x200B;[使用者介面]新增散射抖動的分布與軸設定
+* [ABR][動態筆觸]支撐圓潤與翻轉
+* [ABR][書架]在濾鏡編輯器中揭露刷子資料夾結構
+* [ABR][書架]在縮圖中新增 Photoshop 圖示
+* [ABR][書架]在 ABR 詳細縮圖中加入未支援參數清單
+* [工具][動態筆劃]新的動態筆劃設定，用來控制產生多少隨機種子
+* [工具][使用者介面]新增散射抖動的分布與軸設定
 * [捷徑]新增 Ctrl+Shift+B 以開啟烘焙視窗
-* [使用者介面]&#x200B;[選單]在「編輯」選單中新增條目以開啟烘焙視窗
-* [使用者介面]&#x200B;[設定]改進捷徑清單的對齊
+* [使用者介面][選單]在「編輯」選單中新增條目以開啟烘焙視窗
+* [使用者介面][設定]改進捷徑清單的對齊
 * [使用者介面]將壓力控制（大小與流量）圖示替換為開關按鈕
 * [視窗]允許分別聚焦 2D 與 3D 視窗
 * 更新至 QT 5.12.5
@@ -432,9 +432,9 @@ Substance Painter 現在會自動展開缺少 UV 座標的網格。 這樣就能
 * [平板]用筆修改刷具的捷徑在罕見情況下會導致效能下降
 * [平板]在特定圖層上繪製時延遲
 * 在切換視窗時，偶爾會出現模糊的貼圖
-* [使用者介面]&#x200B;[物質]影像輸入不一定會顯示
+* [使用者介面][物質]影像輸入不一定會顯示
 * Clean 不會移除專案中已匯入的預設
-* [工具]&#x200B;[動態筆劃]調整郵票週期數時的效能問題
+* [工具][動態筆劃]調整郵票週期數時的效能問題
 * 在 3D/2D 視窗模式下繪製時，偶爾會出現刷新率問題
 * 畫一筆很長的筆觸可能會導致凍結
 * [工具]使用特定動態筆觸繪製時的效能問題

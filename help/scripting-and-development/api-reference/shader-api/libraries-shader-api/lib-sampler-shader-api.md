@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sampler-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sampler-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 Lib Sampler 著色器 API 參考，以取樣自訂著色器開發中的貼圖與資料。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## lib-sampler.glsl
 
-**公共函數：***getAO* *getShadowFactor&#x200B;**getGlossiness**&#x200B;getRoughness&#x200B;**getMetallic* *getAnisotropyLevel* *getAnisotropyAngle**&#x200B;getOpacity getOpacity getOpacity&#x200B;**getHeight* *getDisplacement* *getSpecularLevel* *getBaseColor* *getDiffuse* *getSpecularColor**&#x200B;getScattering 生成&#x200B;**AnisotropicRoughness* *生成擴散色彩**&#x200B;生成高光色*
+**公共函數：***getAO* *getShadowFactor**getGlossiness**getRoughness**getMetallic* *getAnisotropyLevel* *getAnisotropyAngle**getOpacity getOpacity getOpacity**getHeight* *getDisplacement* *getSpecularLevel* *getBaseColor* *getDiffuse* *getSpecularColor**getScattering 生成**AnisotropicRoughness* *生成擴散色彩**生成高光色*
 
 從函式庫匯入
 

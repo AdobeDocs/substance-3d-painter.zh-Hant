@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/smart-materials-and-masks.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/smart-materials-and-masks.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用智慧材質與遮罩，創造能適應幾何形狀的程序化材質。
 helpx_creative_field: ""
@@ -25,7 +25,7 @@ Substance 3D Painter 支援使用進階  **圖層預設**  。 這些預設可�
 >[!NOTE]
 >
 > 請注意，一旦加入到圖層堆疊中，就無法取得使用了哪個智慧材料。 若智慧材料需要更新，則必須手動完成。\
-> 不過，個別資源可以透過資源更新器[&#128279;](plugins/resources-updater.md)進行更新。
+> 不過，個別資源可以透過資源更新器](plugins/resources-updater.md)進行更新[。
 
 ## 如何使用智慧材料/口罩？
 

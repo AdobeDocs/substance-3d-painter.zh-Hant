@@ -24,7 +24,7 @@ ht-degree: 0%
 
 1. 請確保你至少安裝了 ZBrush 2026.2.0 版本。
 1. 在 Painter 裡面啟用外掛，確保 **Python > zbrush_painter_plugin** 有被勾選。
-1. 從 ZBrush 中，**Send to Painter** 功能可在 Texture > Substance Bridge 中取得&#x200B;**&#x200B;**
+1. 從 ZBrush 中，**Send to Painter** 功能可在 Texture > Substance Bridge 中取得&#x200B;****
 
 ![ZBrush 中 Substance Bridge 插件的圖片](../../assets/zbrush_painterSendTo.png)
 
@@ -60,4 +60,4 @@ Painter 中的貼圖集代表材質分配。 一個貼圖集等於一個 UV 空�
 
 ## 其他資源
 
-[觀看此影片](https://www.youtube.com/watch?v=fLkkwV4BzrU)以了解橋樑的運作，或取得 [&#128279;](https://help.maxon.net/zbr/en-us/Default.htm#html/reference-guide/texture/substance-bridge/substance-bridge.html?Highlight=painter) ZBrush 文件以獲得更多資訊。
+[觀看此影片](https://www.youtube.com/watch?v=fLkkwV4BzrU)以了解橋樑的運作，或取得 [](https://help.maxon.net/zbr/en-us/Default.htm#html/reference-guide/texture/substance-bridge/substance-bridge.html?Highlight=painter) ZBrush 文件以獲得更多資訊。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/gpu-issues/crash-when-working-with-overclocked-gpu.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/crash-when-working-with-overclocked-gpu.html"
 breadcrumb-title: ''
 description: 了解如何修復 Substance 3D Painter 在使用超頻 GPU 時當機，以維持穩定的應用程式效能。
 helpx_creative_field: ""
@@ -29,7 +29,7 @@ ht-degree: 0%
 要啟用除錯模式：
 
 1. 打開 **Nvidia 控制面板** （在桌面上右鍵點擊）。
-1. 點選說明&#x200B;**&#x200B;**&#x200B;選單。
+1. 點選說明&#x200B;****&#x200B;選單。
 1. 點擊 **除錯模式**。
 
 >[!NOTE]

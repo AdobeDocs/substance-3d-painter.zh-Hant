@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/assets/filter-by-path.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/assets/filter-by-path.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中依路徑篩選資產，快速找到你資料庫結構中的資源。
 helpx_creative_field: ""

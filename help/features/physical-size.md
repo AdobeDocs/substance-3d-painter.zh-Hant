@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/physical-size.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/physical-size.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定實體尺寸，以定義真實世界的尺寸，以實現精確的貼圖縮放。
 helpx_creative_field: ""
@@ -28,9 +28,9 @@ ht-degree: 2%
 
 欲了解更多資訊，請參閱：
 
-* <b>填充投影中的</b>[物理尺寸參數](../painting/fill-projections/fill-projections.md)
-* <b>視窗設定中的</b>[網格參數](../interface/display-settings/viewport-settings.md)
-* <b>在著色器設定中</b>[，根據物理尺寸的位移](../interface/shader-settings/shader-settings.md)
+* <b>填充投影中的[物理尺寸</b>參數](../painting/fill-projections/fill-projections.md)
+* <b>視窗設定中的[網格</b>參數](../interface/display-settings/viewport-settings.md)
+* <b>在著色器設定中[，根據物理尺寸</b>的位移](../interface/shader-settings/shader-settings.md)
 
 >[!NOTE]
 >

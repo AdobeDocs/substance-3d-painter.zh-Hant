@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/texture-set/texture-set-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/texture-set/texture-set-settings.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定材質集設定，以控制材質解析度和通道屬性。
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 | **名稱** | 材質集名稱。 是繼承給 3D 模型上材質名稱的。 |
 | **描述** | 文字欄位允許新增關於貼圖集的資訊。 此文字顯示於 [材質集清單](texture-set-list.md) 與 [烘焙](../../baking/baking.md) 視窗中。 |
 | **規模** | 控制 Texture Set 內通道的解析度（像素數）。 要使用  **非平方**  解析度（例如 2048x1024），請在兩個下拉選單間關閉  **鎖定按鈕**  。貼圖集解析度是  **動態**  的，因為是  **非破壞性的工作流程**。 這表示你可以先用低解析度工作以獲得良好效能，之後再用更高解析度來獲得更好的畫質。 在應用程式內部，通道的最大解析度為 4096x4096 像素，而匯出時最大解析度則為 8192x8192（若 GPU 支援）。 改變解析度可能會觸發引擎的長時間計算。 |
-| **著色器實例** | 定義用哪個[著色器](../shader-settings/shader-settings.md)來渲染給定的貼圖集。[&#128279;](../viewport/viewport.md) |
+| **著色器實例** | 定義用哪個[著色器](../shader-settings/shader-settings.md)來渲染給定的貼圖集。[](../viewport/viewport.md) |
 
 ## 管道
 

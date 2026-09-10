@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/fill-match-per-uv-tile.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections/fill-match-per-uv-tile.html"
 breadcrumb-title: ''
 description: 在 Substance 3D Painter 中使用 UV 圖塊的填充匹配，將紋理圖案在 UV 圖塊間匹配，實現無縫平鋪。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # 填充（以 UV 磚塊匹配）
 
-**填充（以 UV 圖塊匹配）**&#x200B;是一種特殊的 2D 投影，對 UV 圖塊[&#128279;](../../features/uv-tiles/uv-tiles.md)專案非常有用。它允許從序列中為每個 UV 圖塊指派 UDIM 貼圖。
+**填充（以 UV 圖塊匹配）**&#x200B;是一種特殊的 2D 投影，對 UV 圖塊](../../features/uv-tiles/uv-tiles.md)專案非常有用[。它允許從序列中為每個 UV 圖塊指派 UDIM 貼圖。
 
 這個投影沒有專門的設定，因為每個 UV 磚塊會被分配一張或多張圖片來填充。 由於沒有設定，這個模式在效能上也更好。
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2019-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/old-versions/version-2019-2.html"
 breadcrumb-title: ''
 description: 請參閱 Substance 3D Painter 2019.2 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""
@@ -53,7 +53,7 @@ ht-degree: 1%
 * **CPU 光線追蹤已改進**\
   CPU 上的光線追蹤計算速度現在比以前快了 2 到 3 倍。 所以即使你的 GPU 不支援 GPU 光線追蹤，整體效能還是會提升。
 * **GPU 光線追蹤支援 DXR 與 Optix**\
-  有了相容硬體，烘焙師現在能直接在 GPU 上計算，大幅縮短計算時間，尤其當啟用抗鋸齒並定義大量光線時。 DXR 是預設選項（若有），否則會使用 Optix。 你可以進入主設定[&#128279;](../../interface/settings/settings.md)並尋找「**烘焙選項**」來關閉 GPU 光線追蹤：
+  有了相容硬體，烘焙師現在能直接在 GPU 上計算，大幅縮短計算時間，尤其當啟用抗鋸齒並定義大量光線時。 DXR 是預設選項（若有），否則會使用 Optix。 你可以進入主設定](../../interface/settings/settings.md)並尋找「**烘焙選項**」來關閉 GPU 光線追蹤[：
 
   ![](../../assets/baking-options-v2.png)
 
@@ -75,7 +75,7 @@ ht-degree: 1%
 * **改良旋轉機械手**\
   過去旋轉操控器有點慢，導致旋轉有時變得繁瑣。 旋轉速度現在與攝影機和場景大小掛鉤。
 * **在高 DPI 螢幕上使用視窗降細的效能提升**\
-  在主設定[&#128279;](../../interface/settings/settings.md)中現在有一個名為「Viewport Scaling」的新參數，值為「**None**」和「**Auto**」（預設值）。當 Substance Painter 偵測到螢幕使用 HDPI 縮放（例如 MacOS的 Retina 螢幕）時，會自動將視窗解析度除以 2。 這種行為避免了視窗繪製過大，並提升整體效能，且不會明顯損耗品質。
+  在主設定](../../interface/settings/settings.md)中[現在有一個名為「Viewport Scaling」的新參數，值為「**None**」和「**Auto**」（預設值）。當 Substance Painter 偵測到螢幕使用 HDPI 縮放（例如 MacOS的 Retina 螢幕）時，會自動將視窗解析度除以 2。 這種行為避免了視窗繪製過大，並提升整體效能，且不會明顯損耗品質。
 
   ![](../../assets/settings-viewport-downscale.png)
 * **新的 Console 腳本外掛**\
@@ -180,7 +180,7 @@ ht-degree: 1%
 **修正：**
 
 * [外掛]外掛來源無法運作
-* [MacOS]&#x200B;[著色器]Mac OS 10.14.5 與 AMD：材質分層無法如預期運作
+* [MacOS][著色器]Mac OS 10.14.5 與 AMD：材質分層無法如預期運作
 
 **已知問題：**
 
@@ -205,7 +205,7 @@ ht-degree: 1%
 
 **修正：**
 
-* [Mac]&#x200B;[美元]從 MacOS 匯出的 USDZ 檔案無法開啟
+* [Mac][美元]從 MacOS 匯出的 USDZ 檔案無法開啟
 * [貼圖集]無法用 ALT 修飾鍵分離貼圖集
 * [書架]預設、智慧材料與智慧口罩在退出應用程式時都會被修改
 * [圖層堆疊]刪除其他效果後無法選擇效果
@@ -229,13 +229,13 @@ ht-degree: 1%
 
 * [Bakers]新增對 GPU 光線追蹤的支援，支援 DXR 與 OptiX（環境光遮蔽、厚度）
 * [Bakers]CPU 光線追蹤的優化與加速
-* [烘焙師]&#x200B;[視覺模式]&#x200B;[使用者介面]視窗新增烘焙視覺化模式
-* [烘焙師]&#x200B;[偏好設定]&#x200B;[使用者介面]啟用或關閉 GPU 光線追蹤的新烘焙選項
-* [烘焙師]&#x200B;[使用者介面]進度條對話重製
+* [烘焙師][視覺模式][使用者介面]視窗新增烘焙視覺化模式
+* [烘焙師][偏好設定][使用者介面]啟用或關閉 GPU 光線追蹤的新烘焙選項
+* [烘焙師][使用者介面]進度條對話重製
 * [麵包師]警告與錯誤訊息的改進
 * [烘焙師]允許更靈敏的烘焙取消流程
 * [烘焙師]點擊取消後重新開啟烘焙視窗
-* [計畫]&#x200B;[使用者體驗]旋轉操作器的可用性提升
+* [計畫][使用者體驗]旋轉操作器的可用性提升
 * [設定]透過降低 HDPI 螢幕的視窗解析度來提升效能的選項
 * [腳本操作]更改材質集解析度
 * [腳本]取得選取的材質集

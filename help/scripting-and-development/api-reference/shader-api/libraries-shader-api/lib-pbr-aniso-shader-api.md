@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-pbr-aniso-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-pbr-aniso-shader-api.html"
 breadcrumb-title: ''
 description: 請取得 Substance 3D Painter 的 Lib PBR Aniso shader API 參考，以建立各向異性物理材質。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## lib-pbr-aniso.glsl
 
-**Public Functions：** *normal\_distrib* *G1&#x200B;**visibility**&#x200B;cook\_torrance\_contrib* *importanceSampleGGX**probabilityGGX* *pbrComputeSpecularAnisotropic*
+**Public Functions：** *normal\_distrib* *G1**visibility**cook\_torrance\_contrib* *importanceSampleGGX**probabilityGGX* *pbrComputeSpecularAnisotropic*
 
 從函式庫匯入
 

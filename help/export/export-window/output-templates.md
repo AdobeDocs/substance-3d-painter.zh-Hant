@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started/export/export-window/output-templates.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-window/output-templates.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 匯出視窗中使用輸出模板來設定材質匯出格式和命名。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 ![](../../assets/export-preset-list.png)
 
-預設清單顯示所有可用的輸出範本。 此清單包含預設輸出範本[&#128279;](../export-presets/default-presets.md)的集合，以及你所建立的任何自訂範本。
+預設清單顯示所有可用的輸出範本。 此清單包含預設輸出範本](../export-presets/default-presets.md)的集合[，以及你所建立的任何自訂範本。
 
 從此清單中，範本可以<b>被建立</b>、<b>重新命名</b>、<b>複製或</b><b>刪除</b>。
 

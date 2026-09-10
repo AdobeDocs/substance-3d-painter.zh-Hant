@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/startup-issues/software-conflicts.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/startup-issues/software-conflicts.html"
 breadcrumb-title: ''
 description: 學習如何解決阻礙 Substance 3D Painter 在系統上正常啟動的軟體衝突。
 helpx_creative_field: ""
@@ -33,7 +33,7 @@ ht-degree: 0%
 | **華碩 GPU 調整** | 此軟體在 Substance 3D Painter 編譯著色器時可能會造成問題，甚至無法啟動著色器編譯。 如果遇到這個問題，我們建議先卸載軟體看看是否能解決問題。 |
 | **華碩 RAMCache** | 此軟體可能會阻礙 Substance 3D Painter 正常啟動，或在運行時使其不穩定。 如果你遇到穩定性問題，建議你停用或安裝華碩 RAMCache。 |
 | **華碩音速套件** | 在搭載 ASUS 主機板的電腦上，<b>預設可安裝 Asus Sonic Suite</b> 。 卸載此軟體可以修復 Substance 3D Painter 中的一些顯示或介面問題。 |
-| **雲端備份軟體**&#x200B;**（** OneDrive、**GDrive、**&#x200B;**Dropbox、**&#x200B;**Filestream 等）** | 雲端備份軟體在儲存專案時，可能會造成多次當機。 如果發生這種情況，建議先處理並儲存專案檔案到非同步資料夾，等不再需要更改時再把專案檔案複製回雲端硬碟。 |
+| **雲端備份軟體****（** OneDrive、**GDrive、****Dropbox、****Filestream 等）** | 雲端備份軟體在儲存專案時，可能會造成多次當機。 如果發生這種情況，建議先處理並儲存專案檔案到非同步資料夾，等不再需要更改時再把專案檔案複製回雲端硬碟。 |
 | **奇圖博克斯** | 此軟體在開啟檔案對話框（如開啟或儲存專案）時可能會產生衝突並導致應用程式當機。 你可以在 Chitubox 偏好設定中停用「啟用桌面模型</b>縮圖預覽」這個設定<b>，以避免這個問題。 |
 | **二重奏展示** | <b>Duet Display</b> 已知會造成 GPU 驅動程式問題，進而影響 Substance 3D Painter 的行為。 建議你先卸載它。 |
 | **Google Chrome** | Google Chrome 在與 Substance 3D Painter 同時運行時，可能會造成一些當機。 為了提升 Substance 3D Painter 的穩定性，建議你更新 Google Chrome 和 GPU 驅動程式。 如果還是會當機，請在 Google Chrome 中關閉硬體加速（這樣 Chrome 就無法使用顯示卡）。 |

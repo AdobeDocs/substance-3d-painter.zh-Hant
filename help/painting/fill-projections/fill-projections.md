@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用填充投影，利用各種投影方法套用貼圖，以提升繪畫效率。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## 填充性質
 
-填充屬性控制材質如何套用和/或投影到網格上。 投影模式可以透過屬性[&#128279;](../../interface/properties.md)視窗中的投影&#x200B;**下拉選單來更改**。
+填充屬性控制材質如何套用和/或投影到網格上。 投影模式可以透過屬性](../../interface/properties.md)視窗中的[投影&#x200B;**下拉選單來更改**。
 
 目前可用的投影模式包括：
 

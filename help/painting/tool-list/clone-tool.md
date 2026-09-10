@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/clone-tool.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/clone-tool.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的 Clone Tool 將材質細節從一個區域複製到另一個區域，實現無縫的材質繪製。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 複製工具
 
-Clone 工具在 Substance 3D Painter 2 中引入，與繪畫工具[&#128279;](https://support.allegorithmic.com/documentation/display/SPDOC/Paint+brush)共享相同類型的參數。顧名思義，複製工具允許你從一個點複製特定圖層或整個圖層堆疊的內容。
+Clone 工具在 Substance 3D Painter 2 中引入，與繪畫工具](https://support.allegorithmic.com/documentation/display/SPDOC/Paint+brush)共享相同類型的參數[。顧名思義，複製工具允許你從一個點複製特定圖層或整個圖層堆疊的內容。
 
 ![](../../assets/clone-01.gif)
 

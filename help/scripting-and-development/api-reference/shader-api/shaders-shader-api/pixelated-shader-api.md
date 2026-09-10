@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/pixelated-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/shaders-shader-api/pixelated-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 Pixelated shader API 參考，以創建自訂的像素渲染效果。
 helpx_creative_field: ""

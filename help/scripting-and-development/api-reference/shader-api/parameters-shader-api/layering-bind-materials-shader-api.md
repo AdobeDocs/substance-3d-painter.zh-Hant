@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/layering-bind-materials-shader-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/layering-bind-materials-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 Layering Bind Materials shader API 參考，以在分層工作流程中綁定材質。
 helpx_creative_field: ""
@@ -59,7 +59,7 @@ ht-degree: 0%
 ```
 
 
-要將素材的通道綁定到取樣器，請定義一個自動參數，包含素材的 ID 加上通道標籤（詳見 all-engine-params.glsl[&#128279;](all-engine-params-shader-api.md) 中的可用通道）：
+要將素材的通道綁定到取樣器，請定義一個自動參數，包含素材的 ID 加上通道標籤（詳見 all-engine-params.glsl](all-engine-params-shader-api.md) 中的[可用通道）：
 
 ```
 //: param auto Material1.channel_basecolor 

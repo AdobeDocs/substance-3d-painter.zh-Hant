@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/creating-layers.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/creating-layers.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中建立新圖層，以建立多層繪圖的複雜貼圖。
 helpx_creative_field: ""
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 部分操作配有相應的快捷鍵，可在專屬頁面[&#128279;](../settings/shortcuts.md)查詢。
+> 部分操作配有相應的快捷鍵，可在專屬頁面](../settings/shortcuts.md)查詢[。
 
 從書架拖放資源也可以是一種建立圖層的方法：
 

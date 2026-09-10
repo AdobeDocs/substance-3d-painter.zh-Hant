@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/subsurface-scattering.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/subsurface-scattering.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用次表面散射，創造出逼真的半透明材質，如皮膚和蠟。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/sss-sarah.jpg){width="500px"}
 
-&#x200B;>> 
+>> 
 
 （製作人員：士兵，[作者：里貝羅勒斯·里奧]（https://www.artstation.com/artwork/xNYDm 年）
 

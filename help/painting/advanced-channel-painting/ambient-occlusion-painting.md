@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/advanced-channel-painting/ambient-occlusion-painting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/advanced-channel-painting/ambient-occlusion-painting.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中直接繪製環境遮蔽貼圖，為材質增添逼真的陰影與深度。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 環境遮蔽通道允許在物體的環境陰影中繪製細節。 它可以用來新增來自材質的 AO 細節，或在需要時手動修正烘焙錯誤。
 
-&#x200B;>> 
+>> 
 
 在電腦圖學中，環境遮蔽是一種陰影與渲染技術，用來計算場景中每個點在環境光下的暴露程度。 管子內部通常比外層表面更被遮蔽（因此更暗），越往管內走，光線就越遮蔽（且越暗）。 環境遮蔽可視為針對每個表面點計算的可及性值。\
 資料來源： &lt;https://en.wikipedia.org/wiki/Ambient_occlusion>
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 繪製環境遮蔽
 
-要繪製自訂遮蔽細節，需要環境遮蔽通道。 可以透過貼圖集設定[&#128279;](../../interface/texture-set/texture-set-settings.md)新增：
+要繪製自訂遮蔽細節，需要環境遮蔽通道。 可以透過貼圖集設定](../../interface/texture-set/texture-set-settings.md)新增[：
 
 ![](../../assets/add-ao-channel.png)
 

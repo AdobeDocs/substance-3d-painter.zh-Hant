@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/blending-modes.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/blending-modes.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 中的混合模式來合併圖層並創造各種材質混合效果。
 helpx_creative_field: ""
@@ -56,7 +56,7 @@ ht-degree: 0%
 | *名稱* | *描述* |
 | --- | --- |
 | 正常 | 在不做轉換的情況下，將頂層顯示在底層之上（複製模式）。 如果頂層有透明（alpha），它會透過透明像素顯示底層。 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r1-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/blending-copy.jpg"/></div> |
-| 直通式 | 將底層壓平成最上層。 主要適用於以下情況：<ul data-preserve-html="true"> <li data-preserve-html="true">要對頂層以下的所有圖層套用效果</li> <li data-preserve-html="true">要把頂層下方的層壓扁或複製</li> </ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/blending-passthrough.jpg"/></div> **注意：**&#x200B;**&#x200B;**&#x200B;效果可以&#x200B;**直接拖放**&#x200B;到圖層堆疊中，這樣會產生一個所有通道都設定為 PassThrough 的圖層。   |
+| 直通式 | 將底層壓平成最上層。 主要適用於以下情況：<ul data-preserve-html="true"> <li data-preserve-html="true">要對頂層以下的所有圖層套用效果</li> <li data-preserve-html="true">要把頂層下方的層壓扁或複製</li> </ul> <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r2-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/blending-passthrough.jpg"/></div> **注意：******&#x200B;效果可以&#x200B;**直接拖放**&#x200B;到圖層堆疊中，這樣會產生一個所有通道都設定為 PassThrough 的圖層。   |
 | 停用 | 捨棄該圖層的混合，只顯示前幾層。 它可用於優化通道的計算，方法是忽略頂層的通道。 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r3-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/blending-disable.jpg"/></div> |
 | 替換 | 覆蓋底層。 這有助於避免資訊與下方圖層混合。 替換和法線混合的運作方式不同，因為它也會忽略頂層的 alpha，這可能導致透明像素。 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r4-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/blending-replace.jpg"/></div> |
 |  |  |
@@ -94,4 +94,4 @@ ht-degree: 0%
 | 法線貼圖細節 | 細節導向混合操作（Reoriented Normal Mapping），比法線貼圖組合更精確。 保留平坦的法線貼圖及兩個來源的強度。 為了確保結果，頂層法線會重新定向，使其沿最底層的表面。 更多資訊請參見 [法線貼圖繪製](../../painting/advanced-channel-painting/normal-map-painting.md) 。 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r37-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/blending-normal-detail.jpg"/></div> |
 | 法線貼圖反細節 | 與法線貼圖細節混合操作的行為相同，但底部圖層會被轉換以符合頂層的表面。 更多資訊請參見 [法線貼圖繪製](../../painting/advanced-channel-painting/normal-map-painting.md) 。 <div><img class="" data-preserve-html="true" id="root_content_flex_items_position_position-par_dx_table_row-r38-column-c1_dynamic_grid_items_grid-cell_position-par_image" src="../../assets/blending-normal-inverse-detail.jpg"/></div> |
 
-&#x200B;>>
+>>

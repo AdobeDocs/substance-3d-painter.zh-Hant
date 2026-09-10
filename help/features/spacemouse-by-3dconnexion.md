@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/spacemouse-by-3dconnexion.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/spacemouse-by-3dconnexion.html"
 breadcrumb-title: ''
 description: 透過 3Dconnexion 搭配 Substance 3D Painter，學習如何使用 SpaceMouse，以提升 3D 導航與視窗控制。
 helpx_creative_field: ""
@@ -25,7 +25,7 @@ ht-degree: 1%
 3Dconnexion 的 SpaceMouse® 是一款能輕鬆在 3D 中導航的裝置。 它可用於操作應用程式視窗中的攝影機/3D 模型。
 
 * SpaceMouse® 自 7.4.2 版本起獲得支援。
-* 要正確使用這台裝置，請務必安裝 3Dconnexion[&#128279;](https://3dconnexion.com/uk/drivers/) 最新的驅動程式。
+* 要正確使用這台裝置，請務必安裝 3Dconnexion](https://3dconnexion.com/uk/drivers/) 最新的[驅動程式。
 
 >[!NOTE]
 >
@@ -111,4 +111,4 @@ ht-degree: 1%
 
 ![](../assets/image2022-3-3-10-23-48.png){width="400px"}
 
-點擊&#x200B;**&#x200B;**&#x200B;按鈕後，可以指派指令、巨集或環狀選單。更多細節請參閱 [3Dconnexion 文件](https://3dconnexion.com/uk/support/faq/) 。
+點擊&#x200B;****&#x200B;按鈕後，可以指派指令、巨集或環狀選單。更多細節請參閱 [3Dconnexion 文件](https://3dconnexion.com/uk/support/faq/) 。

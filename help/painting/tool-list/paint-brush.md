@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/paint-brush.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/tool-list/paint-brush.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的 Paint Brush 工具，直接將貼圖繪製到可自訂的 3D 模型上。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 畫筆
 
-Paint 工具是 Substance 3D Painter 預設的工具，用來在 3D 網格上套用顏色和材質屬性。 它有特定的參數，可以透過屬性[&#128279;](../../interface/properties.md)來編輯。
+Paint 工具是 Substance 3D Painter 預設的工具，用來在 3D 網格上套用顏色和材質屬性。 它有特定的參數，可以透過屬性](../../interface/properties.md)來編輯[。
 
 繪畫工具透過各種行為和設定模擬筆觸，營造在 3D 網格上繪畫的感覺。
 
@@ -44,7 +44,7 @@ Paint 工具是 Substance 3D Painter 預設的工具，用來在 3D 網格上套
 
 ![](../../assets/brush-preview.png)
 
-屬性的頂端[&#128279;](../../interface/properties.md)是筆刷和材質預覽。它們可以用來快速瀏覽目前工具的設定狀況。
+屬性的頂端[](../../interface/properties.md)是筆刷和材質預覽。它們可以用來快速瀏覽目前工具的設定狀況。
 
 | *名稱* | *描述* |
 | --- | --- |
@@ -98,8 +98,8 @@ Alpha 是灰階遮罩，覆蓋在筆觸內的每個印章上。 它可以是 Sub
 
 預設情況下，物理屬性不可用，但可透過兩種方式啟用：
 
-* 只要在工具列[&#128279;](../../interface/toolbars.md)裡把工具切換到「實體」（或透過鍵盤快捷鍵）。
-* 在資產[&#128279;](../../interface/assets/assets.md)視窗點擊粒子筆刷預設。
+* 只要在工具列](../../interface/toolbars.md)裡把工具切換到「實體[」（或透過鍵盤快捷鍵）。
+* 在資產](../../interface/assets/assets.md)視窗點擊粒子筆刷預設[。
 
 ## 模板
 
@@ -133,7 +133,7 @@ Alpha 是灰階遮罩，覆蓋在筆觸內的每個印章上。 它可以是 Sub
 
 ![](../../assets/material.png)
 
-材料由多個通道組成，每個通道都保留特定的特性。 通道列表依賴於紋理集設定[&#128279;](../../interface/texture-set/texture-set-settings.md)中定義的通道。
+材料由多個通道組成，每個通道都保留特定的特性。 通道列表依賴於紋理集設定](../../interface/texture-set/texture-set-settings.md)中[定義的通道。
 
 Material  **模式**  按鈕是載入 Substance 檔案或預設的簡單方式，可以快速指派和編輯多個頻道。
 

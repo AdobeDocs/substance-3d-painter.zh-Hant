@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/features/effects/generator.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-painter/features/effects/generator.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用產生器特效，自動建立程序化貼圖與圖案。
 helpx_creative_field: ''
@@ -31,14 +31,14 @@ ht-degree: 0%
 1. 在 **圖層面板**&#x200B;中，右鍵點擊遮罩。
 1. 選擇 **新增產生器**。
 1. 當選擇遮罩時，生成器會出現在圖層面板&#x200B;**的圖層**&#x200B;下方。
-1. 選擇產生器後，在&#x200B;**屬性面板**&#x200B;**點擊產生器**&#x200B;按鈕，選擇要套用的特定產生器。
+1. 選擇產生器後，在&#x200B;**屬性面板****點擊產生器**&#x200B;按鈕，選擇要套用的特定產生器。
 
 要在圖層中加入生成元：
 
 1. 右鍵點擊該圖層。
 1. 選擇 **新增產生器**。
 1. 生成器會出現在圖層面板&#x200B;**的圖層**&#x200B;下方。
-1. 選擇產生器後，在&#x200B;**屬性面板**&#x200B;**點擊產生器**&#x200B;按鈕，選擇要套用的特定產生器。
+1. 選擇產生器後，在&#x200B;**屬性面板****點擊產生器**&#x200B;按鈕，選擇要套用的特定產生器。
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 0%
 ![](../../assets/generators/generator_spectrum.png)
 
 每個產生器都有一組參數，讓你能微調遮罩。\
-要在書架上新增自訂產生器，請參見： [向書架新增內容](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)
+要在書架上新增自訂產生器，請參見： [向書架新增內容](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)
 
 >[!NOTE]
 >

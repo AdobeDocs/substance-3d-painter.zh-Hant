@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中直接將貼圖繪製到3D模型上，使用各種畫筆、工具和技巧。
 helpx_creative_field: ""
