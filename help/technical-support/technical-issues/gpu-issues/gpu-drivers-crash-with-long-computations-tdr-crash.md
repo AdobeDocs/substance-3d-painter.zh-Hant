@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中修復 GPU 驅動程式在長時間計算時當機，以防止 TDR 逾時錯誤。
 helpx_creative_field: ""

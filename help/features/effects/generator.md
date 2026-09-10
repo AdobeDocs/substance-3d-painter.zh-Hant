@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-painter/features/effects/generator.html'
+helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/features/effects/generator.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用產生器特效，自動建立程序化貼圖與圖案。
 helpx_creative_field: ''
@@ -47,7 +47,7 @@ ht-degree: 0%
 ![](../../assets/generators/generator_spectrum.png)
 
 每個產生器都有一組參數，讓你能微調遮罩。\
-要在書架上新增自訂產生器，請參見： [向書架新增內容](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)
+要在書架上新增自訂產生器，請參見： [向書架新增內容](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)
 
 >[!NOTE]
 >

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/system-requirements.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started/system-requirements.html"
 breadcrumb-title: ''
 description: 請檢視 Substance 3D Painter 的系統需求，確保您的電腦符合硬體與軟體規格。
 helpx_creative_field: ""
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 <b>DXR</b> 也要求以下最低配置：
 
-* <b>Windows 10</b> 版本 1809，請參閱 [此頁面](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/features/gpu-raytracing) 以獲取更多資訊
+* <b>Windows 10</b> 版本 1809，請參閱 [此頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d/bakers/features/gpu-raytracing) 以獲取更多資訊
 * <b> 採用 Pascal 架構</b> 的 GPU（Nvidia GeForce 10XX）
 
 >[!TIP]

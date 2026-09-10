@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/uv-tiles.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/uv-tiles.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 UV 圖塊，來處理平鋪 UV 佈局和多重材質集。
 helpx_creative_field: ""

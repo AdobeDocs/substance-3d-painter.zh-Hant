@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/release-notes/version-11-0.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/version-11-0.html"
 breadcrumb-title: ''
 description: 閱讀 Substance 3D Painter 11.0 版本的發行說明，了解新功能、改進與錯誤修正。
 helpx_creative_field: ""

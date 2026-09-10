@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-pom-shader-api.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-pom-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 Lib POM shader API 參考，以便在自訂著色器中建立視差遮蔽貼圖效果。
 helpx_creative_field: ""

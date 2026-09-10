@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 Shader API 參考，建立自訂著色器並擴充渲染功能。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/configuration/command-lines.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/configuration/command-lines.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 進行指令列參數的自動化、腳本編寫及管線整合。
 helpx_creative_field: ""

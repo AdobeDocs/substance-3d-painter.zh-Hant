@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/anchor-point.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/effects/anchor-point.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用錨點效果，參考其他圖層的材質，進行進階合成。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/post-processing/glare.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/post-processing/glare.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用眩光後製效果，為明亮區域添加鏡頭光暈和泛光效果。
 helpx_creative_field: ""

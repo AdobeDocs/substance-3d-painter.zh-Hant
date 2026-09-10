@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/advanced-channel-painting/height-map-painting.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/advanced-channel-painting/height-map-painting.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中直接繪製高度圖，以創造位移和表面高低效果。
 helpx_creative_field: ""

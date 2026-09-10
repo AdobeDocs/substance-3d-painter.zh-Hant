@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/plugins-issues/substance-source-plugin-doesn-t-load.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/plugins-issues/substance-source-plugin-doesn-t-load.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中修復 Substance Source 插件載入問題，以存取資源庫。
 helpx_creative_field: ""

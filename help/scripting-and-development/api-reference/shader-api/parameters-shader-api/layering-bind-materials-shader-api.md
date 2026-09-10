@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/layering-bind-materials-shader-api.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/layering-bind-materials-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 Layering Bind Materials shader API 參考，以在分層工作流程中綁定材質。
 helpx_creative_field: ""

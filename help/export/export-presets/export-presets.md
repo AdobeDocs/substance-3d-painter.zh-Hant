@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-presets.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started/export/export-presets.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用輸出模板來設定材質匯出格式和通道映射。
 helpx_creative_field: ""

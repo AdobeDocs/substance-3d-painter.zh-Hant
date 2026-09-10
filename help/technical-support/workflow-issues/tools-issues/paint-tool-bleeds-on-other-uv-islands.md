@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/tools-issues/paint-tool-bleeds-on-other-uv-islands.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/tools-issues/paint-tool-bleeds-on-other-uv-islands.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中修正繪圖工具在 UV 島上的滲透問題，以維持乾淨的貼圖邊界。
 helpx_creative_field: ""

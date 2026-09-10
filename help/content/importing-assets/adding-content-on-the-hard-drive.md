@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/content/importing-assets/adding-content-on-the-hard-drive.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/content/importing-assets/adding-content-on-the-hard-drive.html"
 breadcrumb-title: ''
 description: 學習如何將硬碟內容加入 Substance 3D Painter，擴充本地檔案的資源庫。
 helpx_creative_field: ""
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 從 7.2.0 版本起，函式庫中可使用自訂資料夾與分類。 它們會在資產視窗中透過 [路徑](../../interface/assets/filter-by-path.md) 篩選或 [麵包屑](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/navigating-in-the-shelf-147095659.html)存取。
+> 從 7.2.0 版本起，函式庫中可使用自訂資料夾與分類。 它們會在資產視窗中透過 [路徑](../../interface/assets/filter-by-path.md) 篩選或 [麵包屑](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/navigating-in-the-shelf-147095659.html)存取。
 
 >[!WARNING]
 >

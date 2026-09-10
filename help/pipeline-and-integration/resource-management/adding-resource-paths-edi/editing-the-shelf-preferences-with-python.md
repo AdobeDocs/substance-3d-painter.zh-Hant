@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/resource-management/adding-resource-paths-by-editing-preferences-manually/editing-the-shelf-preferences-with-python.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/resource-management/adding-resource-paths-by-editing-preferences-manually/editing-the-shelf-preferences-with-python.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 Python 腳本編輯書架偏好設定，以實現自動化資源路徑管理。
 helpx_creative_field: ""

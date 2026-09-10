@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/toolbars.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/toolbars.html"
 breadcrumb-title: ''
 description: 學習如何使用並自訂 Substance 3D Painter 的工具列，以有效存取工具與功能。
 helpx_creative_field: ""

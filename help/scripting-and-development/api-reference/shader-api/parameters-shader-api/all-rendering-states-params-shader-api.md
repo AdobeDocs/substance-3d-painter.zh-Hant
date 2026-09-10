@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-rendering-states-params-shader-api.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-rendering-states-params-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 All Rendering States Params 著色器 API 參考，以控制渲染狀態參數。
 helpx_creative_field: ""

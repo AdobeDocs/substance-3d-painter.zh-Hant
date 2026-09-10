@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/straight-line.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/straight-line.html"
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的直線工具，製作精準的直線筆觸以繪製材質。
 helpx_creative_field: ""

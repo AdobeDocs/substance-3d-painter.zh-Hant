@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/corrupted-texture-error-message.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/corrupted-texture-error-message.html"
 breadcrumb-title: ''
 description: 學習如何修復 Substance 3D Painter 中損壞的貼圖錯誤訊息，以恢復貼圖功能。
 helpx_creative_field: ""

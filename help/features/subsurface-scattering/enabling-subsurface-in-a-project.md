@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/subsurface-scattering/enabling-subsurface-in-a-project.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/subsurface-scattering/enabling-subsurface-in-a-project.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 專案中啟用次表面散射，以創造逼真的半透明材質效果。
 helpx_creative_field: ""

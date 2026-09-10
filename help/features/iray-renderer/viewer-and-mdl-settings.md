@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/iray-renderer/viewer-and-mdl-settings.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/iray-renderer/viewer-and-mdl-settings.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定 Iray 渲染器的檢視器和 MDL 設定，以自訂材質渲染。
 helpx_creative_field: ""

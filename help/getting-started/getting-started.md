@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started.html"
 breadcrumb-title: ''
 description: 從學習專案創建、介面導航和貼圖繪製工作流程的基礎開始，開始使用 Substance 3D Painter。
 helpx_creative_field: ""

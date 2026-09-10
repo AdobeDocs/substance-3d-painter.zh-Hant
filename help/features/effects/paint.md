@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/effects/paint.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/effects/paint.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 Paint 效果，將筆觸和材質繪製效果套用到圖層上。
 helpx_creative_field: ""

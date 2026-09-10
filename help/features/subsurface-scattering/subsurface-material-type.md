@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/subsurface-scattering/subsurface-material-type.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/subsurface-scattering/subsurface-material-type.html"
 breadcrumb-title: ''
 description: 學習如何在Substance 3D Painter中使用次表面材質類型，創造逼真的皮膚、蠟質及有機材料。
 helpx_creative_field: ""

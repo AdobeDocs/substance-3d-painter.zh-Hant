@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/main-menu/window-menu.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/main-menu/window-menu.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 的視窗選單來管理介面面板並自訂工作區佈局。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/scripts-and-plugins/remote-control-with-scripting.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/scripts-and-plugins/remote-control-with-scripting.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用遠端控制腳本來自動化工作流程並以程式化方式控制應用程式。
 helpx_creative_field: ""

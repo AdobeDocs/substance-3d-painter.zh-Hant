@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/pipeline-and-integration/configuration/querying-current-software-version.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/configuration/querying-current-software-version.html"
 breadcrumb-title: ''
 description: 學習如何以程式化方式查詢目前 Substance 3D Painter 軟體版本，以實現管線整合與自動化。
 helpx_creative_field: ""

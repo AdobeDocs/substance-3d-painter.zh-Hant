@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/presets.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/presets.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用和管理筆刷預設，以簡化你的材質繪製工作流程。
 helpx_creative_field: ""
@@ -30,6 +30,6 @@ ht-degree: 1%
 
 要管理你的預設，請參考：
 
-* [建立與儲存預設](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/creating-and-saving-a-preset-180191514.html)
+* [建立與儲存預設](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/creating-and-saving-a-preset-180191514.html)
 * [建立粒子預設](../../painting/presets/creating-particles-pre/creating-particles-presets.md)
 * [Photoshop 筆刷預設（ABR）](../../painting/presets/photoshop-brush-presets/photoshop-brush-presets-abr.md)

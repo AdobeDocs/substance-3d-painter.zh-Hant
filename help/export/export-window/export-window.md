@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-window.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started/export/export-window.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 的匯出視窗來配置並匯出各種格式的材質。
 helpx_creative_field: ""

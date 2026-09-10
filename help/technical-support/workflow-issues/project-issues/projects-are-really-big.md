@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/workflow-issues/project-issues/projects-are-really-big.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/project-issues/projects-are-really-big.html"
 breadcrumb-title: ''
 description: 學習如何縮小 Substance 3D Painter 專案檔案大小，以優化效能與儲存需求。
 helpx_creative_field: ""

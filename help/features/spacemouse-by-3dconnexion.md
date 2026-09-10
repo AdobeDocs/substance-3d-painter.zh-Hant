@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/spacemouse-by-3dconnexion.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/spacemouse-by-3dconnexion.html"
 breadcrumb-title: ''
 description: 透過 3Dconnexion 搭配 Substance 3D Painter，學習如何使用 SpaceMouse，以提升 3D 導航與視窗控制。
 helpx_creative_field: ""

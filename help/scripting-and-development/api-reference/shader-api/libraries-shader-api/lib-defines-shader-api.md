@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-defines-shader-api.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-defines-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 Lib Defines 著色器 API 參考，以定義著色器常數與預處理器指令。
 helpx_creative_field: ""

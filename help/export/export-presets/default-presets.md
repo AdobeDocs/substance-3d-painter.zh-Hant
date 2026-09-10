@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/export/export-presets/default-presets.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started/export/export-presets/default-presets.html"
 breadcrumb-title: ''
 description: 了解 Substance 3D Painter 中的預設輸出範本，以了解標準匯出配置與格式。
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 其他未列入的軟體也可能支援（例如  **Octane**）。 更多資訊 [請參閱生態系統與外](https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/home)掛程式。
+> 其他未列入的軟體也可能支援（例如  **Octane**）。 更多資訊 [請參閱生態系統與外](https://experienceleague.adobe.com/zh-hant/docs/substance-3d/ecosystem/home)掛程式。
 
 | *預設* | *描述* |
 | --- | --- |

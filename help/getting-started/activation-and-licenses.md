@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/getting-started/activation-and-licenses.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started/activation-and-licenses.html"
 breadcrumb-title: ''
 description: 學習如何啟用 Substance 3D Painter 並管理授權，開始使用該應用程式進行貼圖繪製。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 | 應用類型 | 啟動過程 |
 | --- | --- |
-| 創意雲端桌面 | 請參閱 HelpX 文件[&#128279;](https://helpx.adobe.com/download-install/using/download-creative-cloud-apps.html)中的專屬頁面。若有任何問題， [Creative Cloud 的文件](https://helpx.adobe.com/creative-cloud/user-guide.html) 可能會提供更多解答。 |
+| 創意雲端桌面 | 請參閱 HelpX 文件[&#128279;](https://helpx.adobe.com/tw/download-install/using/download-creative-cloud-apps.html)中的專屬頁面。若有任何問題， [Creative Cloud 的文件](https://helpx.adobe.com/tw/creative-cloud/user-guide.html) 可能會提供更多解答。 |
 | 蒸汽 | 直接從你的 Steam 遊戲庫啟動產品。 |
 | Substance 3D 獨立版 | 請參考下方說明的啟動流程。 |
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 啟動精靈有三個選項：
 
-* <b>評估此產品</b>：舊有試驗已不再提供。 你可以在這裡 [或使用 Creative Cloud Desktop 開始為每個 Substance 3D 應用程式](https://www.adobe.com/products/substance3d/free-trial-download.html?msockid=35568f9be2b964ec22d09c04e3eb65af) 開啟 30 天試用。
+* <b>評估此產品</b>：舊有試驗已不再提供。 你可以在這裡 [或使用 Creative Cloud Desktop 開始為每個 Substance 3D 應用程式](https://www.adobe.com/tw/products/substance3d/free-trial-download.html?msockid=35568f9be2b964ec22d09c04e3eb65af) 開啟 30 天試用。
 * <b>使用授權檔案</b>啟用：請於 2022 年 9 月 30 日前，使用從 Substance 3D 網站帳號頁面下載的授權檔案（<b>\*.key</b>）啟用產品。
 * <b>使用您的帳戶</b>啟用：舊有物質帳戶已無法再用於啟用。
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/dynamic-strokes/enabling-dynamic-stroke-feature.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/dynamic-strokes/enabling-dynamic-stroke-feature.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 啟用動態筆觸功能，以創造具有可變效果的響應式筆觸。
 helpx_creative_field: ""

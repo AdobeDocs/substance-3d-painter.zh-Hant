@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/auto-update.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/auto-update.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用自動資源更新，保持資源庫的同步與最新。
 helpx_creative_field: ""

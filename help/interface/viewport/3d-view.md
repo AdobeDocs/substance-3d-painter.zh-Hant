@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/viewport/3d-view.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/viewport/3d-view.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 3D 視圖，在材質繪製時視覺化並與你的 3D 模型互動。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-engine-params-shader-api.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/parameters-shader-api/all-engine-params-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 All Engine Params shader API 參考，以控制引擎層級的著色器參數。
 helpx_creative_field: ""

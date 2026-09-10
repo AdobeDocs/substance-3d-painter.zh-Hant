@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/advanced-channel-painting.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/advanced-channel-painting.html"
 breadcrumb-title: ''
 description: 學習 Substance 3D Painter 的進階通道繪製技巧，直接在特定材質通道上繪製，以達到精確控制。
 helpx_creative_field: ""

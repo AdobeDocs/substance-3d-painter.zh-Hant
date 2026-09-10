@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/history.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/history.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 的歷史面板來檢視並瀏覽你的編輯歷史。
 helpx_creative_field: ""

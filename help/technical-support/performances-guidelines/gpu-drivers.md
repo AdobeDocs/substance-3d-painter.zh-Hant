@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/performances-guidelines/gpu-drivers.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/performances-guidelines/gpu-drivers.html"
 breadcrumb-title: ''
 description: 了解 Substance 3D Painter 對 GPU VRAM 和驅動程式的需求，以優化渲染效能與穩定性。
 helpx_creative_field: ""

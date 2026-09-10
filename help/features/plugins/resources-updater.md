@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/plugins/resources-updater.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/plugins/resources-updater.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 中的 Resources Updater 外掛，自動更新資源庫和資產。
 helpx_creative_field: ""

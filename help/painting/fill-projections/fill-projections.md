@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/fill-projections.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用填充投影，利用各種投影方法套用貼圖，以提升繪畫效率。
 helpx_creative_field: ""

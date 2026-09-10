@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/main-menu/help-menu.html'
+helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/interface/main-menu/help-menu.html'
 breadcrumb-title: ''
 description: 請進入 Substance 3D Painter 的說明選單，找到文件、教學及支援資源。
 helpx_creative_field: ''
@@ -29,7 +29,7 @@ ht-degree: 1%
 
 | 動作 | 說明 |
 | --- | --- |
-| 教學課程 | 官方相關教學[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/tutorials.html)連結。 |
+| 教學課程 | 官方相關教學[&#128279;](https://helpx.adobe.com/tw/substance-3d/unlisted/tutorials.html)連結。 |
 | 發行說明 | 發行[&#128279;](../../release-notes/all-changes.md)說明連結。 |
 | 文件 | 連結至此文件。 |
 | 捷徑列表 | 捷徑[&#128279;](../settings/shortcuts.md)文件連結。 |

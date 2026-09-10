@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/main-menu.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/main-menu.html"
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 的主選單來存取檔案操作、編輯工具及應用程式設定。
 helpx_creative_field: ""
@@ -28,6 +28,6 @@ ht-degree: 0%
 * [編輯選單](edit-menu.md)
 * [模式選單](mode-menu.md)
 * [視窗選單](window-menu.md)
-* [視窗選單](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/viewport-170460351.html)
+* [視窗選單](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/viewport-170460351.html)
 * [插件選單](plugins-menu.md)
 * [說明選單](help-menu.md)

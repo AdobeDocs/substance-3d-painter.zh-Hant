@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/painting/vector-graphic-svg.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/vector-graphic-svg.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用向量圖形（SVG 和 AI 檔案）來為貼圖添加可縮放的向量藝術作品。
 helpx_creative_field: ""

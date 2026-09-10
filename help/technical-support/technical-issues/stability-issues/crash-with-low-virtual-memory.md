@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-with-low-virtual-memory.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-with-low-virtual-memory.html"
 breadcrumb-title: ''
 description: 了解如何修復因虛擬記憶體不足而導致的 Substance 3D Painter 當機，以確保應用程式的穩定效能。
 helpx_creative_field: ""

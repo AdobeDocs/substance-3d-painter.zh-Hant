@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/color-management/color-management-with-opencolorio.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/color-management/color-management-with-opencolorio.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用 OpenColorIO 色彩管理，以實現跨管線的色彩工作流程一致。
 helpx_creative_field: ""

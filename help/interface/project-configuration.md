@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-painter/interface/project-configuration.html'
+helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/interface/project-configuration.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定專案設定，以設定材質解析度、通道和專案屬性。
 helpx_creative_field: ''

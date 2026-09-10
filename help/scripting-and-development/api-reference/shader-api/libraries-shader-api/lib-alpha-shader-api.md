@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-alpha-shader-api.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-alpha-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Lib Alpha 著色器 API 參考，以支援 Substance 3D Painter 中的 Alpha 通道與透明度，用於自訂著色器中。
 helpx_creative_field: ""

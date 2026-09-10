@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/configuring-pens-and-tablets.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/configuring-pens-and-tablets.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定筆和繪圖板，以獲得最佳的壓力靈敏度與繪圖體驗。
 helpx_creative_field: ""

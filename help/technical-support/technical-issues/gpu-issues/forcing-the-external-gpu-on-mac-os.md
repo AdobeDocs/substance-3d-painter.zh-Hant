@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/technical-support/technical-issues/gpu-issues/forcing-the-external-gpu-on-mac-os.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/gpu-issues/forcing-the-external-gpu-on-mac-os.html"
 breadcrumb-title: ''
 description: 學習如何強制 Substance 3D Painter 在 macOS 上使用外接 GPU，以提升渲染效能。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/interface/layer-stack/masking-and-effects.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/masking-and-effects.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 圖層堆疊中使用遮罩和效果，來控制圖層可見性並套用圖層效果。
 helpx_creative_field: ""

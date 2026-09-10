@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-emissive-shader-api.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-emissive-shader-api.html"
 breadcrumb-title: ''
 description: 存取 Substance 3D Painter 的 Lib Emissive shader API 參考，以創建發光材質與發光效果。
 helpx_creative_field: ""

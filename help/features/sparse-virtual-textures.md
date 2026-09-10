@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-painter/features/sparse-virtual-textures.html"
+helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/sparse-virtual-textures.html"
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中使用稀疏虛擬貼圖，以高效處理超高解析度貼圖。
 helpx_creative_field: ""
@@ -60,7 +60,7 @@ SVT 的目標是預算視窗能佔用 GPU 記憶體，讓主引擎有更多空�
 ![](../assets/settings-temp.png)
 
 當系統記憶體（RAM）不足以儲存 SVT 快取時，Substance 3D Painter 會切換到電腦硬碟來儲存快取。\
-此快取的位置預設位於作業系統暫存檔案資料夾中。 此位置可透過應用程式的主要設定更改，詳見 [一般偏好設定](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html) 。
+此快取的位置預設位於作業系統暫存檔案資料夾中。 此位置可透過應用程式的主要設定更改，詳見 [一般偏好設定](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/general-71008262.html) 。
 
 ## 著色器相容性
 
@@ -69,7 +69,7 @@ SVT 的目標是預算視窗能佔用 GPU 記憶體，讓主引擎有更多空�
 要更新你的著色器：
 
 * 針對&#x200B;**預設 Substance 3D Painter 著色器**：請依照「更新著色器[&#128279;](../interface/shader-settings/updating-a-shader.md)」頁面的步驟操作。
-* 關於  **自訂著色器**  ：請查看日誌中的錯誤訊息以及 [著色器 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 頁面。
+* 關於  **自訂著色器**  ：請查看日誌中的錯誤訊息以及 [著色器 API](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) 頁面。
 
 >[!WARNING]
 >
