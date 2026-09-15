@@ -1,6 +1,6 @@
 ---
 helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/know-issues.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 檢視 Substance 3D Painter 已知的問題，以掌握最新版本的限制與解決方法。
 helpx_creative_field: ""
 helpx_description: Substance 3D Painter
@@ -8,19 +8,17 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: 已知問題
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 50df3a58ec4719d302999421774a1c67ce3e0ef1
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: a652271a4b12d9c27513ebc4d5974fa87da29580
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '855'
 ht-degree: 0%
-
 ---
-
 
 # 已知問題
 
-本頁列出 Substance 3D Painter v12.1.3 中所有已知的活躍問題：
+本頁列出 Substance 3D Painter v12.1.5 中所有已知的活躍問題：
 
 * `[Baking]` 簡單方塊上的AO錯誤
 * `[Baking]` 以姓名匹配後綴的解釋是錯誤的
@@ -42,6 +40,10 @@ ht-degree: 0%
 * `[Color Management]` 濾波器輸出未被妥善考慮
 * `[Color Management]` 在 Linux 上使用 ACE 進行 HDR 色彩空間轉換會產生壓縮色彩
 
+* `[USD]` 有些情況下是錯誤的 USDA 分配
+* `[USD]` 匯出的美元幾何體會沿著 UV 邊界滑動
+* `[USD]` 載入畸形 USDz 時會凍結
+
 * `[Shelf]` 如果資源被放在有特定名稱的資料夾裡，就會被錯誤使用。
 * `[Shelf]`&#x200B;`[Substance]`使用者資料未被考慮在架子縮圖產生時
 
@@ -51,8 +53,8 @@ ht-degree: 0%
 * `[Scripting]`&#x200B;`[Javascript]` 在輸出函式中指定抖動參數時出現「Disbaled」的錯字
 * `[Scripting]`&#x200B;`[Python]` substance_painter.project 模組中的各種錯字
 
-* `[USD]` 有些情況下是錯誤的 USDA 分配
-* `[USD]` 匯出的美元幾何體會沿著 UV 邊界滑動
+* `[Path]` 高度混合多條路徑會導致雜訊
+* `[Path]` 藍方選擇可接受性問題
 
 * `[Single Channel View]` 在 Painter 版本更新後，專案儲存在基礎色彩檢視中看起來變暗了
 * `[Single Channel View]` 在 Painter 版本更新後，專案儲存在基礎色彩檢視中看起來變暗了
@@ -93,11 +95,12 @@ ht-degree: 0%
 * `[User Channels]` 色彩混合空間預覽錯誤
 * `[Mask]` 切換到烘焙模式後，幾何選擇仍然有效
 * `[Sonoma]` 圖示不會出現在選單中
-* `[Path]` 高度混合多條路徑會導致雜訊
 * `[Polygon Fill]` 更改基底色的色彩空間不會更新色彩選擇器
 * `[UV Padding]` 在匯出時將貼圖從 4k 升頻到 8k 時出現的瑕疵
 * `[Performances]` Painter 會搶走 VRAM 的使用
-* `[Generator]` 將「use texture」設為false並不會讓材質輸入被停用
+* `[FBX]` 比例問題
+* `[Texture set list]` UV 圖塊可以同時選擇貼圖集
+* `[Viewport]` 烘焙模式視窗底部的游標延遲
 * 非正方形資源在刷子通道槽中使用時會被拉伸
 * 未能解碼實質內容
 * 非完美疊加的紫外線可能會產生瑕疵
@@ -116,8 +119,6 @@ ht-degree: 0%
 * 從上下文工具列修改的筆刷參數不會出現在歷史紀錄中
 * 如果你這次已經刪除並重新建立匯出預設，就無法重新命名或刪除它
 * 在某些情況下，頻道映射無法用於投影工具預覽
-* 在編輯 3D 投影時儲存視窗會凍結
-* 材質分層解析度太低
 
 ## 穩定性
 

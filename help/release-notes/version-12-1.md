@@ -2,13 +2,11 @@
 title: 版本 12.1
 description: 12.1 版本的釋出說明
 helpx_description: Substance 3D Painter
-source-git-commit: 50df3a58ec4719d302999421774a1c67ce3e0ef1
+source-git-commit: a652271a4b12d9c27513ebc4d5974fa87da29580
 workflow-type: tm+mt
-source-wordcount: '1717'
+source-wordcount: '1790'
 ht-degree: 0%
-
 ---
-
 
 # 版本 12.1
 
@@ -149,6 +147,29 @@ OpenPBR 著色模型現已在 Painter 中支援，並作為預設工作流程，
 [![](../assets/v12/v12_youtube_tutorial.jpg)](https://www.youtube.com/watch?v=WwyElRpiQgY)
 
 ## 發行說明
+
+### 12.1.5
+
+上映日期： **2026/09/15**
+
+摘要： **小規模發行**
+
+**修正：**
+
+* 從書架匯出映像到網路已經無法運作了
+* []將「use texture」設定為 false 並不會停用紋理輸入的使用。
+* 在編輯 3D 投影時儲存視窗會凍結
+* 材質分層解析度太低
+
+### 12.1.4
+
+上映日期： **2026/09/04**
+
+摘要： **小規模發行**
+
+**修正：**
+
+* []當機 匯入或匯出檔名非 ASCII 字元的檔案時會當機
 
 ### 12.1.3
 
