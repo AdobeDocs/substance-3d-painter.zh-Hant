@@ -1,10 +1,10 @@
 ---
 title: 三位面進階
 description: 學習如何使用Substance 3D Painter的Tri-Planear Advanced濾鏡。
-source-git-commit: 644a36a1dde953c1d793821e104049ebb6ec3c19
+source-git-commit: 5078774d081555f586a50965b91d85f7c340ef13
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 0%
+source-wordcount: '553'
+ht-degree: 1%
 ---
 
 # 三位面進階
@@ -56,20 +56,11 @@ ht-degree: 0%
 
 ### 軸 X
 
-<table>
-<tr>
-<td><b>第十輪：</b></td>
-<td>調整 X 軸材質投影的旋轉。</td>
-</tr>
-<tr>
-<td><b>偏移 X X：</b></td>
-<td>調整 X 軸上的投影偏移。</td>
-</tr>
-<tr>
-<td><b>偏移 X Y：</b></td>
-<td>調整 X 軸投影偏移的 Y 軸。</td>
-</tr>
-</table>
+| 參數名稱 | 說明 |
+| --- | --- |
+| **第十輪：** | 調整 X 軸材質投影的旋轉。 |
+| **偏移 X X：** | 調整 X 軸上的投影偏移。 |
+| **偏移 X Y：** | 調整 X 軸投影偏移的 Y 軸。 |
 
 >[!NOTE]
 >
@@ -79,20 +70,11 @@ ht-degree: 0%
 
 ### 軸心 Y
 
-<table>
-<tr>
-<td><b>第十輪：</b></td>
-<td>調整 Y 軸材質投影的旋轉。</td>
-</tr>
-<tr>
-<td><b>偏移 Y X：</b></td>
-<td>調整 X 軸的 Y 軸投影偏移。</td>
-</tr>
-<tr>
-<td><b>偏移 Y Y：</b></td>
-<td>調整Y軸投影偏移。</td>
-</tr>
-</table>
+| 參數名稱 | 說明 |
+| --- | --- |
+| **第十輪：** | 調整 Y 軸材質投影的旋轉。 |
+| **偏移 Y X：** | 調整 X 軸的 Y 軸投影偏移。 |
+| **偏移 Y Y：** | 調整Y軸投影偏移。 |
 
 >[!NOTE]
 >
@@ -102,20 +84,11 @@ ht-degree: 0%
 
 ### 軸 Z
 
-<table>
-<tr>
-<td><b>第十輪：</b></td>
-<td>調整 Z 軸材質投影的旋轉。</td>
-</tr>
-<tr>
-<td><b>Z X 偏移：</b></td>
-<td>調整 Z 軸投影偏移 X 軸。</td>
-</tr>
-<tr>
-<td><b>偏移 Z Y：</b></td>
-<td>調整 Z 軸投影偏移到Y軸。</td>
-</tr>
-</table>
+| 參數名稱 | 說明 |
+| --- | --- |
+| **第十輪：** | 調整 Z 軸材質投影的旋轉。 |
+| **Z X 偏移：** | 調整 Z 軸投影偏移 X 軸。 |
+| **偏移 Z Y：** | 調整 Z 軸投影偏移到Y軸。 |
 
 >[!NOTE]
 >
