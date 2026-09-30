@@ -2,13 +2,11 @@
 user-guide-title: Substance 3D Painter
 breadcrumb-title: Substance 3D Painter
 user-guide-description: Substance 3D Painter
-source-git-commit: b7770a9497f0db047433aec32c31b57f8dc13ae7
+source-git-commit: 644a36a1dde953c1d793821e104049ebb6ec3c19
 workflow-type: tm+mt
-source-wordcount: '1213'
+source-wordcount: '1346'
 ht-degree: 4%
-
 ---
-
 
 # Substance 3D Painter {#using}
 
@@ -166,12 +164,80 @@ ht-degree: 4%
     + [紫外線隨機色彩](/help/features/effects/generators/uv-random-color.md)
     + [UV 像素密度](/help/features/effects/generators/uv-texel-density.md)
     + [世界空間法線](/help/features/effects/generators/world-space-normals.md)
+  + 濾鏡{#filters}
+    + [濾鏡概述](/help/features/effects/filter.md)
+    + 標準{#standard-filters}
+      + [模糊](/help/features/effects/filters/standard/blur.md)
+      + [模糊定向](/help/features/effects/filters/standard/blur-directional.md)
+      + [模糊斜坡](/help/features/effects/filters/standard/blur-slope.md)
+      + [夾子](/help/features/effects/filters/standard/clamp.md)
+      + [色彩平衡](/help/features/effects/filters/standard/color-balance.md)
+      + [色彩校正](/help/features/effects/filters/standard/color-correct.md)
+      + [對比亮度](/help/features/effects/filters/standard/contrast-luminosity.md)
+      + [陰影](/help/features/effects/filters/standard/drop-shadow.md)
+      + [填充區域顏色](/help/features/effects/filters/standard/fill-area-color.md)
+      + [填充區域遮罩](/help/features/effects/filters/standard/fill-area-mask.md)
+      + [FXAA（抗鋸齒）](/help/features/effects/filters/standard/fxaa-anti-aliasing.md)
+      + [發光](/help/features/effects/filters/standard/glow.md)
+      + [梯度](/help/features/effects/filters/standard/gradient.md)
+      + [梯度動態](/help/features/effects/filters/standard/gradient-dynamic.md)
+      + [灰階轉換](/help/features/effects/filters/standard/grayscale-conversion.md)
+      + [高通](/help/features/effects/filters/standard/highpass.md)
+      + [直方圖掃描](/help/features/effects/filters/standard/histogram-scan.md)
+      + [直方圖移位](/help/features/effects/filters/standard/histogram-shift.md)
+      + [HSL Perceptive](/help/features/effects/filters/standard/hsl-perceptive.md)
+      + [倒轉](/help/features/effects/filters/standard/invert.md)
+      + [鏡子](/help/features/effects/filters/standard/mirror.md)
+      + [像素化](/help/features/effects/filters/standard/pixelate.md)
+      + [海報化](/help/features/effects/filters/standard/posterize.md)
+      + [磨利](/help/features/effects/filters/standard/sharpen.md)
+      + [滑步](/help/features/effects/filters/standard/smoothstep.md)
+      + [臨界值](/help/features/effects/filters/standard/threshold.md)
+      + [變形](/help/features/effects/filters/standard/transform.md)
+      + [曲速](/help/features/effects/filters/standard/warp.md)
+    + 飾面{#finish-filters}
+      + [MatFinish 拉絲線性](/help/features/effects/filters/finishes/matfinish-brushed-linear.md)
+      + [MatFinish鍍鋅處理](/help/features/effects/filters/finishes/matfinish-galvanized.md)
+      + [MatFinish 顆粒感](/help/features/effects/filters/finishes/matfinish-grainy.md)
+      + [MatFinish 研磨](/help/features/effects/filters/finishes/matfinish-grinded.md)
+      + [MatFinish 被狠狠砸了](/help/features/effects/filters/finishes/matfinish-hammered.md)
+      + [MatFinish 穿孔圓圈](/help/features/effects/filters/finishes/matfinish-perforated-circles.md)
+      + [MatFinish 粉末塗層](/help/features/effects/filters/finishes/matfinish-powder-coated.md)
+      + [MatFinish 原始版](/help/features/effects/filters/finishes/matfinish-raw.md)
+      + [MatFinish 粗糙](/help/features/effects/filters/finishes/matfinish-rough.md)
+    + MatFX{#matfx-filters}
+      + [MatFX 漫畫書](/help/features/effects/filters/matfx/matfx-comic-book.md)
+      + [MatFX 細節邊緣磨損](/help/features/effects/filters/matfx/matfx-detail-edge-wear.md)
+      + [MatFX Edge 損壞](/help/features/effects/filters/matfx/matfx-edge-damages.md)
+      + [MatFX HBAO](/help/features/effects/filters/matfx/matfx-hbao.md)
+      + [MatFX 油畫顏料](/help/features/effects/filters/matfx/matfx-oil-paint.md)
+      + [MatFX 剝落的油漆](/help/features/effects/filters/matfx/matfx-peeling-paint.md)
+      + [MatFX 生鏽老化](/help/features/effects/filters/matfx/matfx-rust-weathering.md)
+      + [MatFX 關閉線路](/help/features/effects/filters/matfx/matfx-shut-line.md)
+      + [MatFX 水彩](/help/features/effects/filters/matfx/matfx-watercolor.md)
+      + [MatFX 水滴](/help/features/effects/filters/matfx/matfx-water-drops.md)
+    + 光源{#lighting-filters}
+      + [烘焙燈光環境](/help/features/effects/filters/lighting/baked-lighting-environment.md)
+      + [風格化的烘焙燈光](/help/features/effects/filters/lighting/baked-lighting-stylized.md)
+    + 進階{#advanced-filters}
+      + [各向異性桑原](/help/features/effects/filters/advanced/anisotropic-kuwahara.md)
+      + [斜面](/help/features/effects/filters/advanced/bevel.md)
+      + [斜面光滑](/help/features/effects/filters/advanced/bevel-smooth.md)
+      + [顏色配對](/help/features/effects/filters/advanced/color-match.md)
+      + [方向距離](/help/features/effects/filters/advanced/directional-distance.md)
+      + [梯度曲線](/help/features/effects/filters/advanced/gradient-curve.md)
+      + [高度調整](/help/features/effects/filters/advanced/height-adjustments.md)
+      + [身高至正常](/help/features/effects/filters/advanced/height-to-normal.md)
+      + [面具大綱](/help/features/effects/filters/advanced/mask-outline.md)
+      + [PBR 驗證](/help/features/effects/filters/advanced/pbr-validate.md)
+      + [量子化](/help/features/effects/filters/advanced/quantize.md)
+      + [風格化](/help/features/effects/filters/advanced/stylization.md)
+      + [三位面進階](/help/features/effects/filters/advanced/tri-planar-advanced-filter.md)
   + [效果概述](/help/features/effects/effects.md)
   + [塗料](/help/features/effects/paint.md)
   + [填滿](/help/features/effects/fill.md)
   + [關卡](/help/features/effects/levels.md)
   + [比較面具](/help/features/effects/compare-mask.md)
-  + [濾鏡](/help/features/effects/filter.md)
   + [錨點](/help/features/effects/anchor-point.md)
 + 烘焙{#baking}
   + [烘焙概述](/help/baking/baking.md)
