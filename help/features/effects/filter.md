@@ -1,9 +1,9 @@
 ---
 title: 濾鏡
 description: 學習如何在 Substance 3D Painter 中使用濾鏡效果來套用影像處理濾鏡和貼圖調整。
-source-git-commit: 644a36a1dde953c1d793821e104049ebb6ec3c19
+source-git-commit: 4b8afda243f2969b036efe14588f201177ee3139
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '635'
 ht-degree: 1%
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 * 手動方式需要多個步驟來設定過濾器，但能直接控制每個步驟。
 * 拖放方式讓你能快速新增濾波器，並自動將混合模式設為所有聲道的直通模式。
 
-### 手動套用篩選器
+### 手動新增過濾器
 
 以下範例中，模糊濾鏡是套用在圖層內容上，但通常用於對遮罩套用濾鏡：
 
@@ -55,13 +55,17 @@ ht-degree: 1%
 
 請注意，在上述範例中，droped filter 已經有 Passthrough Blending 模式。 這對文件的所有通道都適用。
 
-## 新增篩選器
+## 為 Painter 新增濾鏡
 
-所有濾鏡都是物質，可以用 Substance 3D Designer 建立。 作為快速啟動，Substance 3D Designer 提供可供 Substance 3D Painter 使用的範本。
+如果你有新的濾鏡要帶進 Painter，你可以像加入標準資源一樣新增它們——只要把 SBSAR 檔案拖放到 **Assets 面板** ，就能管理新濾鏡的匯入。
+
+## 自行建立篩選條件
+
+所有濾鏡都是物質，可以用 Substance 3D Designer 建立。 Substance 3D Designer 提供 Substance 3D Painter 的範本，幫助你快速開始。
 
 更多資訊請參閱此頁面： [建立自訂效果](../../content/creating-custom-effects/creating-custom-effects.md)
 
-## 可用過濾器
+## Painter 中的預設篩選器
 
 ### 標準
 
