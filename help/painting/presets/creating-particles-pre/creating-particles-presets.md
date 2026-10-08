@@ -18,6 +18,6 @@ ht-degree: 0%
 
 更多資訊請參閱專屬頁面：
 
-* [安裝粒子編輯器](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/installation-of-the-editor-67403780.html)
-* [粒子編輯器概述](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/overview-of-popcornfx-particle-editor-67796996.html)
+* [安裝粒子編輯器](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/installation-of-the-editor-67403780.html)
+* [粒子編輯器概述](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/overview-of-popcornfx-particle-editor-67796996.html)
 * [建立新的粒子腳本](creating-a-new-particle-script.md)

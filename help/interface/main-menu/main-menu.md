@@ -20,6 +20,6 @@ ht-degree: 0%
 * [編輯選單](edit-menu.md)
 * [模式選單](mode-menu.md)
 * [視窗選單](window-menu.md)
-* [視窗選單](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/viewport-170460351.html)
+* [視窗選單](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/viewport-170460351.html)
 * [插件選單](plugins-menu.md)
 * [說明選單](help-menu.md)

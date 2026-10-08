@@ -28,4 +28,4 @@ Substance Painter 預設包含以下著色器：
 
 只要建立新的 **.glsl** 檔案，就能建立新的自訂著色器。
 
-提供詳細的 [著色器 API](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) ，並提供輔助功能以創造新效果並整合進現有工作流程。
+提供詳細的 [著色器 API](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/custom-shader-api-89686018.html) ，並提供輔助功能以創造新效果並整合進現有工作流程。

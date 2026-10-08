@@ -18,4 +18,4 @@ ht-degree: 0%
 
 若在 Mac OS 上運行自訂 GPU 並搭配自訂驅動程式時出現故障、當機甚至瑕疵，解決方法是刪除 **與該應用程式相關的正確清單** 檔案。
 
-要知道要移除哪個檔案，請參見： [偏好設定與應用程式資料位置](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)。
+要知道要移除哪個檔案，請參見： [偏好設定與應用程式資料位置](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)。

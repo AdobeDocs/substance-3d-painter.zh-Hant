@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ## 捷徑概述
 
-想快速了解所有可用的捷徑，請參考我們教學[&#128279;](https://helpx.adobe.com/substance-3d/unlisted/tutorials/courses/substance-3d-painter-keyboard-shortcuts.html)中的圖表。
+想快速了解所有可用的捷徑，請參考我們教學[&#128279;](https://helpx.adobe.com/tw/substance-3d/unlisted/tutorials/courses/substance-3d-painter-keyboard-shortcuts.html)中的圖表。
 
 ## 如何更改捷徑
 

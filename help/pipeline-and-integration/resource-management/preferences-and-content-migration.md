@@ -58,4 +58,4 @@ ht-degree: 0%
 
 我們建議你從介面手動重新調整應用程式設定。 這是最安全的方式來遷移資訊，且不會引發相容性問題。
 
-否則，請參考以下頁面了解偏好設定現在的位置： [偏好設定與應用程式資料位置](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)。
+否則，請參考以下頁面了解偏好設定現在的位置： [偏好設定與應用程式資料位置](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)。

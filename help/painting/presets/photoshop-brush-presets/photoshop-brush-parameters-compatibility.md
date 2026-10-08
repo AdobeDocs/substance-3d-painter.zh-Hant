@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## 參數
 
-想了解更多這些參數的功能，請參閱官方  [Photoshop 文件](https://helpx.adobe.com/photoshop/using/creating-modifying-brushes.html)  。
+想了解更多這些參數的功能，請參閱官方  [Photoshop 文件](https://helpx.adobe.com/tw/photoshop/using/creating-modifying-brushes.html)  。
 
 並非所有 Photoshop 筆刷參數都支援。 請參閱圖例以了解以下所述每個參數的狀態：
 
