@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/configuration/firewall-configuration.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何為 Substance 3D Painter 設定防火牆設定，以啟用網路功能與遠端存取。
-helpx_creative_field: ""
-helpx_description: Painter > Pipeline and integration > Configuration > Firewall Configuration
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 防火牆設定
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 8%
-
 ---
-
 
 # 防火牆設定
 

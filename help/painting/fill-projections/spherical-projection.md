@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/spherical-projection.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 在 Substance 3D Painter 中使用球面投影，從球體投影貼圖，將貼圖包裹在物件周圍。
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Fill projections > Spherical projection
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 球面投影
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 7e24e45387178db5efa813e64e4b86ac2ae2e5aa
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 0%
-
 ---
-
 
 # 球面投影
 
@@ -54,7 +46,7 @@ UV 變換設定控制投影內的貼圖。
 
 ## 情境工具列
 
-從位於視窗頂端的情境工具列[&#128279;](../../interface/toolbars.md)可使用多項設定與工具，這些工具提供對操作手與投影的控制：
+從位於視窗頂端的情境工具列](../../interface/toolbars.md)可使用[多項設定與工具，這些工具提供對操作手與投影的控制：
 
 | 聖像 | 名稱 | 說明 |
 | --- | --- | --- |

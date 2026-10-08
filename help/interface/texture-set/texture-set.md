@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/texture-set.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中操作貼圖集，組織貼圖並管理不同的材質分配。
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Texture Set
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 材質集
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
-
 ---
-
 
 # 材質集
 

@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/path.html'
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的路徑工具來建立和編輯路徑，進行精準的貼圖繪製與筆觸放置。
-helpx_creative_field: ''
-helpx_description: Painting > Path tools list > Path tool
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 路徑工具概述
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 6fcf10add7086a0e2a070ee6046c0a261ef1ae34
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1666'
 ht-degree: 0%
-
 ---
-
 
 # 路徑工具概述
 
@@ -63,7 +55,7 @@ ht-degree: 0%
 
 ![Gif 顯示新增點的加入及路徑上既有點的移動](../../assets/path_edit_move_points.gif)
 
-有些屬性是針對整體路徑的特有屬性。 這適用於屬性視窗中的&#x200B;**&#x200B;**&#x200B;選項。就像一般筆劃一樣（參見 [繪圖工具文件](paint-brush.md)），可以為路徑定義以下屬性：
+有些屬性是針對整體路徑的特有屬性。 這適用於屬性視窗中的&#x200B;****&#x200B;選項。就像一般筆劃一樣（參見 [繪圖工具文件](paint-brush.md)），可以為路徑定義以下屬性：
 
 * **刷子**
 * **阿爾法**
@@ -157,7 +149,7 @@ ht-degree: 0%
 >
 > 當目前的工具不是路徑工具，或選取填充圖層/資料夾時，面板會被隱藏。
 
-視窗內有&#x200B;**&#x200B;**&#x200B;路徑面板，列出目前所選繪畫圖層/效果的所有路徑。它提供了選擇和管理路徑的簡單方式。
+視窗內有&#x200B;****&#x200B;路徑面板，列出目前所選繪畫圖層/效果的所有路徑。它提供了選擇和管理路徑的簡單方式。
 
 透過此面板，可以：
 

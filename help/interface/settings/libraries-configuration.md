@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/settings/libraries-configuration.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 設定中配置函式庫，以管理資源路徑與資產組織。
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Settings > Libraries configuration
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 函式庫配置
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
-
 ---
-
 
 # 函式庫配置
 
@@ -45,5 +37,5 @@ ht-degree: 0%
 | --- | --- |
 | **名稱** | 在介面中用來參考路徑的名稱（例如右鍵點擊資源時）。 此名稱同時定義資源內部位置名稱，以便追蹤其是否最新，因此建議定義後不應更改此名稱。 |
 | **路徑** | 資源實際在磁碟上的位置（或將會存在的位置）。 |
-| **加號按鈕**  <div><img data-preserve-html="true" src="../../assets/shelf-button.png" width="30"/></div> | 點擊此按鈕將由名稱與路徑設定所定義的路徑加入下方清單。新增路徑會自動建立必要的子資料夾結構，以組織資料與資源。 想了解如何將資源放在哪裡，請參考：  [將內容加入書架](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)。 |
-| **減號按鈕**   <div><img data-preserve-html="true" src="../../assets/shelf-remove.png" width="30"/></div> | 點擊路徑前的這個按鈕會將該路徑從列表中移除。 資源將不再在資產[&#128279;](../assets/assets.md)介面中列出。**注意：**  預設路徑無法移除，但會被停用，資源也會被隱藏。 |
+| **加號按鈕**  <div><img data-preserve-html="true" src="../../assets/shelf-button.png" width="30"/></div> | 點擊此按鈕將由名稱與路徑設定所定義的路徑加入下方清單。新增路徑會自動建立必要的子資料夾結構，以組織資料與資源。 想了解如何將資源放在哪裡，請參考：  [將內容加入書架](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)。 |
+| **減號按鈕**   <div><img data-preserve-html="true" src="../../assets/shelf-remove.png" width="30"/></div> | 點擊路徑前的這個按鈕會將該路徑從列表中移除。 資源將不再在資產](../assets/assets.md)介面中列出[。**注意：**  預設路徑無法移除，但會被停用，資源也會被隱藏。 |

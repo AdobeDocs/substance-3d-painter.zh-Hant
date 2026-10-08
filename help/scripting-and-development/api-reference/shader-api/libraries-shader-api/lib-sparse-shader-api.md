@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-sparse-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 取得 Substance 3D Painter 的 Lib Sparse shader API 參考，以便在自訂著色器中處理稀疏紋理取樣。
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Libraries - Shader API > Lib Sparse - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Lib Sparse - Shader API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
-
 ---
-
 
 # Lib Sparse - Shader API
 
@@ -24,7 +16,7 @@ ht-degree: 0%
 
 此檔案提供有用的功能，確保稀疏紋理取樣的正確性（ARB\_sparse\_texture）。 允許只取樣顯示記憶體中實際存在的部分紋理。
 
-**Public Functions：** getSparseCoord **&#x200B; getSparseCoordLod0 &#x200B;** textureSparseQueryLod **&#x200B; textureSparse &#x200B;**
+**Public Functions：** getSparseCoord ** getSparseCoordLod0 ** textureSparseQueryLod ** textureSparse **
 
 **公共結構：***SamplerSparse* *SparseCoord*
 

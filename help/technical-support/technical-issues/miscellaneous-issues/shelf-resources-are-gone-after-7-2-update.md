@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/shelf-resources-are-gone-after-7-2-update.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何恢復在 Substance 3D Painter 7.2 更新後消失的架子資源，以恢復你的資源庫。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Miscellaneous Issues > Shelf resources are gone after 7.2 update
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 7.2 更新後，架子資源就消失了
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
-
 ---
-
 
 # 7.2 更新後，架子資源就消失了
 

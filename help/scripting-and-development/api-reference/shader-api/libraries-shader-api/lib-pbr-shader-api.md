@@ -1,28 +1,20 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-pbr-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 存取 Substance 3D Painter 的 Lib PBR 著色器 API 參考，以便在自訂著色器中建立物理基礎的渲染材質。
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Libraries - Shader API > Lib PBR - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Lib PBR - 著色器 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
-
 ---
-
 
 # Lib PBR - 著色器 API
 
 ## lib-pbr.glsl
 
-**公開功能：** normal\_distrib **&#x200B; fresnel &#x200B;** G1 **&#x200B; 可視&#x200B;**&#x200B;性地平線 漸移&#x200B;**&#x200B; pbr ComputeDiffuse &#x200B;** pbr ComputeSpecular **&#x200B; pbrComputeBRDF &#x200B;**
+**公開功能：** normal\_distrib ** fresnel ** G1 ** 可視&#x200B;**&#x200B;性地平線 漸移&#x200B;** pbr ComputeDiffuse ** pbr ComputeSpecular ** pbrComputeBRDF **
 
 環境圖中的 miplevel 數量。
 

@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/color-management/color-management-with-opencolorio.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中使用 OpenColorIO 色彩管理，以實現跨管線的色彩工作流程一致。
-helpx_creative_field: ""
-helpx_description: Painter > Features > Color management > Color management with OpenColorIO
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: OpenColorIO 的色彩管理
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 0%
-
 ---
-
 
 # OpenColorIO 的色彩管理
 
@@ -26,7 +18,7 @@ ht-degree: 0%
 
 ![](../../assets/project-settings-3.png)
 
-專案設定可在新專案視窗建立新專案[&#128279;](../../getting-started/project-creation.md)時設定，或使用[專案設定](../../interface/project-configuration.md)視窗設定。
+專案設定可在新專案視窗建立新專案[](../../getting-started/project-creation.md)時設定，或使用[專案設定](../../interface/project-configuration.md)視窗設定。
 
 >[!NOTE]
 >
@@ -42,7 +34,7 @@ ht-degree: 0%
 
 | 角色名稱 | 說明 |
 | --- | --- |
-| **內容\_3d\_painter\_standard\_srgb** | 指定與標準 sRGB[&#128279;](https://en.wikipedia.org/wiki/SRGB) 相符的色彩空間（IEC 61966-2-1：1999）。 |
+| **內容\_3d\_painter\_standard\_srgb** | 指定與標準 sRGB](https://en.wikipedia.org/wiki/SRGB) 相符[的色彩空間（IEC 61966-2-1：1999）。 |
 | **實質_3d\_painter\_bitmap\_import\_8bit** | 用 Role 來指定匯入 8 位元影像所使用的色彩空間。 |
 | **內容\_3d\_painter\_bitmap\_import\_16bit** | 用 Role 指定匯入 16 位元影像所使用的色彩空間。 |
 | **實質_3d\_painter\_bitmap\_import_floating** | 用 Role 指定匯入 HDR 影像所使用的色彩空間。 |

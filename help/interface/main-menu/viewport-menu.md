@@ -1,28 +1,20 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/main-menu/viewport-menu.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何使用 Substance 3D Painter 中的視窗選單來存取視窗設定和顯示選項。
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Main menu > Viewport menu
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 視窗選單
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 1%
-
 ---
-
 
 # 視窗選單
 
 ![](../../assets/viewport-menu.png)
 
-視窗選單可用來更改視窗[&#128279;](https://substance3d.adobe.com/)的顯示模式。
+視窗選單可用來更改視窗](https://substance3d.adobe.com/)的[顯示模式。
 
 | 動作 | 說明 |
 | --- | --- |

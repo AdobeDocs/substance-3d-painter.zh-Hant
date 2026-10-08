@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2017-1.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 請參閱 Substance 3D Painter 2017.1 版本的發行說明，了解新功能、改進與錯誤修正。
-helpx_creative_field: ""
-helpx_description: Painter > Release notes > Old versions > Version 2017.1
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 2017.1 版本
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%
-
 ---
-
 
 # 2017.1 版本
 
@@ -40,7 +32,7 @@ Substance Painter 在新 Substance 產品推出後更改了版本編號。 更�
 
 ![](../../assets/new-alphas-gif.gif)
 
-在這個新版本中，我們將新增 **超過 300 個資產**。 我們在 alpha 版中加入&#x200B;**了科幻**、**幾何**&#x200B;**、中世紀**&#x200B;甚至&#x200B;**凱爾特**&#x200B;主題的內容。裡面還有很多 **新筆刷** 和 **掃描的手印/指紋**。 我們也提供一些實用的新濾鏡，例如 **MatFX Detail Edge Wear**，能直接&#x200B;**根據網格上正常繪製的資訊**&#x200B;產生&#x200B;**刮痕**。
+在這個新版本中，我們將新增 **超過 300 個資產**。 我們在 alpha 版中加入&#x200B;**了科幻**、**幾何****、中世紀**&#x200B;甚至&#x200B;**凱爾特**&#x200B;主題的內容。裡面還有很多 **新筆刷** 和 **掃描的手印/指紋**。 我們也提供一些實用的新濾鏡，例如 **MatFX Detail Edge Wear**，能直接&#x200B;**根據網格上正常繪製的資訊**&#x200B;產生&#x200B;**刮痕**。
 
 以下是新內容列表：
 

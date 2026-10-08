@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2-5.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 查看 Substance 3D Painter 2.5 版本的發行說明，了解新功能、改進與錯誤修正。
-helpx_creative_field: ""
-helpx_description: Painter > Release notes > Old versions > Version 2.5
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 版本 2.5
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1699'
 ht-degree: 0%
-
 ---
-
 
 # 版本 2.5
 
@@ -69,7 +61,7 @@ ht-degree: 0%
 
 ![](../../assets/ui-shader.jpg)
 
-這次版本我們新增了一套腳&#x200B;**本和控制**&#x200B;**著色器參數**&#x200B;的功能。我們也新增了使用 **自訂介面而非預設介面** 的支援，開啟了許多新可能性，例如 **動畫著色器**。\
+這次版本我們新增了一套腳&#x200B;**本和控制****著色器參數**&#x200B;的功能。我們也新增了使用 **自訂介面而非預設介面** 的支援，開啟了許多新可能性，例如 **動畫著色器**。\
 欲了解更多細節，請參閱應用程式說明選單中的腳本文件。
 
 ## 教學

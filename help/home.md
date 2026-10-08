@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/home.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 開始使用 Substance 3D Painter，直接在 3D 模型上繪製貼圖，創造逼真的材質表面。
-helpx_creative_field: ""
-helpx_description: Painter > Home
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Substance 3D Painter
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 2%
-
 ---
-
 
 # Substance 3D Painter
 
@@ -28,7 +20,7 @@ Substance 3D Painter 是一款 3D 繪畫軟體，讓你能為 3D 網格做貼圖
 
 本文件旨在幫助您學習如何使用此軟體，從基礎到進階技巧。
 
-如果你有任何本手冊未解答的問題，歡迎在我們的 [論壇](https://community.adobe.com/t5/substance-3d-painter/bd-p/substance-3d-painter)提問。 如果你想了解更多關於 PBR 的資訊，也可以下載我們的 [物理基礎渲染指南](https://helpx.adobe.com/tw/substance-3d/unlisted/tutorials.html) 。
+如果你有任何本手冊未解答的問題，歡迎在我們的 [論壇](https://community.adobe.com/t5/substance-3d-painter/bd-p/substance-3d-painter)提問。 如果你想了解更多關於 PBR 的資訊，也可以下載我們的 [物理基礎渲染指南](https://helpx.adobe.com/substance-3d/unlisted/tutorials.html) 。
 
 </td>
 <td width="58.30%" style="border: 0;" valign="top">
@@ -83,7 +75,7 @@ Substance 3D Painter 是一款 3D 繪畫軟體，讓你能為 3D 網格做貼圖
 ### 內容
 
 * [建立自訂效果](content/creating-custom-effects/creating-custom-effects.md)
-* [資產匯入](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)
+* [資產匯入](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/adding-content-to-the-shelf-142213317.html)
 
 ### 特色
 
@@ -112,7 +104,7 @@ Substance 3D Painter 是一款 3D 繪畫軟體，讓你能為 3D 網格做貼圖
 
 ### 腳本與開發
 
-* [腳本與外掛](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/script-and-plugins-197427392.html)
+* [腳本與外掛](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/script-and-plugins-197427392.html)
 
 ### 技術支援
 

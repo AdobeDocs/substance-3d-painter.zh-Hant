@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/export-issues/texture-dilation-or-padding.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中使用貼圖膨脹和填充，以防止匯出貼圖出現邊緣失真。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Workflow Issues > Export Issues > Texture dilation or Padding
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 材質膨脹或填充
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
-
 ---
-
 
 # 材質膨脹或填充
 
@@ -75,6 +67,6 @@ Substance 3D Painter 可以產生無限填充：這表示像素會被拉伸直�
 
 Substance 3D Painter 允許在不同位置改變填充生成的行為（例如停用）：
 
-* **烘焙時**：更多資訊請參閱[&#128279;](../../../baking/baking.md)烘焙說明。
+* **烘焙時**：更多資訊請參閱[](../../../baking/baking.md)烘焙說明。
 * **在為貼圖集** 產生貼圖時：更多資訊請參閱 [貼圖集設定](../../../interface/texture-set/texture-set-settings.md) 文件。
-* **匯出貼圖**&#x200B;時：請參閱匯出設定[&#128279;](../../../export/export-window/export-window.md)文件中的「填充設定」部分以獲得更多資訊。
+* **匯出貼圖**&#x200B;時：請參閱匯出設定](../../../export/export-window/export-window.md)文件中的[「填充設定」部分以獲得更多資訊。

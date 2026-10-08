@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/project-issues/a-project-has-been-processed-as-a-text-file-and-is-now-corrupted.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何恢復已處理成文字檔的損壞 Substance 3D Painter 專案檔案。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Workflow Issues > Project Issues > Corrupted project file
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 專案檔案損壞
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
-
 ---
-
 
 # 一個專案被處理成文字檔，現在已經損壞
 

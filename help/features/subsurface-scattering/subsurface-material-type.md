@@ -1,26 +1,18 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/subsurface-scattering/subsurface-material-type.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在Substance 3D Painter中使用次表面材質類型，創造逼真的皮膚、蠟質及有機材料。
-helpx_creative_field: ""
-helpx_description: Painter > Features > Subsurface Scattering > Subsurface Material Type
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 地下材料類型
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 1%
-
 ---
-
 
 # 地下材料類型
 
-本頁列出了可透過 Subsurface 散射功能創造的各種材質類型，以及如何配置 Substance 3D Painter 來製作這些材質。 每種材料都有一個刻度和顏色，可以在地下參數[&#128279;](subsurface-parameters.md)中設定。
+本頁列出了可透過 Subsurface 散射功能創造的各種材質類型，以及如何配置 Substance 3D Painter 來製作這些材質。 每種材料都有一個刻度和顏色，可以在地下參數](subsurface-parameters.md)中[設定。
 
 >[!NOTE]
 >

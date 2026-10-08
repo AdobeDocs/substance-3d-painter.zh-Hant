@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started/glossary.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 請參閱 Substance 3D Painter 的詞彙表，以了解文件中所用的關鍵術語與概念。
-helpx_creative_field: ""
-helpx_description: Painter > Getting Started > Glossary
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 詞彙表
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 0%
-
 ---
-
 
 # 詞彙表
 

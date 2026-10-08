@@ -1,26 +1,18 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/resource-management/excluding-resources-in-a-resource-path.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中排除特定資源，以改善書架組織。
-helpx_creative_field: ""
-helpx_description: Painter > Pipeline and integration > Resource management > Excluding resources in a resource path
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 排除資源路徑中的資源
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 22871eab2f25d09bd82f1292d8b3e5f8c4f1c2cf
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 0%
-
 ---
-
 
 # 排除資源路徑中的資源
 
-本頁說明如何設定忽略檔案，指定在資產視窗爬取過程中[&#128279;](../../interface/assets/assets.md)會被忽略的資源和資料夾。這可以避免不必要的資源被展示。
+本頁說明如何設定忽略檔案，指定在資產視窗爬取過程中[](../../interface/assets/assets.md)會被忽略的資源和資料夾。這可以避免不必要的資源被展示。
 
 >[!NOTE]
 >

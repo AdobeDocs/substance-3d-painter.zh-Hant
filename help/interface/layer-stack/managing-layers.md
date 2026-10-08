@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/managing-layers.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中管理圖層，以組織、重新排序並控制你的材質繪製工作流程。
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Layer stack > Managing layers
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 管理層級
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
-
 ---
-
 
 # 管理層級
 

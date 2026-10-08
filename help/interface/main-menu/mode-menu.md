@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/interface/main-menu/mode-menu.html'
 breadcrumb-title: ''
 description: 學習如何使用 Substance 3D Painter 中的模式選單，切換不同的應用程式模式與工作流程。
-helpx_creative_field: ''
-helpx_description: Painter > Interface > Main menu > Mode menu
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 模式選單
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 7b5f6e6c9623cb51253b6e49c8dbcbb22856418c
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 1%
-
 ---
-
 
 # 模式選單
 

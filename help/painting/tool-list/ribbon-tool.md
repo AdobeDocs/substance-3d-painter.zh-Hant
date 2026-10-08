@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/ribbon-tool.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 使用 Substance 3D Painter 中的 Ribbon 工具，沿著路徑繪製類似緞帶的筆觸，進行裝飾性材質繪製。
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 帶狀路徑
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1139'
 ht-degree: 0%
-
 ---
-
 
 # 帶狀路徑
 

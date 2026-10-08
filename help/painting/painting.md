@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中直接將貼圖繪製到3D模型上，使用各種畫筆、工具和技巧。
-helpx_creative_field: ""
-helpx_description: Painter > Painting
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 繪畫
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 1%
-
 ---
-
 
 # 繪畫
 

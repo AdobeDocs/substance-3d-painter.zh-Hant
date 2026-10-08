@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-has-outdated-drivers.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何更新 Substance 3D Painter 的 GPU 驅動程式，以確保相容性與最佳渲染效能。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > GPU Issues > GPU has outdated drivers
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: GPU 的驅動程式過時了
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
-
 ---
-
 
 # GPU 的驅動程式過時了
 

@@ -1,28 +1,20 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api/libraries-shader-api/lib-random-shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 存取 Substance 3D Painter 的 Lib Random shader API 參考，以便在自訂著色器開發中產生隨機值。
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API > Libraries - Shader API > Lib Random - Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Lib Random - 著色器 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
-
 ---
-
 
 # Lib Random - 著色器 API
 
 ## lib-random.glsl
 
-**公共函數：** getBlueNoiseThreshold **&#x200B; getBlueNoiseThreshold temporal &#x200B;** fibonacci1D **&#x200B; fibonacci2D &#x200B;** fibonacci2D itheredTemporal **
+**公共函數：** getBlueNoiseThreshold ** getBlueNoiseThreshold temporal ** fibonacci1D ** fibonacci2D ** fibonacci2D itheredTemporal **
 
 從函式庫匯入
 

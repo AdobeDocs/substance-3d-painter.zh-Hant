@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/interface/project-configuration.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定專案設定，以設定材質解析度、通道和專案屬性。
-helpx_creative_field: ''
-helpx_description: Painter > Interface > Project configuration
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 專案配置
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 3e4ef9bd5897f042b01d6c0819ec06cc21ba208a
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '839'
 ht-degree: 0%
-
 ---
-
 
 # 專案配置
 
@@ -41,7 +33,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 如果在重新匯入專案網格時材質 ID 改變或被重新命名，專案中先前的貼圖集可能會被停用，導致看起來像是缺少貼圖。 這可以透過材質集合列表中&#x200B;**的重新指派視窗**&#x200B;[&#128279;](texture-set/texture-set-reassignment.md)來修正。
+> 如果在重新匯入專案網格時材質 ID 改變或被重新命名，專案中先前的貼圖集可能會被停用，導致看起來像是缺少貼圖。 這可以透過材質集合列表中&#x200B;**的重新指派視窗**](texture-set/texture-set-reassignment.md)來修正[。
 
 ## 專案設定
 

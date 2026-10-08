@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/dynamic-strokes/dynamic-stroke-performances.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 了解 Substance 3D Painter 中動態筆觸效能的考量，以優化筆觸渲染與反應速度。
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Dynamic strokes > Dynamic Stroke Performances
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 動態擊球表現
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '995'
 ht-degree: 0%
-
 ---
-
 
 # 動態擊球表現
 
@@ -45,7 +37,7 @@ ht-degree: 0%
 * **每筆**  隨機種子：為當前筆觸創造獨特的隨機種子。 這在印章數量不多但每次筆劃都需要新變化時很有用（例如噴漆效果）。
 * **靜態隨機種子**  ：物質生成一次，且永遠不會改變。 這在表演上最理想，但根據你的需求可能會太限制。
 
-那時間&#x200B;**&#x200B;**（$time）呢？\
+那時間&#x200B;****（$time）呢？\
 時間對於製作非常具體的外觀很有幫助，但實際上是物質圖中最昂貴的變數之一。 原因是要從一個筆觸到另一個筆觸取得相似的數值非常困難，因此筆刷引擎很可能會不斷產生新的變化。 如果可以避免，建議用間距和印花索引，兩者結合起來可能會有類似的效果。
 
 ## StampIndex 與 StampCycleCount 的使用

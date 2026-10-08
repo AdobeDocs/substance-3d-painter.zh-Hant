@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/resource-management/preferences-and-content-migration.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中遷移偏好與內容，以升級或遷移至新系統。
-helpx_creative_field: ""
-helpx_description: Painter > Pipeline and integration > Resource management > Preferences and content migration
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 偏好與內容遷移
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
-
 ---
-
 
 # 偏好與內容遷移
 
@@ -66,4 +58,4 @@ ht-degree: 0%
 
 我們建議你從介面手動重新調整應用程式設定。 這是最安全的方式來遷移資訊，且不會引發相容性問題。
 
-否則，請參考以下頁面了解偏好設定現在的位置： [偏好設定與應用程式資料位置](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)。
+否則，請參考以下頁面了解偏好設定現在的位置： [偏好設定與應用程式資料位置](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/application-preferences-location-147095594.html)。

@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/effects/paint.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中使用 Paint 效果，將筆觸和材質繪製效果套用到圖層上。
-helpx_creative_field: ""
-helpx_description: Painter > Features > Effects > Paint
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 塗料
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 4%
-
 ---
-
 
 # 塗料
 

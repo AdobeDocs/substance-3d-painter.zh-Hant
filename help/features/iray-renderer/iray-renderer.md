@@ -1,28 +1,20 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/iray-renderer.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中使用 Iray 渲染器來製作寫實材質預覽與渲染。
-helpx_creative_field: ""
-helpx_description: Painter > Features > Iray Renderer
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Iray 渲染器
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
-
 ---
-
 
 # Iray 渲染器
 
 ![](../../assets/iray-mode.jpg){width="600px"}
 
-**Iray** 是由 Nvidia[&#128279;](http://www.nvidia.com/object/nvidia-iray.html) 開發的 GPU 加速路徑追蹤渲染器。\
+**Iray** 是由 Nvidia](http://www.nvidia.com/object/nvidia-iray.html) 開發[的 GPU 加速路徑追蹤渲染器。\
 透過 Iray，可以在場景中創造出極高的光照精度，且能以高解析度（高解析度）呈現。
 
 ## Iray 模式

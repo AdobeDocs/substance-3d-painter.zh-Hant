@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/configuration/command-lines.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何使用 Substance 3D Painter 進行指令列參數的自動化、腳本編寫及管線整合。
-helpx_creative_field: ""
-helpx_description: Painter > Pipeline and integration > Configuration > Command lines
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 指令列
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 22871eab2f25d09bd82f1292d8b3e5f8c4f1c2cf
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
-
 ---
-
 
 # 指令列
 

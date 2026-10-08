@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/layer-instancing.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中使用圖層實例化，以有效地在多個貼圖集間重複使用圖層。
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Layer stack > Layer instancing
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 層實例化
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
-
 ---
-
 
 # 層實例化
 
@@ -91,11 +83,11 @@ ht-degree: 0%
 點擊實例屬性按鈕時，它會將屬性視窗&#x200B;**從目前的工具/圖層切換**&#x200B;到&#x200B;**顯示來源圖層及其實例的清單**。\
 點擊  **列表中任一元素**  即可自動  **跳轉至此層**  。 這會自動&#x200B;**將目前**&#x200B;選取&#x200B;**的材質集改**&#x200B;成正確的。
 
-使用&#x200B;**實例樹**&#x200B;清單是快速&#x200B;**&#x200B;**&#x200B;從實例到來源，同時同時看到&#x200B;**相依關係**&#x200B;的最佳方式。
+使用&#x200B;**實例樹**&#x200B;清單是快速&#x200B;****&#x200B;從實例到來源，同時同時看到&#x200B;**相依關係**&#x200B;的最佳方式。
 
 ## 實例循環（以及如何解決它們）
 
-循環是直接或間接地直接或間接地被用於來源層的實例。 **循環無法被 Substance 3D Painter 引擎計算**，因此必須停用&#x200B;**&#x200B;**，直到修復或移除。
+循環是直接或間接地直接或間接地被用於來源層的實例。 **循環無法被 Substance 3D Painter 引擎計算**，因此必須停用&#x200B;****，直到修復或移除。
 
 範例：\
 ![](../../assets/instance-cycle-optim.gif)

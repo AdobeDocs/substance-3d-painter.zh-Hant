@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/stability-issues/crash-during-export.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何修復 Substance 3D Painter 在匯出作業中當機，以實現可靠的貼圖匯出工作流程。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Stability Issues > Crash during export
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 出口時崩潰
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
-
 ---
-
 
 # 出口時崩潰
 
@@ -26,7 +18,7 @@ ht-degree: 0%
 
 逾時偵測與恢復（TDR）是 Microsoft Windows 的一種安全機制，用來防止 GPU 在無止盡的計算中鎖死系統。 這個機制對 Substance 3D Painter 來說預設限制過多。
 
-更多資訊請參見：[GPU 驅動程式因長時間計算而當機（TDR 當機）。](https://helpx.adobe.com/tw/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+更多資訊請參見：[GPU 驅動程式因長時間計算而當機（TDR 當機）。](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
 
 ## 低虛擬記憶體
 

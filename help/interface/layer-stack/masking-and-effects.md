@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/masking-and-effects.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 圖層堆疊中使用遮罩和效果，來控制圖層可見性並套用圖層效果。
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Layer stack > Masking and effects
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 遮蔽與效果
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
-
 ---
-
 
 # 遮蔽與效果
 
@@ -32,7 +24,7 @@ ht-degree: 0%
 
 * 你可以想像遮罩本身在縮圖上用 **ALT + 左鍵點擊** 。 它會將視窗切換到遮罩的隔離視圖。 此操作也可透過檢視器設定使用。
 * 你可以用 SHIFT + 左鍵點擊&#x200B;**遮罩**&#x200B;的縮圖暫時停用。重新執行同樣的操作來重新啟用。 此操作也可透過右鍵選單（「切換遮罩」）使用。
-* 你可以透過&#x200B;**右鍵點擊 > 複製遮罩內容**&#x200B;**到另一個遮罩，然後右鍵點擊 > 貼到**&#x200B;第二個遮罩的縮圖上。
+* 你可以透過&#x200B;**右鍵點擊 > 複製遮罩內容****到另一個遮罩，然後右鍵點擊 > 貼到**&#x200B;第二個遮罩的縮圖上。
 * 你可以透過右 **鍵點擊 > 反轉遮罩背景來反轉遮罩的背景**。 如果你想避免破壞面具附帶的效果，這很有用。
 
 >[!WARNING]

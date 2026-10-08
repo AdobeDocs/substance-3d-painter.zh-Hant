@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/advanced-channel-painting/normal-map-painting.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中直接繪製法線貼圖，為材質增添表面細節和深度。
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Advanced channel painting > Normal Map Painting
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 法線貼圖繪製
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '553'
 ht-degree: 0%
-
 ---
-
 
 # 法線貼圖繪製
 
@@ -30,7 +22,7 @@ ht-degree: 0%
 1. 在目前繪畫工具中啟用法線通道
 1. 在目前繪畫工具的材質區塊的普通欄位載入一個普通資源。
 
-從那裡開始，使用法線貼圖繪製與高度貼圖繪製[&#128279;](height-map-painting.md)非常相似，但多了烘焙法線的精準度。
+從那裡開始，使用法線貼圖繪製與高度貼圖繪製](height-map-painting.md)非常相似[，但多了烘焙法線的精準度。
 
 ![](../../assets/normal-painting.gif)
 
@@ -59,7 +51,7 @@ Substance 3D Painter 的專案預設設定不允許這樣做，因為它會分�
 
 ### 1 - 更改材質集混合模式
 
-預設情況下，會建立一個貼圖集，並將&#x200B;**一般混音**&#x200B;設定設為合併&#x200B;**&#x200B;**。
+預設情況下，會建立一個貼圖集，並將&#x200B;**一般混音**&#x200B;設定設為合併&#x200B;****。
 
 為了覆蓋或繪製法線貼圖，重要的是將此設定設為  **替換**  。 法線貼圖會從視窗中消失，這是預期中的。 將此模式改為  **替換**  表示 Substance 3D Painter 在產生最終法線貼圖時，只考慮法線通道和高度通道。
 

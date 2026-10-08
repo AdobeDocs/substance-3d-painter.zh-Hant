@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/baking.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中烘焙網格貼圖，以產生環境遮蔽、曲率及其他幾何材質。
-helpx_creative_field: ''
-helpx_description: Painter > Baking
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 烘焙
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 7b5f6e6c9623cb51253b6e49c8dbcbb22856418c
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
-
 ---
-
 
 # 烘焙
 
@@ -37,4 +29,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 想更了解烘焙的知識，可以參考專門的 [烘焙說明](https://experienceleague.adobe.com/zh-hant/docs/substance-3d/bakers/home)。
+> 想更了解烘焙的知識，可以參考專門的 [烘焙說明](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)。

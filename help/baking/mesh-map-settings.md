@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/baking/mesh-map-settings.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定網格貼圖設定，以控制烘焙參數和輸出品質。
-helpx_creative_field: ''
-helpx_description: Substance 3D Painter
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 網格貼圖設定
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 7b5f6e6c9623cb51253b6e49c8dbcbb22856418c
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1348'
 ht-degree: 0%
-
 ---
-
 
 # 網格貼圖設定
 

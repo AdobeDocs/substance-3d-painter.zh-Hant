@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/exporting-a-dxdiag.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何從 Substance 3D Painter for Windows 的故障排除與支援中匯出 DXDiag 系統資訊。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Exporting a DXDiag
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 匯出 DXDiag
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
-
 ---
-
 
 # 匯出 DXDiag
 

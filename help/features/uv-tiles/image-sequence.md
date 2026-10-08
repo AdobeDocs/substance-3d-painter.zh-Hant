@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/uv-tiles/image-sequence.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中使用帶有 UV 圖塊的影像序列來製作動畫貼圖工作流程。
-helpx_creative_field: ""
-helpx_description: Painter > Features > UV Tiles > Image Sequence
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 影像序列
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 8b892d2d6c9d0f1a3b5d9d3ab9b180a7c2770a83
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
-
 ---
-
 
 # 影像序列
 
@@ -53,4 +45,4 @@ ht-degree: 0%
 
 影像序列可以像其他資源一樣載入介面中的任何資源槽。 不過在某些情況下，它們可能需要額外的設定才能正確使用。
 
-在填充圖層（以及填充效果）中[&#128279;](../../painting/fill-projections/fill-projections.md)，請確保投影模式設定為&#x200B;**填充（Match Each UV Tile），**&#x200B;以確保序列中的每個影像都被分配到貼圖集中的正確 [UV 圖塊](uv-tiles.md)。
+在填充圖層（以及填充效果）中[，請確保投影模式設定為&#x200B;**填充（Match Each UV Tile），**&#x200B;以確保序列中的每個影像都被分配到貼圖集中的正確 [UV 圖塊](uv-tiles.md)。](../../painting/fill-projections/fill-projections.md)

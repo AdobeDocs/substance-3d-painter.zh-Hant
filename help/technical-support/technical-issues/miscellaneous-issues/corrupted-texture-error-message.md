@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/corrupted-texture-error-message.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何修復 Substance 3D Painter 中損壞的貼圖錯誤訊息，以恢復貼圖功能。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Miscellaneous Issues > Corrupted texture error message
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 材質錯誤訊息損壞
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
 
 # 材質錯誤訊息損壞
 
@@ -48,7 +40,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> * 在烘焙材質的外殼裡，別忘了也清空 Texture Set[&#128279;](../../../interface/texture-set/texture-set-settings.md) 視窗裡的 Mesh Maps 欄位。
+> * 在烘焙材質的外殼裡，別忘了也清空 Texture Set](../../../interface/texture-set/texture-set-settings.md) 視窗裡[的 Mesh Maps 欄位。
 > * 只在貼圖集設定中使用的烘焙，例如法線貼圖，也可能因此損壞。 如果錯誤依舊，也試著移除它們。
 
 ### 3 - 清理

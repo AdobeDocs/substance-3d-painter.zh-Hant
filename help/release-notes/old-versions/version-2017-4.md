@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/old-versions/version-2017-4.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 查看 Substance 3D Painter 2017.4 版本的發行說明，了解新功能、改進與錯誤修正。
-helpx_creative_field: ""
-helpx_description: Painter > Release notes > Old versions > Version 2017.4
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 版本 2017.4
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
-
 ---
-
 
 # 版本 2017.4
 
@@ -30,7 +22,7 @@ ht-degree: 0%
 
 ![](../../assets/instancing.jpg)
 
-**圖層實例**&#x200B;化是一種新系統，允許在其他圖層與紋理集&#x200B;**間保持**&#x200B;同步&#x200B;**的圖層**&#x200B;參數&#x200B;**&#x200B;**。建立圖層實例時，原始圖層會成為 **來源** ，除非連結斷開，否則實例會 **持續更新** 。 實例化圖層是&#x200B;**&#x200B;**&#x200B;快速&#x200B;**點擊素材貼圖**&#x200B;的好方法，省去來回更新圖層。要輕鬆貼圖資產，只要 **在其他材質集間實例化一個資料夾** ，放入智慧材質或其他圖層，它就會立即複製 **到各處** 。
+**圖層實例**&#x200B;化是一種新系統，允許在其他圖層與紋理集&#x200B;**間保持**&#x200B;同步&#x200B;**的圖層**&#x200B;參數&#x200B;****。建立圖層實例時，原始圖層會成為 **來源** ，除非連結斷開，否則實例會 **持續更新** 。 實例化圖層是&#x200B;****&#x200B;快速&#x200B;**點擊素材貼圖**&#x200B;的好方法，省去來回更新圖層。要輕鬆貼圖資產，只要 **在其他材質集間實例化一個資料夾** ，放入智慧材質或其他圖層，它就會立即複製 **到各處** 。
 
 建立實例有兩種方式：
 
@@ -52,7 +44,7 @@ ht-degree: 0%
 
 ![](../../assets/livelink.jpg)
 
-我們&#x200B;**原本的 live link 外掛**&#x200B;測試版現在已經整合&#x200B;**&#x200B;**&#x200B;進 Substance Painter。我們藉此機會支援了 Unreal Engine 4，現在它能自動將專案結果放入引擎。
+我們&#x200B;**原本的 live link 外掛**&#x200B;測試版現在已經整合&#x200B;****&#x200B;進 Substance Painter。我們藉此機會支援了 Unreal Engine 4，現在它能自動將專案結果放入引擎。
 
 要將應用程式 **連接到 Unreal Engine 4** （至少需要版本 **4.18** ），請在此下載 Substance 插件： <https://www.unrealengine.com/marketplace/substance-plugin>
 
@@ -97,7 +89,7 @@ ht-degree: 0%
 * [腳本操作]匯出貼圖時加入前後回調函數
 * [Iray]升級至 SDK 2017.1（支援 Volta GPU）
 
-**&#x200B;**&#x200B;修正：**&#x200B;**
+****修正：****
 
 * 在主視窗顯示前退出應用程式時會當機
 * [MAC]載入 IRAY 灰階地圖時當機
