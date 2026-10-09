@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/warp-projection.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 在 Substance 3D Painter 中使用扭曲投影來投影帶有變形效果的貼圖，進行創意貼圖繪製。
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Fill projections > Warp projection
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 曲速投影
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 5ab9709e1630071fddf0db0f03a292e92b84b31f
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1859'
 ht-degree: 1%
-
 ---
-
 
 # 曲速投影
 

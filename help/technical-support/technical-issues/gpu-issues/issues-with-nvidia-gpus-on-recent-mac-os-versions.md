@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/gpu-issues/issues-with-nvidia-gpus-on-recent-mac-os-versions.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中解決 Nvidia GPU 在近期 macOS 版本上的相容性問題，以達到穩定的效能。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > GPU Issues > Issues with Nvidia GPUs on recent Mac OS versions
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 近期 Mac OS 版本中 Nvidia GPU 的問題
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
-
 ---
-
 
 # 近期 Mac OS 版本中 Nvidia GPU 的問題
 

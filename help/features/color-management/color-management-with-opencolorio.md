@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/color-management/color-management-with-opencolorio.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中使用 OpenColorIO 色彩管理，以實現跨管線的色彩工作流程一致。
-helpx_creative_field: ""
-helpx_description: Painter > Features > Color management > Color management with OpenColorIO
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: OpenColorIO 的色彩管理
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 0%
-
 ---
-
 
 # OpenColorIO 的色彩管理
 

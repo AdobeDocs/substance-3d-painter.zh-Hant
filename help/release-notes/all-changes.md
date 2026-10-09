@@ -1,17 +1,11 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/release-notes/all-changes.html'
 breadcrumb-title: ''
 description: 檢視 Substance 3D Painter 版本的所有變更與更新，以追蹤功能隨時間的演進與改進。
-helpx_creative_field: ''
-helpx_description: Painter > Release notes > All Changes
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 所有變動
 user-guide-description: ''
 user-guide-title: ''
 hold: false
-source-git-commit: a652271a4b12d9c27513ebc4d5974fa87da29580
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '34065'
 ht-degree: 0%

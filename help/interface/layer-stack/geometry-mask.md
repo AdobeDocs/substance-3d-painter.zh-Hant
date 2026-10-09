@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/layer-stack/geometry-mask.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中使用幾何遮罩，根據網格幾何和表面屬性來遮罩圖層。
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Layer stack > Geometry mask
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 幾何遮罩
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
-
 ---
-
 
 # 幾何遮罩
 

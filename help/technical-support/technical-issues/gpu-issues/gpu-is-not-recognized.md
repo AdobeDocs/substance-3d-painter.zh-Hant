@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-is-not-recognized.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中修復 GPU 識別問題，以啟用正確的硬體加速與效能。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > GPU Issues > GPU is not recognized
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: GPU 未被識別
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
-
 ---
-
 
 # GPU 未被識別
 

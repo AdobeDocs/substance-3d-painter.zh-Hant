@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/spacemouse-by-3dconnexion.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 透過 3Dconnexion 搭配 Substance 3D Painter，學習如何使用 SpaceMouse，以提升 3D 導航與視窗控制。
-helpx_creative_field: ""
-helpx_description: Painter > Features > SpaceMouse by 3Dconnexion
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 3Dconnexion 的 SpaceMouse
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '629'
 ht-degree: 1%
-
 ---
-
 
 # 3Dconnexion 的 SpaceMouse®
 

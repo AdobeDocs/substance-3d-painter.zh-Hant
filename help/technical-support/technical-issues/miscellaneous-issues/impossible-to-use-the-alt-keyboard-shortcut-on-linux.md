@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/impossible-to-use-the-alt-keyboard-shortcut-on-linux.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中解決 Linux 上 ALT 鍵盤快捷鍵的問題，以正確操作鍵盤。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Miscellaneous Issues > Impossible to use the ALT keyboard shortcut on Linux
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Linux 上無法使用 ALT 鍵盤快捷鍵
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
-
 ---
-
 
 # Linux 上無法使用 ALT 鍵盤快捷鍵
 

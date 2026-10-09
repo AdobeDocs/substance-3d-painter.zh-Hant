@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/resource-management/excluding-resources-in-a-resource-path.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中排除特定資源，以改善書架組織。
-helpx_creative_field: ""
-helpx_description: Painter > Pipeline and integration > Resource management > Excluding resources in a resource path
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 排除資源路徑中的資源
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 22871eab2f25d09bd82f1292d8b3e5f8c4f1c2cf
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 0%
-
 ---
-
 
 # 排除資源路徑中的資源
 

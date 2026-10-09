@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/presets.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中使用和管理筆刷預設，以簡化你的材質繪製工作流程。
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Presets
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 預設集
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 74302172ee8f5a7da56adf3378ccf5fe2c88ee83
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 1%
-
 ---
-
 
 # 預設集
 

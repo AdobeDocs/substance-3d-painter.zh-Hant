@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/scripting-and-development/api-reference/shader-api.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 存取 Substance 3D Painter 的 Shader API 參考，建立自訂著色器並擴充渲染功能。
-helpx_creative_field: ""
-helpx_description: Painter > Scripting and development > API Reference > Shader API
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 著色器 API
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '702'
 ht-degree: 0%
-
 ---
-
 
 # 著色器 API
 

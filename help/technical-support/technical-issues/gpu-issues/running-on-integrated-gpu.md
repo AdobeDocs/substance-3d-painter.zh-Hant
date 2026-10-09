@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/gpu-issues/running-on-integrated-gpu.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何將 Substance 3D Painter 設定為專用 GPU 而非整合顯示卡，以提升效能。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > GPU Issues > Running on integrated GPU
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 運行於整合式 GPU 上
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
-
 ---
-
 
 # 運行於整合式 GPU 上
 

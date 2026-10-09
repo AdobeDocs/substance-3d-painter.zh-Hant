@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/rendering-issues/some-hdpi-scaling-values-are-not-working.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中修正 HDPI 縮放值問題，以獲得適當的高解析度顯示支援。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Rendering Issues > Some HDPI scaling values are not working
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 有些 HDPI 的縮放值無法正常運作
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
-
 ---
-
 
 # 有些 HDPI 的縮放值無法正常運作
 

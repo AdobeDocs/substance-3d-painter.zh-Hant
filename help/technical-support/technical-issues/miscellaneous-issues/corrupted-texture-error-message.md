@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/miscellaneous-issues/corrupted-texture-error-message.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何修復 Substance 3D Painter 中損壞的貼圖錯誤訊息，以恢復貼圖功能。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > Miscellaneous Issues > Corrupted texture error message
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 材質錯誤訊息損壞
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
-
 ---
-
 
 # 材質錯誤訊息損壞
 

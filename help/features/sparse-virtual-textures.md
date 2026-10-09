@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/features/sparse-virtual-textures.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中使用稀疏虛擬貼圖，以高效處理超高解析度貼圖。
-helpx_creative_field: ""
-helpx_description: Painter > Features > Sparse Virtual Textures
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 稀疏虛擬貼圖
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '748'
 ht-degree: 0%
-
 ---
-
 
 # 稀疏虛擬貼圖
 

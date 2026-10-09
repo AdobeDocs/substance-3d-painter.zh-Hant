@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/pipeline-and-integration/installation-and-preferences/preferences-and-application-data-location.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 了解 Substance 3D Painter 的偏好設定與應用程式資料位置，以管理設定與使用者資料。
-helpx_creative_field: ""
-helpx_description: Painter > Pipeline and integration > Installation and preferences > Preferences and application data location
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 偏好設定與應用程式資料位置
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 1%
-
 ---
-
 
 # 偏好設定與應用程式資料位置
 

@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/presets/photoshop-brush-presets-abr/photoshop-brush-parameters-compatibility.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 在 Substance 3D Painter 匯入 ABR 筆刷預設時，了解 Photoshop 筆刷參數的相容性。
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Presets > Photoshop Brush Presets (ABR) > Photoshop Brush Parameters Compatibility
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Photoshop 筆刷參數相容性
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '645'
 ht-degree: 0%
-
 ---
-
 
 # Photoshop 筆刷參數相容性
 

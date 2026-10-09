@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/main-menu/edit-menu.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何使用 Substance 3D Painter 的編輯選單來進行復原、重做和編輯操作。
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Main menu > Edit menu
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 編輯選單
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%
-
 ---
-
 
 # 編輯選單
 

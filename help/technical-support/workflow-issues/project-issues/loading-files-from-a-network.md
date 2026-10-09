@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/project-issues/loading-files-from-a-network.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中從網路磁碟載入檔案，以存取共享資源與專案。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Workflow Issues > Project Issues > Loading files from a network
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 從網路載入檔案
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
-
 ---
-
 
 # 從網路載入檔案
 

@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/tools-issues/paint-tool-bleeds-on-other-uv-islands.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中修正繪圖工具在 UV 島上的滲透問題，以維持乾淨的貼圖邊界。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Workflow Issues > Tools Issues > Paint Tool bleeds on other UV islands
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Paint Tool 在其他 UV 島嶼上會滲色
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
-
 ---
-
 
 # Paint Tool 在其他 UV 島嶼上會滲色
 

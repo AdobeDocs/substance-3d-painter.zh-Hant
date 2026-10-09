@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/interface/toolbars.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何使用並自訂 Substance 3D Painter 的工具列，以有效存取工具與功能。
-helpx_creative_field: ""
-helpx_description: Painter > Interface > Toolbars
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 工具列
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
-
 ---
-
 
 # 工具列
 

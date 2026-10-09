@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/getting-started.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 從學習專案創建、介面導航和貼圖繪製工作流程的基礎開始，開始使用 Substance 3D Painter。
-helpx_creative_field: ""
-helpx_description: Painter > Getting Started
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 入門
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 1%
-
 ---
-
 
 # 入門
 

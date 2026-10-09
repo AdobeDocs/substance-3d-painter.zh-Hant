@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/content/importing-assets/receiving-assets-from-other-substance-3d-applications.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何從其他 Substance 3D 應用程式接收並匯入素材到 Substance 3D Painter，實現無縫的工作流程。
-helpx_creative_field: ""
-helpx_description: Painter > Content > Importing assets > Receiving assets from other Substance 3D applications
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 從其他 Substance 3D 應用程式接收資產
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
-
 ---
-
 
 # 從其他 Substance 3D 應用程式接收資產
 

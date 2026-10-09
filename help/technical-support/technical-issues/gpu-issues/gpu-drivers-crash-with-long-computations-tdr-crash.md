@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/technical-issues/gpu-issues/gpu-drivers-crash-with-long-computations-tdr-crash.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何在 Substance 3D Painter 中修復 GPU 驅動程式在長時間計算時當機，以防止 TDR 逾時錯誤。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Technical Issues > GPU Issues > GPU drivers crash with long computations (TDR crash)
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: GPU 驅動程式在長時間計算時會當機（TDR 當機）
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
-
 ---
-
 
 # GPU 驅動程式在長時間計算時會當機（TDR 當機）
 

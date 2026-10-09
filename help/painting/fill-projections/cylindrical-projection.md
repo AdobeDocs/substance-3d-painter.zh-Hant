@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/cylindrical-projection.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 在 Substance 3D Painter 中使用圓柱投影，從圓柱體投影貼圖，將貼圖包裹在圓柱形物件上。
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Fill projections > Cylindrical projection
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 圓柱投影
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 67d4a1ed7e1c56a6dc58940efe620a06c159064e
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1117'
 ht-degree: 1%
-
 ---
-
 
 # 圓柱投影
 

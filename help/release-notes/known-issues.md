@@ -1,16 +1,10 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/release-notes/know-issues.html"
 breadcrumb-title: ""
 description: 檢視 Substance 3D Painter 已知的問題，以掌握最新版本的限制與解決方法。
-helpx_creative_field: ""
-helpx_description: Substance 3D Painter
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 已知問題
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: a652271a4b12d9c27513ebc4d5974fa87da29580
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 0%

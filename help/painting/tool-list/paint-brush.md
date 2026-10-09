@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/paint-brush.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 使用 Substance 3D Painter 中的 Paint Brush 工具，直接將貼圖繪製到可自訂的 3D 模型上。
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Tool list > Paint brush
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 畫筆
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: c20714f4cef21ccca0cdcd45dcdfd5ca6f4b96f2
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1308'
 ht-degree: 0%
-
 ---
-
 
 # 畫筆
 

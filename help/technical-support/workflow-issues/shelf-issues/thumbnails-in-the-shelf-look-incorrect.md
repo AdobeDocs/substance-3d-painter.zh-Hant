@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/technical-support/workflow-issues/shelf-issues/thumbnails-in-the-shelf-look-incorrect.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 學習如何修正 Substance 3D Painter 書架中錯誤的縮圖顯示，以確保資源預覽的準確度。
-helpx_creative_field: ""
-helpx_description: Painter > Technical support > Workflow Issues > Shelf Issues > Thumbnails in the shelf look incorrect
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 架子上的縮圖看起來不對
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
-
 ---
-
 
 # 架子上的縮圖看起來不對
 

@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/interface/project-configuration.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中設定專案設定，以設定材質解析度、通道和專案屬性。
-helpx_creative_field: ''
-helpx_description: Painter > Interface > Project configuration
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 專案配置
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 3e4ef9bd5897f042b01d6c0819ec06cc21ba208a
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '839'
 ht-degree: 0%
-
 ---
-
 
 # 專案配置
 

@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/interface/settings/shortcuts.html'
 breadcrumb-title: ''
 description: 學習如何在 Substance 3D Painter 中自訂鍵盤快捷鍵，以簡化工作流程並提升效率。
-helpx_creative_field: ''
-helpx_description: Painter > Interface > Settings > Shortcuts
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 捷徑
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 7b5f6e6c9623cb51253b6e49c8dbcbb22856418c
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1369'
 ht-degree: 4%
-
 ---
-
 
 # 捷徑
 

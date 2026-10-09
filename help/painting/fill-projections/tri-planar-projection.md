@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/tri-planar-projection.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 在 Substance 3D Painter 中使用三平面投影，從三個正交平面投影貼圖，實現無縫覆蓋。
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Fill projections > Tri-planar projection
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 三平面投影
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1091'
 ht-degree: 1%
-
 ---
-
 
 # 三平面投影
 

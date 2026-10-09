@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/home.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 開始使用 Substance 3D Painter，直接在 3D 模型上繪製貼圖，創造逼真的材質表面。
-helpx_creative_field: ""
-helpx_description: Painter > Home
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: Substance 3D Painter
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 9f20406f682e0e6a2e9a423e81c5ecfc7430ecfd
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 2%
-
 ---
-
 
 # Substance 3D Painter
 

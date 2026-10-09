@@ -1,22 +1,14 @@
 ---
-helpx_url: 'https://helpx.adobe.com/tw/substance-3d-painter/painting/tool-list/path.html'
 breadcrumb-title: ''
 description: 使用 Substance 3D Painter 中的路徑工具來建立和編輯路徑，進行精準的貼圖繪製與筆觸放置。
-helpx_creative_field: ''
-helpx_description: Painting > Path tools list > Path tool
-helpx_experience_level: ''
-helpx_learn_topic: ''
-helpx_tags: ''
 title: 路徑工具概述
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 6fcf10add7086a0e2a070ee6046c0a261ef1ae34
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '1666'
 ht-degree: 0%
-
 ---
-
 
 # 路徑工具概述
 

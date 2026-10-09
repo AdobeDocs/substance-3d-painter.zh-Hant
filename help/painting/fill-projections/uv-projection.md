@@ -1,22 +1,14 @@
 ---
-helpx_url: "https://helpx.adobe.com/tw/substance-3d-painter/painting/fill-projections/uv-projection.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 在 Substance 3D Painter 中使用 UV 投影，根據 UV 座標投影貼圖，進行精確的貼圖擺放。
-helpx_creative_field: ""
-helpx_description: Painter > Painting > Fill projections > UV projection
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: 紫外線投影
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 2903c7fdf6a9fe0da149b61fa9064033bb88926a
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
 workflow-type: tm+mt
 source-wordcount: '788'
 ht-degree: 1%
-
 ---
-
 
 # 紫外線投影
 
