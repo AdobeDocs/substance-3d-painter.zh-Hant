@@ -57,7 +57,7 @@ ht-degree: 0%
 
 * 許多 Substance 應用程式依賴 OpenSSL 1.1.1 來相容 RHEL8/9。 對於使用較新版本 OpenSSL 的系統，客戶需手動提供
 * 在舒適環境下工作時，我們建議使用垂直解析度超過 1000 像素且寬度超過 1280 像素的螢幕。
-* 要以 8K **（8192/*8192 像素）匯**&#x200B;出，需要一顆超過 **** 2GB VRam 的 GPU。
+* 要以 8K **（8192/*8192 像素）匯**&#x200B;出，需要一顆超過 **&#x200B;**&#x200B;2GB VRam 的 GPU。
 * 只有 2019.x 及以上版本經過公證，才能在 MacOS 10.15（Catalina）上運行。
 * 若要透過遠端桌面（RDP）使用該軟體，請參閱專門的文件 [頁面](../pipeline-and-integration/configuration/remote-desktop.md)。
 * Ryzen CPU 烘焙時會當機，可以透過更新 BIOS 來解決。
@@ -166,7 +166,7 @@ ht-degree: 0%
 
 ## 支援的 3Dconnexion SpaceMouse 模型
 
-以下是已在 Substance 3D Painter 8.1 版本&#x200B;**測試過的 3Dconnection 太空滑鼠](https://3dconnexion.com/us/spacemouse/)相容驅動版本[列表。**
+以下是已在 Substance 3D Painter 8.1 版本&#x200B;**測試過的 3Dconnection 太空滑鼠[&#128279;](https://3dconnexion.com/us/spacemouse/)相容驅動版本列表。**
 
 驅動版本適用於 **緊湊型**、 **專業** 版及 **企業** 版。
 
