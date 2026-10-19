@@ -107,7 +107,7 @@ ht-degree: 0%
 
 **DXR** 也要求以下最低配置：
 
-* **Windows 10** 版本 1809，請參閱 [此頁面](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/features/gpu-raytracing) 以獲取更多資訊
+* **Windows 10** 版本 1809，請參閱 [此頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d/bakers/features/gpu-raytracing) 以獲取更多資訊
 * **採用 Pascal 架構** 的 GPU（Nvidia GeForce 10XX）
 
 >[!TIP]
