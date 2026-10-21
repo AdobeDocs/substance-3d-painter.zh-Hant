@@ -4,22 +4,20 @@ description: 檢視 Substance 3D Painter 已知的問題，以掌握最新版本
 title: 已知問題
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
+source-git-commit: 08fc43babcb6f7a9be61508748c4068b6bd0c8b6
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '932'
 ht-degree: 0%
 ---
 
 # 已知問題
 
-本頁列出 Substance 3D Painter v12.1.5 中所有已知的活躍問題：
+本頁列出 Substance 3D Painter v12.2.0 中所有已知的活躍問題：
 
 * `[Baking]` 簡單方塊上的AO錯誤
 * `[Baking]` 以姓名匹配後綴的解釋是錯誤的
 * `[Baking]` MES 重新進口後，UV 接縫就不會出現了
 * `[Baking]` 帶有某些設定的網格狀雜訊
-* `[Baking]` 環境遮蔽 忽略網格名稱的背面無法運作
-* `[Baking]`&#x200B;`[AMD]`在使用高多邊形網格烘焙時，裝置會遺失
 
 * `[Substance]` 資源中多次拼寫錯誤
 * `[Substance]` 空白區破壞可見性條件
@@ -33,10 +31,6 @@ ht-degree: 0%
 * `[Color Management]` 與未用於遮罩的產生器不相容的綁定
 * `[Color Management]` 濾波器輸出未被妥善考慮
 * `[Color Management]` 在 Linux 上使用 ACE 進行 HDR 色彩空間轉換會產生壓縮色彩
-
-* `[USD]` 有些情況下是錯誤的 USDA 分配
-* `[USD]` 匯出的美元幾何體會沿著 UV 邊界滑動
-* `[USD]` 載入畸形 USDz 時會凍結
 
 * `[Shelf]` 如果資源被放在有特定名稱的資料夾裡，就會被錯誤使用。
 * `[Shelf]`&#x200B;`[Substance]`使用者資料未被考慮在架子縮圖產生時
@@ -52,6 +46,12 @@ ht-degree: 0%
 
 * `[Single Channel View]` 在 Painter 版本更新後，專案儲存在基礎色彩檢視中看起來變暗了
 * `[Single Channel View]` 在 Painter 版本更新後，專案儲存在基礎色彩檢視中看起來變暗了
+
+* `[Viewport]` 烘焙模式視窗底部的游標延遲
+* `[Viewport]` 將多邊形填充選取從一個視窗拖到另一個視窗可能會導致視窗延遲
+
+* `[Cage Painting]` 在一個UV島上繪畫時出現籠狀幾何洞
+* `[Cage Painting]` Mac 烘焙模式視窗的效能問題
 
 * `[gltf]` 無法打開透過 Babylon Exporter 匯出的檔案
 * `[Displacement]` 上色時的故障
@@ -89,12 +89,17 @@ ht-degree: 0%
 * `[User Channels]` 色彩混合空間預覽錯誤
 * `[Mask]` 切換到烘焙模式後，幾何選擇仍然有效
 * `[Sonoma]` 圖示不會出現在選單中
+* `[USD]` 有些情況下是錯誤的 USDA 分配
 * `[Polygon Fill]` 更改基底色的色彩空間不會更新色彩選擇器
 * `[UV Padding]` 在匯出時將貼圖從 4k 升頻到 8k 時出現的瑕疵
-* `[Performances]` Painter 會搶走 VRAM 的使用
 * `[FBX]` 比例問題
 * `[Texture set list]` UV 圖塊可以同時選擇貼圖集
-* `[Viewport]` 烘焙模式視窗底部的游標延遲
+* `[Paint Properties]` 在繪圖屬性視窗中右鍵點擊不會開啟預設的彈出選單
+* `[MACOS]`&#x200B;`[Subsurface Scattering]`記憶體雜訊與部分 SS 半徑刻度值
+* `[Mac]` 顯示設定中材質過濾產生的 Mipmap 偏差不會產生影響
+* `[Project]` 即使專案沒有被修改，關閉時也會出現儲存彈窗
+* `[Library]` Painter 有時會卡在產生環境地圖的縮圖
+* `[Windows]`&#x200B;`[Nvidia]`產生筆刷與材質預覽可產生 TDR
 * 非正方形資源在刷子通道槽中使用時會被拉伸
 * 未能解碼實質內容
 * 非完美疊加的紫外線可能會產生瑕疵
@@ -113,6 +118,7 @@ ht-degree: 0%
 * 從上下文工具列修改的筆刷參數不會出現在歷史紀錄中
 * 如果你這次已經刪除並重新建立匯出預設，就無法重新命名或刪除它
 * 在某些情況下，頻道映射無法用於投影工具預覽
+* 當「按名稱匹配」和「選取貼圖集」開啟時，網格匹配錯誤不會忽略其他高多邊形
 
 ## 穩定性
 

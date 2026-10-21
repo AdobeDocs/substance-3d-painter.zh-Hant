@@ -1,8 +1,7 @@
 ---
 title: 籠子繪畫
 description: 學習如何在烘焙過程中避免雜訊，並在 Substance 3D Painter 中進行籠子彩繪，並自訂籠子。
-hold: true
-source-git-commit: 8e09732a300f321ad8fc04883db7a338b8c6a5a7
+source-git-commit: 4fa8be7a1541a441d2476bc10ddddbed39c82366
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 0%
