@@ -21,4 +21,4 @@ ht-degree: 0%
 
 修正：
 
-* &amp;lbrack;Baking&amp;rbrack;在 Mac 烘焙模式下的視窗（cage painting）效能問題。
+* &lbrack;Baking&rbrack;在 Mac 烘焙模式下的視窗（cage painting）效能問題。
