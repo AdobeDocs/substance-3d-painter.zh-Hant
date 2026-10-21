@@ -76,7 +76,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 該工具支援與圖層堆疊中相同的混合模式。 更多資訊請參閱 [混合模式文件頁面](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/layer-stack/blending-modes)。
+> 該工具支援與圖層堆疊中相同的混合模式。 更多資訊請參閱 [混合模式文件頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/interface/layer-stack/blending-modes)。
 
 ### 材質
 
@@ -100,5 +100,5 @@ ht-degree: 0%
 此工具存在一些限制：
 
 * **多邊形迴圈填充** 和 **部分多邊形迴路填充** 只適用於四邊形，所以三角形和 n 邊形無法用這些模式填充。
-* **徑向對稱** 支撐也有限且可能不可靠。 使用對稱模式時，建議使用鏡像模式。 更多資訊請參閱 [對稱性文件頁面](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/painting/symmetry/symmetry) 。
+* **徑向對稱** 支撐也有限且可能不可靠。 使用對稱模式時，建議使用鏡像模式。 更多資訊請參閱 [對稱性文件頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/painting/symmetry/symmetry) 。
 * 該工具僅從啟用的貼圖集&#x200B;**填充幾何**&#x200B;體。該材質集會顯示線框，並在該啟用材質集變更時更新。

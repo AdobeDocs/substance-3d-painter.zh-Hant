@@ -94,7 +94,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 欲了解更多關於多邊形填充工具的&#x200B;**資訊，請參閱[專門的文件頁面](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/painting/paint-tools/polygon-fill)。**
+> 欲了解更多關於多邊形填充工具的&#x200B;**資訊，請參閱[專門的文件頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/painting/paint-tools/polygon-fill)。**
 
 ### 烘焙模式中的新籠子彩繪
 
@@ -158,7 +158,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 想了解更多烘焙相關資訊，請參考 [專門的文件頁面](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/baking/baking)。
+> 想了解更多烘焙相關資訊，請參考 [專門的文件頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/baking/baking)。
 
 ### 新材質集在視窗中高亮
 
@@ -228,7 +228,7 @@ ht-degree: 0%
 
   `mesh_uv_neighbor`新增了Substance材質與濾鏡的引擎地圖輸入。它作為 UV 平流貼圖，用來尋找 UV 島接縫的另一側。 其紅色和綠色通道儲存用來跨越 UV 接縫到達鄰近像素的紫外線對流。
 
-  欲了解更多關於這些引擎貼圖的資訊，請參閱 [專門的文件頁面](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/content/creating-custom-effects/mesh-based-input)。
+  欲了解更多關於這些引擎貼圖的資訊，請參閱 [專門的文件頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/content/creating-custom-effects/mesh-based-input)。
 
 ## 發行說明
 
