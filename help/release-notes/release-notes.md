@@ -4,9 +4,9 @@ description: 取得 Substance 3D Painter 的發行說明，隨時掌握各版本
 title: 發行說明
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
+source-git-commit: 956741845e5808dd59eda31b0c0915ce463cb87a
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 5%
 ---
 
@@ -15,10 +15,11 @@ ht-degree: 5%
 探索每個版本新增、變更或修正的所有內容：
 
 * [所有變動](all-changes.md)
+* [版本 12.2](version-12-2.md)
 * [版本 12.1](version-12-1.md)
 * [版本 12.0](version-12-0.md)
 * [版本 11.1](version-11-1.md)
 * [最新測試版](beta.md)
 * [已知問題](known-issues.md)
 
-想了解自軟體初版以來發生的所有事情，請參考「所有變更[&#128279;](all-changes.md)」頁面。
+想了解自軟體初版以來發生的所有事情，請參考「所有變更](all-changes.md)」頁面[。
