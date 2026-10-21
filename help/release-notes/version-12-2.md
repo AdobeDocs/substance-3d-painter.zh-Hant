@@ -2,9 +2,9 @@
 title: 版本 12.2
 description: 12.2 版本的發行說明
 helpx_description: "Substance 3D Painter"
-source-git-commit: 4b341d73e5dcd79cdcf601f7f12f1ffb49337b5d
+source-git-commit: 4fa8be7a1541a441d2476bc10ddddbed39c82366
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '2068'
 ht-degree: 0%
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * **改良介面**
 
-  **屬性視窗中的**&#x200B;**多邊形填充**&#x200B;設定已重新調整，使其更易於使用。選項現在以按鍵排形式顯示，讓切換模式更為快速。 新的提示圖示說明了每種模式的運作方式。
+  **屬性視窗中的****多邊形填充**&#x200B;設定已重新調整，使其更易於使用。選項現在以按鍵排形式顯示，讓切換模式更為快速。 新的提示圖示說明了每種模式的運作方式。
 
   ![](../assets/v12-2/v12_polyfill_panel.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 * **混合模式與不透明度**
 
-  **多邊形填充**&#x200B;工具現在支援所有混合模式，與圖層堆疊中可用的列表相同。例如， **線性閃避（加法）** 是將數值加到現有的，而不是替換它們。 這些模式除了不透明度滑桿外，還可在屬性&#x200B;**視窗的新**&#x200B;**混合**&#x200B;區塊中使用。**&#x200B;**&#x200B;在&#x200B;**材質**&#x200B;模式中，混合模式會套用到材質區段中啟用&#x200B;**&#x200B;**&#x200B;的所有通道。
+  **多邊形填充**&#x200B;工具現在支援所有混合模式，與圖層堆疊中可用的列表相同。例如， **線性閃避（加法）** 是將數值加到現有的，而不是替換它們。 這些模式除了不透明度滑桿外，還可在屬性&#x200B;**視窗的新****混合**&#x200B;區塊中使用。****&#x200B;在&#x200B;**材質**&#x200B;模式中，混合模式會套用到材質區段中啟用&#x200B;****&#x200B;的所有通道。
 
   ![](../assets/v12-2/v12_polyfill_blending.png)
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 欲了解更多關於多邊形填充工具的&#x200B;**資訊，請參閱[專門的文件頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/painting/paint-tools/polygon-fill)。**
+> 欲了解更多關於多邊形填充工具的&#x200B;**資訊，請參閱[專門的文件頁面](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/painting/paint-tools/polygon-fill)。**
 
 ### 烘焙模式中的新籠子彩繪
 
@@ -158,7 +158,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 想了解更多烘焙相關資訊，請參考 [專門的文件頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/baking/baking)。
+> 想了解更多烘焙相關資訊，請參考 [專門的文件頁面](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/baking/baking)。
 
 ### 新材質集在視窗中高亮
 
@@ -228,10 +228,58 @@ ht-degree: 0%
 
   `mesh_uv_neighbor`新增了Substance材質與濾鏡的引擎地圖輸入。它作為 UV 平流貼圖，用來尋找 UV 島接縫的另一側。 其紅色和綠色通道儲存用來跨越 UV 接縫到達鄰近像素的紫外線對流。
 
-  欲了解更多關於這些引擎貼圖的資訊，請參閱 [專門的文件頁面](https://experienceleague.adobe.com/zh-hant/docs/substance-3d-painter/using/content/creating-custom-effects/mesh-based-input)。
+  欲了解更多關於這些引擎貼圖的資訊，請參閱 [專門的文件頁面](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/content/creating-custom-effects/mesh-based-input)。
 
 ## 發行說明
 
 ### 12.2.0
 
-即將推出。
+上映日期： **2026/10/21**
+
+摘要： **這次更新是重大更新，新增了烘焙籠子繪畫功能，並改進了多邊形填充功能。 更多細節請參閱完整的發行說明。**
+
+**補充：**
+
+* 烘焙、籠子畫
+* &amp;lbrack;籠子繪畫&amp;rbrack; 建立基本的籠子繪畫介面
+* &amp;lbrack;籠子繪畫&amp;rbrack;新的籠子視覺化選項
+* &amp;lbrack;籠子繪畫&amp;rbrack;可編輯選取/填充工具
+* &amp;lbrack;籠子繪畫&amp;rbrack;工具列顯示混合模式
+* &amp;lbrack;籠子繪製&amp;rbrack;HDR 滑桿介面變更
+* &amp;lbrack;籠子繪畫&amp;rbrack;視覺化著色器
+* &amp;lbrack;籠子塗裝&amp;rbrack;重置堆疊選項
+* 多邊形填充工具的改進
+* &amp;lbrack;多邊形填充&amp;rbrack;新增多邊形補丁
+* &amp;lbrack;多邊形填充&amp;rbrack;新增多邊形迴圈
+* &amp;lbrack;多邊形填充與rbrack;對稱性支援與 Loop/Patch
+* &amp;lbrack;多邊形填充&amp;rbrack;對稱邊緣預覽
+* &amp;lbrack;多邊形填充&amp;rbrack;移除帶有環狀和部分環狀的三角形
+* &amp;lbrack;多邊形填充&amp;rbrack;線框僅顯示於啟用的材質集
+* &amp;lbrack;Polygon fill&amp;rbrack;不可點擊三角形上的紅色邊緣高亮
+* &amp;lbrack;Polygon fill&amp;rbrack;不要關閉填充模式選項
+* &amp;lbrack;多邊形填充&amp;rbrack;允許以多邊形填充設定所有通道屬性
+* &amp;lbrack;Polygon Fill&amp;rbrack;恢復前一筆劃，使用 Polygon Fill
+* &amp;lbrack;Polygon fill&amp;rbrack;在非活動材質集上顯示禁止游標
+* &amp;lbrack;Polygon Fill&amp;rbrack;ALT 即時預覽
+* &amp;lbrack;Polygon Fill&amp;rbrack;臨時切換到 Polyloop（SHIFT+A） 的捷徑
+* &amp;lbrack;Viewport&amp;rbrack; 顯示材質集 / UV 圖塊選取高亮
+* &amp;lbrack;Viewport&amp;rbrack; 新增即時視窗中對訂單獨立透明度的支援
+* &amp;lbrack;顯示設定&amp;rbrack;將顯示設定重新組織成新群組
+* &amp;lbrack;Tool&amp;rbrack;新增筆觸加法混合的支援
+* &amp;lbrack;Tool&amp;rbrack;新增多邊形填充的加法混合支援
+* &amp;lbrack;USD&amp;rbrack;匯出的美元搭配不透明度地圖在 Arnold 中渲染全透明
+* &amp;lbrack;Nvidia&amp;rbrack;新增關於最新 Nvidia 驅動程式（616.56 至 617.14）的警告
+* 新增新的「mesh_uv_neighbor」引擎貼圖輸入
+* 將 Baker 更新至 3.23.0 版本
+* 更新 Substance 引擎至 9.6.1 版本
+
+**修正：**
+
+* &amp;lbrack;Baking&amp;rbrack; 環境遮蔽 忽略 mesh 名稱的背面無法運作
+* &amp;lbrack;烘焙&amp;rbrack; &amp;lbrack;AMD&amp;rbrack;在使用重高多邊形網格烘焙時裝置遺失
+* &amp;lbrack;Performances&amp;rbrack; Painter 佔用 VRAM 的使用
+* &amp;lbrack;Viewport&amp;rbrack;在 HDPI 螢幕上開啟專案時缺少貼圖
+* &amp;lbrack;工具&amp;rbrack;在遮罩中繪製時，混合模式會顯示灰色
+* 匯出網路後暫存資料夾未被刪除
+* &amp;lbrack;USD&amp;rbrack;出口的美元幾何形狀沿 UV 邊界劃分
+* &amp;lbrack;USD&amp;rbrack;載入畸形USDz時凍結
