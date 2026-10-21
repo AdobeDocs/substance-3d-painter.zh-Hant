@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * **改良介面**
 
-  **屬性視窗中的****多邊形填充**&#x200B;設定已重新調整，使其更易於使用。選項現在以按鍵排形式顯示，讓切換模式更為快速。 新的提示圖示說明了每種模式的運作方式。
+  **屬性視窗中的**&#x200B;**多邊形填充**&#x200B;設定已重新調整，使其更易於使用。選項現在以按鍵排形式顯示，讓切換模式更為快速。 新的提示圖示說明了每種模式的運作方式。
 
   ![](../assets/v12-2/v12_polyfill_panel.png)
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 
 * **混合模式與不透明度**
 
-  **多邊形填充**&#x200B;工具現在支援所有混合模式，與圖層堆疊中可用的列表相同。例如， **線性閃避（加法）** 是將數值加到現有的，而不是替換它們。 這些模式除了不透明度滑桿外，還可在屬性&#x200B;**視窗的新****混合**&#x200B;區塊中使用。****&#x200B;在&#x200B;**材質**&#x200B;模式中，混合模式會套用到材質區段中啟用&#x200B;****&#x200B;的所有通道。
+  **多邊形填充**&#x200B;工具現在支援所有混合模式，與圖層堆疊中可用的列表相同。例如， **線性閃避（加法）** 是將數值加到現有的，而不是替換它們。 這些模式除了不透明度滑桿外，還可在屬性&#x200B;**視窗的新**&#x200B;**混合**&#x200B;區塊中使用。**&#x200B;**&#x200B;在&#x200B;**材質**&#x200B;模式中，混合模式會套用到材質區段中啟用&#x200B;**&#x200B;**&#x200B;的所有通道。
 
   ![](../assets/v12-2/v12_polyfill_blending.png)
 
@@ -241,45 +241,45 @@ ht-degree: 0%
 **補充：**
 
 * 烘焙、籠子畫
-* &amp;lbrack;籠子繪畫&amp;rbrack; 建立基本的籠子繪畫介面
-* &amp;lbrack;籠子繪畫&amp;rbrack;新的籠子視覺化選項
-* &amp;lbrack;籠子繪畫&amp;rbrack;可編輯選取/填充工具
-* &amp;lbrack;籠子繪畫&amp;rbrack;工具列顯示混合模式
-* &amp;lbrack;籠子繪製&amp;rbrack;HDR 滑桿介面變更
-* &amp;lbrack;籠子繪畫&amp;rbrack;視覺化著色器
-* &amp;lbrack;籠子塗裝&amp;rbrack;重置堆疊選項
+* &lbrack;籠子繪畫&rbrack; 建立基本的籠子繪畫介面
+* &lbrack;籠子繪畫&rbrack;新的籠子視覺化選項
+* &lbrack;籠子繪畫&rbrack;可編輯選取/填充工具
+* &lbrack;籠子繪畫&rbrack;工具列顯示混合模式
+* &lbrack;籠子繪製&rbrack;HDR 滑桿介面變更
+* &lbrack;籠子繪畫&rbrack;視覺化著色器
+* &lbrack;籠子塗裝&rbrack;重置堆疊選項
 * 多邊形填充工具的改進
-* &amp;lbrack;多邊形填充&amp;rbrack;新增多邊形補丁
-* &amp;lbrack;多邊形填充&amp;rbrack;新增多邊形迴圈
-* &amp;lbrack;多邊形填充與rbrack;對稱性支援與 Loop/Patch
-* &amp;lbrack;多邊形填充&amp;rbrack;對稱邊緣預覽
-* &amp;lbrack;多邊形填充&amp;rbrack;移除帶有環狀和部分環狀的三角形
-* &amp;lbrack;多邊形填充&amp;rbrack;線框僅顯示於啟用的材質集
-* &amp;lbrack;Polygon fill&amp;rbrack;不可點擊三角形上的紅色邊緣高亮
-* &amp;lbrack;Polygon fill&amp;rbrack;不要關閉填充模式選項
-* &amp;lbrack;多邊形填充&amp;rbrack;允許以多邊形填充設定所有通道屬性
-* &amp;lbrack;Polygon Fill&amp;rbrack;恢復前一筆劃，使用 Polygon Fill
-* &amp;lbrack;Polygon fill&amp;rbrack;在非活動材質集上顯示禁止游標
-* &amp;lbrack;Polygon Fill&amp;rbrack;ALT 即時預覽
-* &amp;lbrack;Polygon Fill&amp;rbrack;臨時切換到 Polyloop（SHIFT+A） 的捷徑
-* &amp;lbrack;Viewport&amp;rbrack; 顯示材質集 / UV 圖塊選取高亮
-* &amp;lbrack;Viewport&amp;rbrack; 新增即時視窗中對訂單獨立透明度的支援
-* &amp;lbrack;顯示設定&amp;rbrack;將顯示設定重新組織成新群組
-* &amp;lbrack;Tool&amp;rbrack;新增筆觸加法混合的支援
-* &amp;lbrack;Tool&amp;rbrack;新增多邊形填充的加法混合支援
-* &amp;lbrack;USD&amp;rbrack;匯出的美元搭配不透明度地圖在 Arnold 中渲染全透明
-* &amp;lbrack;Nvidia&amp;rbrack;新增關於最新 Nvidia 驅動程式（616.56 至 617.14）的警告
+* &lbrack;多邊形填充&rbrack;新增多邊形補丁
+* &lbrack;多邊形填充&rbrack;新增多邊形迴圈
+* &lbrack;多邊形填充與rbrack;對稱性支援與 Loop/Patch
+* &lbrack;多邊形填充&rbrack;對稱邊緣預覽
+* &lbrack;多邊形填充&rbrack;移除帶有環狀和部分環狀的三角形
+* &lbrack;多邊形填充&rbrack;線框僅顯示於啟用的材質集
+* &lbrack;Polygon fill&rbrack;不可點擊三角形上的紅色邊緣高亮
+* &lbrack;Polygon fill&rbrack;不要關閉填充模式選項
+* &lbrack;多邊形填充&rbrack;允許以多邊形填充設定所有通道屬性
+* &lbrack;Polygon Fill&rbrack;恢復前一筆劃，使用 Polygon Fill
+* &lbrack;Polygon fill&rbrack;在非活動材質集上顯示禁止游標
+* &lbrack;Polygon Fill&rbrack;ALT 即時預覽
+* &lbrack;Polygon Fill&rbrack;臨時切換到 Polyloop（SHIFT+A） 的捷徑
+* &lbrack;Viewport&rbrack; 顯示材質集 / UV 圖塊選取高亮
+* &lbrack;Viewport&rbrack; 新增即時視窗中對訂單獨立透明度的支援
+* &lbrack;顯示設定&rbrack;將顯示設定重新組織成新群組
+* &lbrack;Tool&rbrack;新增筆觸加法混合的支援
+* &lbrack;Tool&rbrack;新增多邊形填充的加法混合支援
+* &lbrack;USD&rbrack;匯出的美元搭配不透明度地圖在 Arnold 中渲染全透明
+* &lbrack;Nvidia&rbrack;新增關於最新 Nvidia 驅動程式（616.56 至 617.14）的警告
 * 新增新的「mesh_uv_neighbor」引擎貼圖輸入
 * 將 Baker 更新至 3.23.0 版本
 * 更新 Substance 引擎至 9.6.1 版本
 
 **修正：**
 
-* &amp;lbrack;Baking&amp;rbrack; 環境遮蔽 忽略 mesh 名稱的背面無法運作
-* &amp;lbrack;烘焙&amp;rbrack; &amp;lbrack;AMD&amp;rbrack;在使用重高多邊形網格烘焙時裝置遺失
-* &amp;lbrack;Performances&amp;rbrack; Painter 佔用 VRAM 的使用
-* &amp;lbrack;Viewport&amp;rbrack;在 HDPI 螢幕上開啟專案時缺少貼圖
-* &amp;lbrack;工具&amp;rbrack;在遮罩中繪製時，混合模式會顯示灰色
+* &lbrack;Baking&rbrack; 環境遮蔽 忽略 mesh 名稱的背面無法運作
+* &lbrack;烘焙&rbrack; &lbrack;AMD&rbrack;在使用重高多邊形網格烘焙時裝置遺失
+* &lbrack;Performances&rbrack; Painter 佔用 VRAM 的使用
+* &lbrack;Viewport&rbrack;在 HDPI 螢幕上開啟專案時缺少貼圖
+* &lbrack;工具&rbrack;在遮罩中繪製時，混合模式會顯示灰色
 * 匯出網路後暫存資料夾未被刪除
-* &amp;lbrack;USD&amp;rbrack;出口的美元幾何形狀沿 UV 邊界劃分
-* &amp;lbrack;USD&amp;rbrack;載入畸形USDz時凍結
+* &lbrack;USD&rbrack;出口的美元幾何形狀沿 UV 邊界劃分
+* &lbrack;USD&rbrack;載入畸形USDz時凍結
