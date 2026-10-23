@@ -4,7 +4,7 @@ description: 開始使用 Substance 3D Painter，直接在 3D 模型上繪製貼
 title: Substance 3D Painter
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 6b6d52207ca1d043aaa1b2b14145b6b49d4c1942
+source-git-commit: 99552782763c4f8313c5f8e7aeeb3a860ecf943d
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 2%
@@ -116,7 +116,6 @@ Substance 3D Painter 是一款 3D 繪畫軟體，讓你能為 3D 網格做貼圖
 ### 發行說明
 
 * [所有變動](release-notes/all-changes.md)
-* [版本 11.1](release-notes/version-11-1.md)
-* [版本 11.0](release-notes/version-11-0.md)
-* [版本 10.1](release-notes/version-10-1.md)
-
+* [版本 12.2](release-notes/version-12-2.md)
+* [版本 12.1](release-notes/version-12-1.md)
+* [版本 12.0](release-notes/version-12-0.md)
