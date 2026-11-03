@@ -19,13 +19,13 @@ ht-degree: 0%
 
 **補充**：
 
-* &amp;lbrack;Baking&amp;rbrack;高多邊形匹配錯誤視覺化使用 Match-by-Name
+* &lbrack;Baking&rbrack;高多邊形匹配錯誤視覺化使用 Match-by-Name
 
 **修正**：
 
-* &amp;lbrack;Python&amp;rbrack;有些已棄用函式會發出警告，但不會說明是誰
-* &amp;lbrack;Baking&amp;rbrack;籠狀幾何體在一個UV島上繪製時可能會有洞
-* &amp;lbrack;Mac&amp;rbrack;&amp;lbrack;Baking&amp;rbrack; 烘焙模式視窗中籠狀繪畫的效能問題
+* &lbrack;Python&rbrack;有些已棄用函式會發出警告，但不會說明是誰
+* &lbrack;Baking&rbrack;籠狀幾何體在一個UV島上繪製時可能會有洞
+* &lbrack;Mac&rbrack;&lbrack;Baking&rbrack; 烘焙模式視窗中籠狀繪畫的效能問題
 
 ### **第一組**
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
 **修正**：
 
-* &amp;lbrack;Baking&amp;rbrack;在 Mac 烘焙模式下的視窗（cage painting）效能問題。
+* &lbrack;Baking&rbrack;在 Mac 烘焙模式下的視窗（cage painting）效能問題。
