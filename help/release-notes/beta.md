@@ -1,7 +1,7 @@
 ---
 description: 了解目前的 Substance 3D Painter 測試版，包括新功能與完整更新日誌。
 title: 測試版釋出
-source-git-commit: 1df909bd0658eac40b726b493e73758e64c01d16
+source-git-commit: d84430d131a0857e981006698faf536d59aa707b
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ### **建構 2**
 
-發行日期： **2026年10月29日**
+上映日期： **2026年11月2日**
 
 **補充**：
 
-* &lbrack;Baking&rbrack;高多邊形匹配錯誤視覺化使用 Match-by-Name
+* &amp;lbrack;Baking&amp;rbrack;高多邊形匹配錯誤視覺化使用 Match-by-Name
 
 **修正**：
 
-* &lbrack;Python&rbrack;有些已棄用函式會發出警告，但不會說明是誰
-* &lbrack;Baking&rbrack;籠狀幾何體在一個UV島上繪製時可能會有洞
-* &lbrack;Mac&rbrack;&lbrack;Baking&rbrack; 烘焙模式視窗中籠狀繪畫的效能問題
+* &amp;lbrack;Python&amp;rbrack;有些已棄用函式會發出警告，但不會說明是誰
+* &amp;lbrack;Baking&amp;rbrack;籠狀幾何體在一個UV島上繪製時可能會有洞
+* &amp;lbrack;Mac&amp;rbrack;&amp;lbrack;Baking&amp;rbrack; 烘焙模式視窗中籠狀繪畫的效能問題
 
 ### **第一組**
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
 **修正**：
 
-* &lbrack;Baking&rbrack;在 Mac 烘焙模式下的視窗（cage painting）效能問題。
+* &amp;lbrack;Baking&amp;rbrack;在 Mac 烘焙模式下的視窗（cage painting）效能問題。
