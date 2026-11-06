@@ -1,9 +1,9 @@
 ---
 description: 了解目前的 Substance 3D Painter 測試版，包括新功能與完整更新日誌。
 title: 測試版釋出
-source-git-commit: d84430d131a0857e981006698faf536d59aa707b
+source-git-commit: 3f87068a5a29fd50d7b1e3857691e9a396775175
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '196'
 ht-degree: 0%
 ---
 
@@ -13,7 +13,15 @@ ht-degree: 0%
 
 此 Substance 3D Painter 測試版新增了對 Windows on ARM （ARM64） 系統的原生支援。 隨著團隊努力提升穩定性，預計未來幾週會有更多新版本釋出。
 
-### **建構 2**
+### 第三組
+
+**修正**：
+
+* &lbrack;Mac&rbrack;&lbrack;OpenPBR&rbrack; 視口中帶有特定次表面半徑縮放值的貼圖瑕疵
+* &lbrack;Mac&rbrack;顯示設定中材質過濾的 Mipmap 偏見無影響
+* &lbrack;Windows&rbrack;&lbrack;Nvidia&rbrack;產生畫筆與材質預覽可導致TDR
+
+### 建構 2
 
 上映日期： **2026年11月2日**
 
@@ -27,7 +35,7 @@ ht-degree: 0%
 * &lbrack;Baking&rbrack;籠狀幾何體在一個UV島上繪製時可能會有洞
 * &lbrack;Mac&rbrack;&lbrack;Baking&rbrack; 烘焙模式視窗中籠狀繪畫的效能問題
 
-### **第一組**
+### 第一組
 
 發行日期： **2026年10月21日**
 
