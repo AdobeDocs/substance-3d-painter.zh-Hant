@@ -4,9 +4,9 @@ description: 請檢視 Substance 3D Painter 的系統需求，確保您的電腦
 title: 系統需求
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: fbfe7e52b226b5a92f5b46ebbf82728f0ff9e3c5
+source-git-commit: 0937bc291815e86b7a33d804729dbef599748d13
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '798'
 ht-degree: 0%
 ---
 
@@ -56,9 +56,8 @@ ht-degree: 0%
 其他事項：
 
 * 許多 Substance 應用程式依賴 OpenSSL 1.1.1 來相容 RHEL8/9。 對於使用較新版本 OpenSSL 的系統，客戶需手動提供
-* 在舒適環境下工作時，我們建議使用垂直解析度超過 1000 像素且寬度超過 1280 像素的螢幕。
-* 要以 8K **（8192/*8192 像素）匯**&#x200B;出，需要一顆超過 **&#x200B;**&#x200B;2GB VRam 的 GPU。
-* 只有 2019.x 及以上版本經過公證，才能在 MacOS 10.15（Catalina）上運行。
+* 為了舒適的工作環境，我們建議使用垂直解析度大於1000像素且寬度超過1280像素的螢幕。
+* 顯示卡在顯示記憶體少&#x200B;**於 2GB 的 GPU 上無法支援 8K**（8192/*8192 像素）的匯出&#x200B;**。**
 * 若要透過遠端桌面（RDP）使用該軟體，請參閱專門的文件 [頁面](../pipeline-and-integration/configuration/remote-desktop.md)。
 * Ryzen CPU 烘焙時會當機，可以透過更新 BIOS 來解決。
 
