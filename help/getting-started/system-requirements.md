@@ -165,7 +165,7 @@ ht-degree: 0%
 
 ## 支援的 3Dconnexion SpaceMouse 模型
 
-以下是已在 Substance 3D Painter 8.1 版本&#x200B;**測試過的 3Dconnection 太空滑鼠](https://3dconnexion.com/us/spacemouse/)相容驅動版本[列表。**
+以下是已在 Substance 3D Painter 8.1 版本&#x200B;**測試過的 3Dconnection 太空滑鼠[&#128279;](https://3dconnexion.com/us/spacemouse/)相容驅動版本列表。**
 
 驅動版本適用於 **緊湊型**、 **專業** 版及 **企業** 版。
 
