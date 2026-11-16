@@ -4,9 +4,9 @@ description: 檢視 Substance 3D Painter 已知的問題，以掌握最新版本
 title: 已知問題
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 08fc43babcb6f7a9be61508748c4068b6bd0c8b6
+source-git-commit: a03b6eb503f036d0ea991ebffe4996fde2f0ffb9
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '925'
 ht-degree: 0%
 ---
 
@@ -15,7 +15,6 @@ ht-degree: 0%
 本頁列出 Substance 3D Painter v12.2.0 中所有已知的活躍問題：
 
 * `[Baking]` 簡單方塊上的AO錯誤
-* `[Baking]` 以姓名匹配後綴的解釋是錯誤的
 * `[Baking]` MES 重新進口後，UV 接縫就不會出現了
 * `[Baking]` 帶有某些設定的網格狀雜訊
 
